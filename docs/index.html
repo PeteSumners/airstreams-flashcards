@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OSHA 10HR Training Flashcards - Airstreams Renewables</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>OSHA 10HR Construction Training</h1>
+            <p class="subtitle">Airstreams Renewables - Tehachapi, CA</p>
+        </header>
+
+        <div class="stats">
+            <div class="stat-box">
+                <span class="stat-number" id="current">0</span>
+                <span class="stat-label">Current</span>
+            </div>
+            <div class="stat-box">
+                <span class="stat-number" id="total">371</span>
+                <span class="stat-label">Total Cards</span>
+            </div>
+            <div class="stat-box">
+                <span class="stat-number" id="studied">0</span>
+                <span class="stat-label">Studied</span>
+            </div>
+        </div>
+
+        <div class="card-container">
+            <div class="flashcard" id="flashcard">
+                <div class="card-face front">
+                    <div class="card-content">
+                        <p id="question">Click "Start Studying" to begin!</p>
+                    </div>
+                </div>
+                <div class="card-face back">
+                    <div class="card-content">
+                        <p id="answer">Answer will appear here</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="controls">
+            <button class="btn btn-primary" id="startBtn" onclick="startStudying()">Start Studying</button>
+            <button class="btn btn-secondary" id="flipBtn" onclick="flipCard()" style="display:none;">Show Answer</button>
+            <div class="nav-buttons" id="navButtons" style="display:none;">
+                <button class="btn btn-small" onclick="previousCard()">← Previous</button>
+                <button class="btn btn-small" onclick="nextCard()">Next →</button>
+                <button class="btn btn-small btn-shuffle" onclick="shuffleCards()">🔀 Shuffle</button>
+            </div>
+        </div>
+
+        <div class="mode-toggle">
+            <label>
+                <input type="checkbox" id="autoFlip" onchange="toggleAutoFlip()">
+                Auto-flip mode
+            </label>
+        </div>
+
+        <footer>
+            <p>Created from OSHA training videos using <a href="https://github.com/PeteSumners/training-video-flashcards" target="_blank">training-video-flashcards</a></p>
+            <p class="share-text">💡 Share this URL with your training cohort!</p>
+        </footer>
+    </div>
+
+    <script src="flashcards.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

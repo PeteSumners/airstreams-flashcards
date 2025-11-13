@@ -1,0 +1,141 @@
+Out of 5,486 worker fatalities in 2022, how many were in construction?	1,069 fatalities were in construction.
+How many construction worker deaths were caused by falls in 2022?	406 deaths (the leading cause among the "Focus Four").
+What are the four "Focus Four" fatality causes in construction and how many deaths did each cause in 2022?	1) Falls: 406, 2) Struck by object: 85, 3) Electrocutions: 64, 4) Caught-in or between: 53.
+At what height must open-sided floors and platforms be guarded according to OSHA?	6 feet or more (29CFR 1926.500).
+Falls from as little as what height can cause serious accidents and sometimes death?	4 to 6 feet.
+What is the leading cause of deaths in the construction industry?	Falls are the leading cause of deaths in the construction industry.
+Where do most fall fatalities occur?	From open-sided floors and through floor openings.
+At what height must you be protected if you can fall more than this distance in construction?	6 feet (1926.501).
+What are the three main methods of fall protection for workers?	Guardrails, Safety Nets, and Personal Fall Arrest Systems (PFAS).
+What does ABC stand for in fall protection?	A = Anchorage, B = Body Harness, C = Connectors.
+What must be in place before you start work at heights?	Fall protection systems and work practices must be in place before you start work.
+How high must the top rail of a guardrail be above the walking/working surface?	42 inches (plus or minus 3 inches).
+What is the minimum height requirement for a toe board in a guardrail system?	At least 3.5 inches in height from top edge to floor level.
+How much force must a toe board be capable of withstanding?	A force of 50 pounds applied in any direction.
+What force must guardrail systems be designed to withstand?	At least 200 lbs.
+When must safety nets be provided?	When workplaces are more than 25 feet above the ground or water surface, or other surfaces where the use of ladders, scaffolds, catch platforms, temporary floors, safety lines, or safety belts is impractical.
+How far must safety nets extend beyond the edge of the work surface?	8 feet beyond the edge of the work surface where employees are exposed.
+What is the minimum impact resistance required for safety nets?	17,500 foot-pounds minimum impact resistance as certified by manufacturers and labeled with proof test.
+What is the minimum breaking strength required for safety net edge ropes?	5,000 pounds.
+What does PFAS stand for?	Personal Fall Arrest System.
+What are the three components of a PFAS?	Anchorage, Body Harness, and Connectors.
+Should PPE be used to hoist workers or objects?	Never use PPE to hoist workers or objects.
+What must employers do before employees use PFAS?	Employer must train employees before use.
+What is the minimum weight capacity required for anchorages used for fall arrest equipment?	At least 5,000 pounds per employee attached (1926.502).
+Must anchorages for personal fall arrest equipment be independent of other support systems?	Yes, they must be independent of any anchorage being used to support or suspend platforms and capable of supporting at least 5,000 pounds per employee attached.
+As of what date was the use of body belts for fall arrest prohibited by OSHA?	January 1, 1998.
+Why are body belts prohibited for fall arrest?	They can cause damage to spine and internal organs.
+What is the average tolerable suspension time in a harness?	90 seconds.
+What is the maximum arresting force rating for a body belt?	Only 900 pounds of arresting force.
+What may body belts be used for?	Work restraint only (not fall arrest).
+What is the maximum arresting force on an employee when using a full body harness?	1800 lbs (8 kN) according to OSHA 1926.502(d)(16)(i).
+What body parts does a full body harness distribute fall arrest forces over?	At least the upper thighs, pelvis, chest, and shoulders.
+What do connectors do in a fall protection system?	They connect an employee to an anchor point and must withstand arresting forces and decelerate the energy produced during a fall.
+What is the purpose of a fall arrest lanyard's stretching or tearing system?	To absorb shock, prevent bouncing, and reduce arresting forces.
+Approximately how much force is required before a lanyard begins elongation?	Approximately 450 lbs.
+What are three types of deceleration devices?	Self-Retracting Lifelines (SRL) or lanyards, Rope grab device, and Rip-stitch, tearing, or stretching lanyard.
+What happens to fall speed and arresting forces as you fall farther?	The farther you fall, the faster you fall. The faster you fall, the greater the arresting forces become.
+What is the best way to reduce arresting forces applied to your body?	Limit your fall distance and use a deceleration device.
+What factors determine fall clearance distance?	Length of lanyard, length of deployed energy absorber, height of worker, and safety factor.
+When must fall protection equipment be inspected?	Before every use.
+What should you check during a fall protection equipment inspection?	Visual, tactile, function; cuts, tears, abrasions, stitches coming out; cracks or burrs; parts move freely; no alterations; appropriate labels.
+What must each worksite or facility have regarding fall protection?	A rescue plan.
+What must be done with employees regarding the rescue plan?	Employees must be trained on the plan.
+What should be limited regarding suspension time?	Limit hanging/suspension time.
+What are six major types of fall hazards in construction?	Unprotected roof edges, roof/floor openings, structural steel and leading edges, improper scaffold construction, unsafe portable ladders, failing to practice 100% tie off using fall protection.
+What must be done with holes more than 6 feet high?	They must be protected.
+How can floor holes be made safe?	Must be completely covered and secured, or if no cover, guard open hold with a guard rail.
+What protection is required when working on formwork or rebar?	Use PFAS when working on formwork or rebar. Cover or cap protruding rebar.
+How far must a ladder extend above the working surface?	It must extend 3 feet above the working surface.
+Is the top step of an A-frame ladder considered a step?	No, the top step of an A-frame ladder is NOT A STEP.
+What percentage of the U.S. workforce is construction, and what percentage of occupational fatalities does it account for?	Approximately 8% of the U.S. workforce, yet accounts for 44% of occupational fatalities.
+How many deaths and injuries do electrical hazards cause in the workplace each year?	More than 300 deaths and 4,000 injuries.
+What are the six types of electrical hazards that expose workers to serious workplace hazards?	Burns, electrocution, shock, arc flash/arc blast, fire, and explosions.
+What OSHA regulation covers installation safety requirements for the construction industry?	29 CFR Subpart K, 1926.402 through 1926.408.
+What is the minimum clearance distance for overhead power lines up to 50 kV?	10 feet.
+What is the minimum clearance distance for overhead power lines >50 to 200 kV?	15 feet.
+What is the minimum clearance distance for overhead power lines >200 to 350 kV?	20 feet.
+What does GFCI stand for and what does it do?	Ground Fault Circuit Interrupter - a receptacle with overcurrent protection capabilities.
+When must extension cords be inspected?	Before each use.
+What does LOTO stand for in safety-related work practices?	Lockout Tagout.
+How does OSHA define a "Struck By" injury?	Injuries produced by forcible contact or impact between the injured person and an object or piece of equipment.
+What are the four common types of struck-by hazards?	Struck by flying object, struck by falling object, struck by swinging object, and struck by rolling object or ground level object.
+At what PSI can air pressure drive oils and other particles through your skin?	Above 30 psi.
+Should you work under loads as they are being lifted?	No, do not work under loads as they are being lifted.
+What PPE should be worn when overhead hazards exist?	Wear a hardhat if overhead hazards exist.
+How does OSHA define a caught-in or between injury?	Injuries resulting from a person being squeezed, caught, crushed, pinched, or compressed between two or more objects, or between parts of an object.
+How many construction worker deaths were caused by caught-in or between hazards in 2022?	53 deaths.
+According to the Hierarchy of Controls, where does PPE rank in effectiveness?	PPE is the last level of control (least effective).
+What are the six levels of the Hierarchy of Control from most to least effective?	Elimination, Substitution, Isolation (Engineering Controls), Engineering Controls, Administrative Controls, and PPE.
+What are the three minimum PPE requirements on a job site?	Hard hat, safety glasses, and safety toe boots.
+What are the three main causes of head injuries?	Falling objects such as tools, bumping head against objects such as pipes or beams, and contact with exposed electrical wiring or components.
+What are the three classes of hard hats and their voltage ratings?	Class G (General) 2,200 V, Class E (Electrical) 20,000 volts, and Class C (Conductive, usually aluminum).
+How many U.S. workers have a job-related eye injury requiring medical treatment each day?	About 2000 U.S. workers.
+What standard must eye and face protection comply with?	ANSI (American National Standards Institute).
+What does ANSI Z87+ certify?	ANSI Certified for High Impact.
+When must hearing protection be provided according to OSHA?	When an employee's noise exposure exceeds an 8-hour time-weighted average (TWA) sound level of 90 dBA.
+What eight types of injuries must hand protection prevent?	Burns, bruises, abrasions, cuts, punctures, fractures, amputations, and chemical exposures.
+What type of rubber glove protects against solvents, harsh chemicals, fats/petroleum products, and provides excellent resistance to cuts and abrasions?	Nitrile gloves.
+What are three key limitations of PPE?	PPE must be used properly to be effective; no one type of PPE works for every hazard; PPE devices alone should not be relied on to provide protection against hazards.
+What did OSHA create to help ensure safety when working with hazardous chemicals?	The Hazard Communication Standard.
+What are the two main categories of chemical hazards?	Physical hazards (flammable, explosive, reactive) and health hazards (corrosive, toxic).
+What exposure limit abbreviation stands for Permissible Exposure Limit?	PEL.
+What exposure limit abbreviation stands for Threshold Limit Value?	TLV.
+What is the basic first aid for eye exposure to hazardous materials?	Flush with water for 15 minutes.
+What are the four routes of entry for chemical hazards?	Skin and eye contact, inhalation, swallowing, and penetration (skin absorption).
+In the NFPA labeling system, what does blue represent?	Health hazard.
+In the NFPA labeling system, what does red represent?	Flammability.
+In the NFPA labeling system, what does yellow represent?	Reactivity.
+What is the NFPA hazard rating scale?	0 (No Hazard) to 4 (Extreme Hazard).
+What OSHA standard covers respiratory protection?	29 CFR 1910.134.
+What does 29 CFR 1910.134 require?	A written program, employee training, medical evaluation, and fit-testing.
+What must respiratory protection programs use?	NIOSH-approved respirators only.
+How often must respirator fit-testing be conducted?	Annually (must be conducted annually).
+What are five examples of dusts and fibers found in construction?	Crystalline silica, asbestos, metal dusts, lead-based paint, and fiberglass.
+What health condition can result from inhaling smaller particles of crystalline silica deep into the lungs?	Silicosis (leading to silicosis).
+What OSHA standard covers asbestos?	29 CFR 1926.1101.
+What OSHA standard covers confined spaces?	29 CFR 1926 subpart AA.
+What are the three criteria that define a permit-required confined space per 29 CFR 1926 subpart AA?	(1) Limited means of egress, (2) can be bodily entered, (3) not designed for continuous occupancy. All 3 must be met to deem a space as "confined."
+What is the oxygen deficiency level that defines a confined space hazard?	19.5% or less.
+What is the oxygen enrichment level that defines a confined space hazard?	23.5% or higher.
+In what order must hazards be tested before entering a confined space?	(1) Oxygen content, (2) combustibility/flammability, (3) toxic atmospheres.
+What OSHA standard covers hearing protection?	29 CFR 1926.52.
+What is the permissible exposure limit (PEL) for noise for an 8-hour time weighted average (TWA)?	90 dBA.
+How long can workers be exposed to 90 dBA before hearing protection is required?	8 hours.
+How long can workers be exposed to 105 dBA before hearing protection is required?	1 hour.
+How long can workers be exposed to 115 dBA before hearing protection is required?	15 minutes.
+What tool is used to measure area noise level?	Sound Level Meter.
+What tool is used to measure personal noise exposure level?	Noise Dosimeter.
+By how many decibels can ear plugs reduce noise?	As much as 30 decibels.
+When should ear muffs be used in conjunction with ear plugs?	When exposed to high noise levels (105+ decibels).
+Is hearing loss cumulative?	Yes, hearing loss is cumulative over your lifetime.
+Is hearing loss permanent?	Yes, hearing loss is permanent.
+What is a major cause of back injuries in the workplace?	Lifting objects.
+What are the key principles of safe lifting?	Break load into parts; get help with heavy or bulky items; lift with legs, keep back straight, do not twist; use handling aids (steps, trestles, shoulder pads, handles, wheels); avoid lifting above shoulder level.
+Where should the load be centered on a forklift and why?	Center the load on the forks and as close to the mast as possible to minimize the potential for the truck tipping or load falling.
+What safety equipment must earthmoving equipment provide?	Must provide seat belts.
+How often must slings be inspected?	Each day before use and where service conditions warrant.
+What should be done with damaged or defective slings?	Remove them from service if damaged or defective.
+What is the best choice for hoisting very hot materials?	Alloy steel chain (adapts to shape of the load; best choice for hoisting very hot materials).
+What is the maximum height for stacking bricks?	Do not stack them more than 7 feet high.
+At what height or more must employees have fall protection?	Employees working above 6 feet or more must have fall protection.
+When must you use an enclosed chute when dropping material outside a building?	When you drop material more than 20 feet outside of a building.
+What are the three main hazard categories for workers using hand and power tools?	Objects that fall, fly, are abrasive, or splash; harmful dusts, fumes, mists, vapors, and gases; frayed or damaged electrical cords, hazardous connections, and improper grounding.
+What are the six basic tool safety practices?	Maintain regularly; use right tool for the job; inspect before use; operate according to manufacturer's instructions; use the right personal protective equipment (PPE); use guards.
+What are the five types of power tools determined by their power source?	Electric; pneumatic; liquid fuel; hydraulic; powder-actuated.
+What must power tools be fitted with?	Guards and safety switches.
+What is the main hazard of pneumatic tools?	Getting hit by a tool attachment or by a fastener the worker is using with the tool.
+Is compressed air allowed for cleaning?	Do not use compressed air for cleaning.
+What is the exception for using compressed air for cleaning?	Exception: where pressure is reduced to less than 30 psi with effective chip guarding and PPE.
+What is the main hazard of liquid fuel tools?	Fuel vapors.
+What training is required for powder-actuated tool operators?	User must be trained and licensed to operate.
+What must be marked on all jacks and must not be exceeded?	The manufacturer's rated capacity.
+What is an excavation?	A man-made cut, cavity, trench, or depression formed by earth removal.
+What is a trench?	A narrow excavation where the depth is greater than the width, but not wider than 15 feet.
+What is the greatest risk at an excavation?	Cave-ins.
+What five factors must be considered when designing a protective system for excavations?	Soil classification, depth of cut, water content of soil, weather and climate, and other operations in the vicinity.
+How far from the edge of an excavation should spoils not be placed?	Within 2 feet from edge of excavation.
+At what excavation depth must testing be done before employee entry?	More than 4 feet deep.
+In excavations 4 or more feet deep, within what distance must a means of egress be provided?	Within 25 feet of employees.
+What three topics must a competent person have specific training in and be knowledgeable about?	Soils classification, use of protective systems, and requirements of the standard.
+When must a competent person make daily inspections of excavations?	Before work starts and as needed; after rainstorms, high winds or other occurrence which may increase hazards; and when you can reasonably anticipate an employee will be exposed to hazards.
