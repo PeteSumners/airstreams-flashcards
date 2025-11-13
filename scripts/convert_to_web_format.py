@@ -52,7 +52,7 @@ def convert_to_javascript(flashcards, module_name, module_title):
 // Auto-generated - Do not edit directly
 // Generated from: modules/{module_name}/flashcards.txt
 
-const flashcards = [
+flashcards = [
 '''
 
     for i, card in enumerate(flashcards):

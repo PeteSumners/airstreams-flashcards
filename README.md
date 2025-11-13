@@ -45,24 +45,18 @@ Perfect for OSHA certifications, technical training, safety courses, and any vid
 
 ### For Trainers (Want to Add Content)
 
-See [ADD_NEW_MODULE.md](ADD_NEW_MODULE.md) for complete guide.
-
-**Quick version:**
+**Super Easy - Automated:**
 ```bash
-# 1. Extract slides from video
-python deduplicate_video.py "training-videos/YourVideo.mp4" 0.97
+# 1. Drop video in training-videos/
+# 2. Run automation script
+python add_module.py
 
-# 2. Create flashcards with Claude Code
-# (Ask Claude to generate flashcards from the extracted slides)
-
-# 3. Convert to web format
-python scripts/convert_to_web_format.py modules/your-module/flashcards.txt
-
-# 4. Add to docs/modules.json
-
-# 5. Push to GitHub
-git add . && git commit -m "Add new training module" && git push
+# That's it! Script guides you through the rest.
 ```
+
+See [QUICK_START.md](QUICK_START.md) for walkthrough.
+
+**Manual Control:** See [ADD_NEW_MODULE.md](ADD_NEW_MODULE.md) for step-by-step.
 
 ## Current Modules
 
