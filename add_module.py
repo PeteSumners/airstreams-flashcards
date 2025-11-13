@@ -22,8 +22,8 @@ def print_header(text):
     print("="*60 + "\n")
 
 def get_video_files():
-    """Find video files in training-videos folder."""
-    video_dir = Path("training-videos")
+    """Find video files in source-videos folder."""
+    video_dir = Path("source-videos")
     if not video_dir.exists():
         video_dir.mkdir()
         return []
@@ -64,9 +64,9 @@ def main():
     videos = get_video_files()
 
     if not videos:
-        print("📹 No videos found in training-videos/ folder")
-        print("\nPlace your training video in training-videos/ and run again.")
-        print("Example: training-videos/Electrical-Safety.mp4")
+        print("📹 No videos found in source-videos/ folder")
+        print("\nPlace your source video in source-videos/ and run again.")
+        print("Example: source-videos/Electrical-Safety.mp4")
         sys.exit(0)
 
     print("Found videos:")

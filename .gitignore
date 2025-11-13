@@ -40,6 +40,10 @@ frames/
 test_output/
 slides/
 
+# Allow docs/downloads for GitHub Pages hosting
+!docs/downloads/
+!docs/downloads/*.zip
+
 # OCR model cache
 .paddleocr/
 .EasyOCR/

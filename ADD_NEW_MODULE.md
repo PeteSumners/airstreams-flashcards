@@ -14,10 +14,10 @@ This guide shows you how to add new training flashcards to the Airstreams Traini
 
 ### Step 1: Extract Slides from Training Video
 
-Place your training video in the `training-videos/` folder, then run:
+Place your source video in the `source-videos/` folder, then run:
 
 ```bash
-python deduplicate_video.py "training-videos/YourVideo.mp4" 0.97
+python deduplicate_video.py "source-videos/YourVideo.mp4" 0.97
 ```
 
 This will create:
@@ -140,7 +140,7 @@ airstreams-flashcards/
 │   ├── style.css
 │   ├── modules.json                 # ← Add your module here
 │   └── flashcards-module-name.js    # ← Your web flashcards
-└── training-videos/
+└── source-videos/
     └── YourVideo.mp4                # Optional: keep source videos
 ```
 
@@ -148,7 +148,7 @@ airstreams-flashcards/
 
 ```bash
 # 1. Extract slides
-python deduplicate_video.py "training-videos/Electrical-Safety.mp4" 0.97
+python deduplicate_video.py "source-videos/Electrical-Safety.mp4" 0.97
 
 # 2. Create flashcards with Claude
 # (manually create: modules/electrical-safety/flashcards.txt)
@@ -209,7 +209,7 @@ git push
 - **Naming Convention:** Use lowercase-with-hyphens for IDs
 - **Card Count:** Count flashcards before adding to modules.json
 - **Testing:** Always test locally before pushing
-- **Backup:** Keep original video files in `training-videos/`
+- **Backup:** Keep original video files in `source-videos/`
 - **Version Control:** Commit after each module addition
 
 ## Share with Your Cohort

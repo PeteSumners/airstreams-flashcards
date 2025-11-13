@@ -47,7 +47,7 @@ Perfect for OSHA certifications, technical training, safety courses, and any vid
 
 **Super Easy - Automated:**
 ```bash
-# 1. Drop video in training-videos/
+# 1. Drop video in source-videos/
 # 2. Run automation script
 python add_module.py
 
@@ -176,7 +176,7 @@ airstreams-flashcards/
 │   ├── modules.json              # Module definitions (JSON)
 │   └── flashcards-*.js           # Flashcards per module (JS)
 │
-├── training-videos/              # Source videos (optional)
+├── source-videos/                # Source videos (optional)
 │   └── *.mp4
 │
 ├── scripts/                      # Helper scripts

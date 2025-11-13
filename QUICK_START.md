@@ -4,10 +4,10 @@ Super simple! Just 3 steps:
 
 ## 1. Drop Your Video
 
-Put your training video in the `training-videos/` folder:
+Put your source video in the `source-videos/` folder:
 
 ```
-training-videos/
+source-videos/
 └── Electrical-Safety.mp4  ← Your video here
 ```
 
@@ -162,7 +162,7 @@ https://petesumners.github.io/airstreams-flashcards/?module=electrical-safety
 
 No manual file editing. No command-line juggling. Just:
 
-1. **Drop video** in `training-videos/`
+1. **Drop video** in `source-videos/`
 2. **Run** `python add_module.py`
 3. **Generate flashcards** with Claude when prompted
 4. **Done!**
@@ -183,7 +183,7 @@ Your module is live and ready to share!
 ## Troubleshooting
 
 **Script can't find video?**
-- Check the video is in `training-videos/` folder
+- Check the video is in `source-videos/` folder
 - Make sure it has a common video extension (.mp4, etc)
 
 **No slides extracted?**
