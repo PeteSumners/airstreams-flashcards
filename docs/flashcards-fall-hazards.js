@@ -17,7 +17,7 @@
  * Data source: OSHA construction industry regulations and statistics
  */
 
-const flashcards = [
+flashcards = [
     { question: "Out of 5,486 worker fatalities in 2022, how many were in construction?", answer: "1,069 fatalities were in construction." },
     { question: "How many construction worker deaths were caused by falls in 2022?", answer: "406 deaths (the leading cause among the \"Focus Four\")." },
     { question: "What are the four \"Focus Four\" fatality causes in construction and how many deaths did each cause in 2022?", answer: "1) Falls: 406, 2) Struck by object: 85, 3) Electrocutions: 64, 4) Caught-in or between: 53." },
