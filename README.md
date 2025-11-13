@@ -1,249 +1,357 @@
-# Training Video Flashcards
+# Airstreams Training Flashcards
 
-Extract slides from training presentation videos and convert them into flashcards for study and sharing.
+Multi-module flashcard system for all Airstreams Renewables training courses.
 
-Perfect for creating study materials from safety training, OSHA courses, technical training, and any video-based presentations. Designed for Airstreams Renewables training in Tehachapi, CA.
+**Live App:** https://petesumners.github.io/airstreams-flashcards/
 
-## Why This Tool?
+Built for Airstreams Renewables - Tehachapi, CA
 
-Training videos contain tons of information, but it's hard to study from them. This tool:
+## What Is This?
 
-1. **Extracts all unique slides** from your training videos automatically
-2. **Removes duplicates** so you only get unique content
-3. **Makes flashcards easy to create** - extracted slides are ready for OCR and conversion
-4. **Shareable** - Export text-based flashcards perfect for GroupMe, text messages, or study groups
+A complete system to:
+1. Extract slides from any training video
+2. Convert them to flashcards with AI
+3. Study on any device (web, phone, Anki, Quizlet)
+4. Share with your training cohort
 
-## Quick Start
-
-### Extract Slides from a Training Video
-
-```bash
-# Process a full training video
-python deduplicate_video.py "OSHA Powerpoint.mp4"
-
-# Adjust sensitivity (0.97 is good for most training videos)
-python deduplicate_video.py "Safety Training.mp4" 0.97
-```
-
-This will create:
-- `test_output/1_before_dedup/` - All extracted frames
-- `test_output/2_after_dedup/` - Unique slides only
-
-### Create Flashcards
-
-Once you have extracted slides, use Claude Code to convert them to flashcards:
-
-```
-Please read all the slides in test_output/2_after_dedup/ and create
-flashcards in Q&A format. Make them easy to share in GroupMe.
-```
-
-Claude will create text-based flashcards you can easily copy/paste into:
-- GroupMe chats with your training cohort
-- Text messages
-- Study notes
-- Anki or Quizlet
+Perfect for OSHA certifications, technical training, safety courses, and any video-based learning.
 
 ## Features
 
-- **Full Video Processing**: Processes entire training videos (no frame limits)
-- **Smart Deduplication**: Removes duplicate slides while keeping all unique content
-- **Conservative Settings**: Set to capture all training content (threshold 0.97)
-- **Minimal Filtering**: Disabled motion/blur detection to ensure no slides are missed
-- **High Quality Output**: Saves slides as clear JPG images ready for OCR
+✅ **Multi-Module Support** - Unlimited training courses in one place
+✅ **Web-Based** - No installation, works on any device
+✅ **Mobile-Friendly** - Study on your phone
+✅ **Offline Compatible** - Anki & Quizlet exports
+✅ **Easy Sharing** - Just share the URL
+✅ **Open Source** - Free forever
 
-## Installation
+## Quick Start
 
+### For Students (Just Want to Study)
+
+1. Visit: https://petesumners.github.io/airstreams-flashcards/
+2. Select a training module
+3. Start studying!
+
+**Keyboard Shortcuts:**
+- Space/Enter: Flip card
+- Arrow Right/N: Next card
+- Arrow Left/P: Previous card
+- S: Shuffle
+- Escape: Back to modules
+
+### For Trainers (Want to Add Content)
+
+See [ADD_NEW_MODULE.md](ADD_NEW_MODULE.md) for complete guide.
+
+**Quick version:**
 ```bash
-pip install -r requirements.txt
+# 1. Extract slides from video
+python deduplicate_video.py "training-videos/YourVideo.mp4" 0.97
+
+# 2. Create flashcards with Claude Code
+# (Ask Claude to generate flashcards from the extracted slides)
+
+# 3. Convert to web format
+python scripts/convert_to_web_format.py modules/your-module/flashcards.txt
+
+# 4. Add to docs/modules.json
+
+# 5. Push to GitHub
+git add . && git commit -m "Add new training module" && git push
 ```
 
-No C++ compilers needed - just Python and OpenCV!
+## Current Modules
 
-## Usage Examples
+### OSHA 10HR Construction - Fall Hazards
+141 flashcards covering:
+- Fall statistics and regulations
+- Guardrails (1926.502)
+- Safety Nets (1926.105)
+- Personal Fall Arrest Systems (PFAS)
+- Anchorage requirements
+- Body harness vs body belts
+- Equipment inspection
+- Rescue planning
 
-### Basic Usage
+### Coming Soon
+- Excavations & Trenching
+- Electrical Safety
+- Struck-By & Caught-In Hazards
+- PPE Requirements
+- Confined Spaces
+- *...and more as you add them!*
 
-```bash
-# Process your training video
-python deduplicate_video.py "OSHA Fall Protection.mp4"
-```
+## Study Options
 
-### Custom Settings
+### 1. Web App (Best for Quick Access)
+**URL:** https://petesumners.github.io/airstreams-flashcards/
 
-```bash
-# More aggressive deduplication (removes more similar slides)
-python deduplicate_video.py "Training.mp4" 0.95
+- No installation
+- Works on any device
+- Perfect for GroupMe sharing
+- Mobile-friendly
+- Keyboard shortcuts
 
-# More conservative (keeps more slides - better for training)
-python deduplicate_video.py "Training.mp4" 0.99
+### 2. Anki (Best for Long-Term Retention)
+- Free & open source
+- Spaced repetition algorithm
+- Desktop + mobile apps
+- Works offline
 
-# Limit number of frames (for testing)
-python deduplicate_video.py "Training.mp4" 0.97 200
-```
+**Import:**
+1. Install Anki from https://apps.ankiweb.net/
+2. File → Import → Select `modules/[module]/flashcards_anki.txt`
+3. Set delimiter to Tab
 
-### Parameters
+### 3. Quizlet (Best for Social Learning)
+- Popular platform
+- Mobile apps
+- Study games
+- Group features
 
-```
-python deduplicate_video.py <video_file> [threshold] [max_frames]
-
-  video_file    - Path to your training video
-  threshold     - Similarity threshold (default: 0.90, recommend 0.97 for training)
-  max_frames    - Max frames to process (default: None = process entire video)
-```
-
-### Threshold Guide
-
-- **0.99**: Ultra-conservative - keeps almost everything (may have near-duplicates)
-- **0.97**: Recommended for training videos - good balance
-- **0.95**: Balanced - removes obvious duplicates
-- **0.90**: Aggressive - may remove some similar but unique slides
-
-**For training videos, use 0.97 or higher** to ensure you don't miss any content.
-
-## Output
-
-After running, you'll get organized directories:
-
-```
-test_output/
-├── 1_before_dedup/          # All extracted frames
-│   └── frame_0000.jpg ... frame_NNNN.jpg
-└── 2_after_dedup/           # Unique slides only (use these!)
-    └── unique_0000.jpg ... unique_NNNN.jpg
-```
-
-Use the files in `2_after_dedup/` for your flashcards.
-
-## Creating Shareable Flashcards
-
-### For GroupMe / Text Sharing
-
-Extract slides, then ask Claude:
-
-```
-Read all slides in test_output/2_after_dedup/ and create flashcards.
-Format them as:
-
-Q: [Question based on slide content]
-A: [Answer]
-
-Make them concise and easy to share in GroupMe.
-```
-
-### For Anki or Quizlet
-
-```
-Read all slides and create flashcards in CSV format:
-Question,Answer
-[content from slide 1]
-[content from slide 2]
-```
-
-## Example Workflow
-
-1. **Extract slides from your training video**:
-   ```bash
-   python deduplicate_video.py "OSHA 10HR Fall Hazards.mp4" 0.97
-   ```
-
-2. **Review the output**:
-   - Check `test_output/2_after_dedup/`
-   - You should see all unique slides from the training
-
-3. **Create flashcards with Claude**:
-   ```
-   Please create study flashcards from the slides in test_output/2_after_dedup/.
-   Make them in Q&A format, suitable for sharing in GroupMe with my training group.
-   ```
-
-4. **Share with your group**:
-   - Copy the flashcards
-   - Paste into GroupMe
-   - Help everyone study!
-
-## Use Cases
-
-- OSHA 10-hour/30-hour training courses
-- Safety certification training
-- Technical training presentations
-- Company onboarding videos
-- Any PowerPoint-style training video
+**Import:**
+1. Go to https://quizlet.com/
+2. Create → Study set → Import
+3. Copy/paste from `modules/[module]/flashcards_quizlet.txt`
+4. Set delimiter to Tab
 
 ## Project Structure
 
 ```
-training-video-flashcards/
-├── src/                     # Core processing code
-│   ├── config.py           # Video and deduplication config
-│   ├── video_processor.py  # Frame extraction
-│   └── deduplication.py    # Smart deduplication
-├── deduplicate_video.py    # Main tool (use this!)
-├── extract_slides.py       # Alternative extraction tool
-├── process_slides_api.py   # Automated OCR with Claude API
-├── requirements.txt        # Dependencies
-└── README.md              # This file
+airstreams-flashcards/
+├── modules/                      # Training modules
+│   ├── fall-hazards/
+│   │   ├── flashcards.txt        # Original Q&A
+│   │   ├── flashcards_anki.txt   # Anki import
+│   │   └── flashcards_quizlet.txt # Quizlet import
+│   └── excavations/
+│       └── (same structure)
+│
+├── docs/                         # Web app (GitHub Pages)
+│   ├── index.html                # Main page
+│   ├── app.js                    # App logic
+│   ├── style.css                 # Styling
+│   ├── modules.json              # Module definitions
+│   └── flashcards-*.js           # Flashcards for each module
+│
+├── training-videos/              # Source videos (optional)
+│   └── *.mp4
+│
+├── scripts/                      # Helper scripts
+│   └── convert_to_web_format.py  # Convert Q&A to JS
+│
+├── deduplicate_video.py          # Extract slides from video
+├── convert_to_anki.py            # Convert to Anki format
+├── ADD_NEW_MODULE.md             # Guide for adding modules
+└── README.md                     # This file
 ```
 
-## Advanced: Automated Flashcard Creation
+## Technology Stack
 
-For batch processing with the Claude API:
+- **Video Processing:** OpenCV + Python
+- **OCR & Flashcard Generation:** Claude Code (AI)
+- **Web App:** Vanilla JavaScript (no frameworks)
+- **Hosting:** GitHub Pages (free)
+- **Offline Study:** Anki (open source)
+
+## How It Works
+
+### 1. Extract Slides
+```bash
+python deduplicate_video.py "video.mp4" 0.97
+```
+- Extracts frames every 0.9 seconds
+- Uses perceptual hashing to remove duplicates
+- Threshold 0.97 keeps all unique content
+- Output: Unique slide images
+
+### 2. Generate Flashcards
+Ask Claude Code:
+```
+Read all slides in test_output/2_after_dedup/ and create flashcards.
+Format as Q&A pairs. Focus on testable knowledge.
+```
+
+### 3. Convert Formats
+```bash
+# For Anki
+python convert_to_anki.py flashcards.txt
+
+# For Web
+python scripts/convert_to_web_format.py modules/module-name/flashcards.txt
+```
+
+### 4. Publish
+```bash
+git add docs/ modules/
+git commit -m "Add new module"
+git push
+```
+Live in ~2 minutes at GitHub Pages URL!
+
+## Adding New Modules
+
+See [ADD_NEW_MODULE.md](ADD_NEW_MODULE.md) for the complete guide.
+
+**Essential steps:**
+1. Process your training video
+2. Generate flashcards
+3. Convert to web format
+4. Add to `docs/modules.json`
+5. Push to GitHub
+
+Example module entry:
+```json
+{
+  "id": "electrical-safety",
+  "title": "Electrical Safety",
+  "description": "OSHA electrical hazards, clearances, and LOTO",
+  "cardCount": 85,
+  "topics": ["Power Line Clearances", "GFCI", "LOTO"],
+  "flashcardsFile": "flashcards-electrical-safety.js",
+  "enabled": true
+}
+```
+
+## Sharing with Your Cohort
+
+### Share Main Page
+```
+https://petesumners.github.io/airstreams-flashcards/
+```
+
+### Share Specific Module
+```
+https://petesumners.github.io/airstreams-flashcards/?module=fall-hazards
+```
+
+### GroupMe Message Template
+```
+🎓 Training Flashcards Ready!
+
+Study for [Module Name]:
+https://petesumners.github.io/airstreams-flashcards/
+
+📱 Works on any device
+🔀 Shuffle feature
+⌨️ Keyboard shortcuts
+
+Let's ace this test! 💪
+```
+
+## Installation (For Development)
 
 ```bash
-# Extract slides
-python deduplicate_video.py "Training.mp4" 0.97
+# Clone the repo
+git clone https://github.com/PeteSumners/airstreams-flashcards.git
+cd airstreams-flashcards
 
-# Auto-generate flashcards using Claude API
-python process_slides_api.py test_output/2_after_dedup/ -o flashcards.txt --mode summarize
+# Install dependencies
+pip install -r requirements.txt
+
+# Process a video
+python deduplicate_video.py "your-video.mp4" 0.97
+
+# Generate flashcards with Claude Code
+# (manual step - ask Claude to create flashcards)
+
+# Convert formats
+python scripts/convert_to_web_format.py modules/module-name/flashcards.txt
+
+# Test locally
+python -m http.server 8000
+# Visit: http://localhost:8000/docs/
+
+# Push to GitHub Pages
+git add .
+git commit -m "Add module"
+git push
 ```
 
-Requires: `ANTHROPIC_API_KEY` environment variable. See `API_USAGE.md` for details.
+## Customization
+
+### Branding
+Edit `docs/modules.json`:
+```json
+"settings": {
+  "projectName": "Your Company Training",
+  "organization": "Your Company",
+  "location": "Your Location"
+}
+```
+
+### Styling
+Edit `docs/style.css` to change colors, fonts, layout.
+
+### Add Features
+Edit `docs/app.js` - vanilla JavaScript, no build step needed!
 
 ## Troubleshooting
 
-### Too many duplicate slides in output
+### Module doesn't appear
+- Check `docs/modules.json` syntax
+- Ensure `enabled: true`
+- Check browser console (F12)
 
-Lower the threshold:
+### Flashcards don't load
+- Verify filename in `modules.json` matches file in `docs/`
+- Check browser console for 404 errors
+
+### Local testing
 ```bash
-python deduplicate_video.py video.mp4 0.95
+# Use a local server, not file:// URLs
+python -m http.server 8000
 ```
 
-### Missing some slides from the training
+## FAQ
 
-Raise the threshold:
-```bash
-python deduplicate_video.py video.mp4 0.99
-```
+**Q: Can I use this for non-OSHA training?**
+A: Yes! Any training video → flashcards workflow works.
 
-When in doubt, **use 0.97** - it's a good balance for training content.
+**Q: How many modules can I add?**
+A: Unlimited. The web app dynamically loads any modules in `modules.json`.
 
-## Technical Details
+**Q: Do I need to know JavaScript?**
+A: No. The conversion scripts handle everything. Just add videos!
 
-### How It Works
+**Q: Can I make this private?**
+A: Yes. Change GitHub repo to private. The web app still works for collaborators.
 
-1. **Frame Extraction**: Samples video every 0.9 seconds
-2. **No Filtering**: Motion and blur detection disabled to capture all content
-3. **Perceptual Hashing**: Compares frames using phash algorithm
-4. **Sequential Deduplication**: Compares frames in sequence within a sliding window
-5. **Quality Output**: Saves unique frames as high-quality JPGs
-
-### Why This Approach?
-
-Traditional OCR libraries (PaddleOCR, EasyOCR) require C++ compilation which is problematic on Windows. Instead:
-- ✅ Extract and deduplicate slides (fast, automated)
-- ✅ Use Claude for OCR (accurate, understands context)
-- ✅ Create shareable flashcards (perfect for GroupMe)
-
-## Built For
-
-**Airstreams Renewables Training** - Tehachapi, CA
-
-Making it easier to study and share training materials with your cohort!
-
-## License
-
-Apache 2.0 - See LICENSE file.
+**Q: What about copyrighted training materials?**
+A: Only process videos you have rights to use. Flashcards are for personal/team study.
 
 ## Contributing
 
-Pull requests welcome! This tool is designed to help training cohorts learn together.
+Pull requests welcome! Especially:
+- New conversion scripts
+- Additional study modes
+- Mobile app improvements
+- Documentation
+
+## Support
+
+- **Issues:** https://github.com/PeteSumners/airstreams-flashcards/issues
+- **Discussions:** https://github.com/PeteSumners/airstreams-flashcards/discussions
+
+## License
+
+Apache 2.0 - Free to use and modify.
+
+All dependencies are also open source and permissively licensed.
+
+## Credits
+
+Built with:
+- OpenCV (video processing)
+- Claude Code (OCR & flashcard generation)
+- GitHub Pages (hosting)
+- Vanilla JavaScript (web app)
+
+Created for **Airstreams Renewables** training in Tehachapi, CA.
+
+---
+
+**Made with ❤️ for better training and safer workplaces**
+
+Good luck with your certifications! 🏗️ ⚡ 🦺

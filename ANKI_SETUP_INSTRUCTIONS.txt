@@ -1,0 +1,122 @@
+# ANKI SETUP INSTRUCTIONS
+# OSHA 10HR Construction Training Flashcards
+
+## What's Been Done
+
+✅ Anki has been installed on your machine
+✅ 371 flashcards have been extracted from your OSHA training slides
+✅ Flashcards are ready to import in Anki-compatible format
+
+## Files Created
+
+1. **OSHA_Flashcards.txt** - Original flashcards in readable Q&A format
+2. **OSHA_Flashcards_Anki.txt** - Anki import format (tab-separated)
+3. **convert_to_anki.py** - Converter script (for future use)
+
+## How to Import Flashcards into Anki
+
+### Step 1: Launch Anki
+
+Double-click the Anki icon on your desktop or Start menu, or run:
+```
+C:\Program Files\Anki\anki.exe
+```
+
+### Step 2: Create a New Deck
+
+1. Click "Create Deck" at the bottom
+2. Name it: "OSHA 10HR Construction Training"
+3. Click OK
+
+### Step 3: Import the Flashcards
+
+1. Click "File" → "Import..."
+2. Browse to: C:\Users\PeteS\Desktop\ocr\
+3. Select: **OSHA_Flashcards_Anki.txt**
+4. In the import dialog:
+   - Type: "Basic"
+   - Deck: "OSHA 10HR Construction Training"
+   - Fields separated by: Tab
+   - Field 1 → Front
+   - Field 2 → Back
+   - Check "Allow HTML in fields"
+5. Click "Import"
+
+### Step 4: Start Studying!
+
+1. Click on "OSHA 10HR Construction Training" deck
+2. Click "Study Now"
+3. Anki will show you cards using spaced repetition
+
+## Quick Tips
+
+### Daily Study
+- Anki will show you cards that need review
+- Rate each card: Again, Hard, Good, Easy
+- Study daily for best retention
+
+### Mobile Sync (Optional)
+1. Create free AnkiWeb account at https://ankiweb.net
+2. In Anki desktop: Tools → Preferences → Network → Sync
+3. Install AnkiMobile (iOS) or AnkiDroid (Android)
+4. Sync to study on your phone!
+
+### Share with Your Cohort
+You can share the deck file:
+1. File → Export
+2. Include scheduling information: NO
+3. Include media: NO
+4. Export format: Anki Deck Package (*.apkg)
+5. Share the .apkg file with your training group
+
+## Coverage
+
+Your deck includes 371 flashcards covering:
+- Fall Hazards (statistics, PFAS, guardrails, nets)
+- Electrical Safety (clearances, grounding, LOTO)
+- Struck-By Hazards
+- Caught-In/Between Hazards
+- PPE (head, eye, ear, foot, hand, body)
+- Hazardous Materials (SDS, NFPA, chemical safety)
+- Respiratory Protection (29 CFR 1910.134)
+- Confined Spaces (29 CFR 1926 subpart AA)
+- Hearing Protection (PEL, noise levels)
+- Materials Handling (forklifts, cranes, rigging)
+- Power Tools (all 5 types)
+- Excavations (cave-ins, protective systems)
+
+## Troubleshooting
+
+### Anki won't open?
+Try running from command line:
+```
+"C:\Program Files\Anki\anki.exe"
+```
+
+### Import failed?
+Make sure you selected:
+- Fields separated by: **Tab** (not comma)
+- File: OSHA_Flashcards_Anki.txt (not the original)
+
+### Cards look wrong?
+You can re-import by deleting the deck and starting over.
+
+## About Anki
+
+Anki is **free and open source** software:
+- Website: https://apps.ankiweb.net/
+- Source code: https://github.com/ankitects/anki
+- License: AGPL v3
+
+Anki uses **spaced repetition** - a proven learning technique that shows you cards:
+- More frequently when you're learning them
+- Less frequently as you master them
+- Right before you're about to forget them
+
+This is scientifically proven to be the most efficient way to memorize information!
+
+## Good Luck!
+
+You're all set for your OSHA 10HR Construction Training!
+
+Share these flashcards with your Airstreams cohort in Tehachapi and study together!

@@ -1,0 +1,731 @@
+Out of 5,486 worker fatalities in 2022, how many were in construction?	1,069 fatalities were in construction.
+How many construction worker deaths were caused by falls in 2022?	"406 deaths (the leading cause among the ""Focus Four"")."
+"What are the four ""Focus Four"" fatality causes in construction and how many deaths did each cause in 2022?"	1) Falls: 406, 2) Struck by object: 85, 3) Electrocutions: 64, 4) Caught-in or between: 53.
+At what height must open-sided floors and platforms be guarded according to OSHA?	6 feet or more (29CFR 1926.500).
+Falls from as little as what height can cause serious accidents and sometimes death?	4 to 6 feet.
+What is the leading cause of deaths in the construction industry?	Falls are the leading cause of deaths in the construction industry.
+Where do most fall fatalities occur?	From open-sided floors and through floor openings.
+At what height must you be protected if you can fall more than this distance in construction?	"6 feet (1926.501).
+
+================================================================================
+FALL PROTECTION METHODS
+================================================================================"
+What are the three main methods of fall protection for workers?	Guardrails, Safety Nets, and Personal Fall Arrest Systems (PFAS).
+What does ABC stand for in fall protection?	A = Anchorage, B = Body Harness, C = Connectors.
+What must be in place before you start work at heights?	"Fall protection systems and work practices must be in place before you start work.
+
+================================================================================
+GUARDRAILS (1926.502)
+================================================================================"
+How high must the top rail of a guardrail be above the walking/working surface?	42 inches (plus or minus 3 inches).
+What is the minimum height requirement for a toe board in a guardrail system?	At least 3.5 inches in height from top edge to floor level.
+How much force must a toe board be capable of withstanding?	A force of 50 pounds applied in any direction.
+What force must guardrail systems be designed to withstand?	"At least 200 lbs.
+
+================================================================================
+SAFETY NETS (1926.105)
+================================================================================"
+When must safety nets be provided?	When workplaces are more than 25 feet above the ground or water surface, or other surfaces where the use of ladders, scaffolds, catch platforms, temporary floors, safety lines, or safety belts is impractical.
+How far must safety nets extend beyond the edge of the work surface?	8 feet beyond the edge of the work surface where employees are exposed.
+What is the minimum impact resistance required for safety nets?	17,500 foot-pounds minimum impact resistance as certified by manufacturers and labeled with proof test.
+What is the minimum breaking strength required for safety net edge ropes?	"5,000 pounds.
+
+================================================================================
+PERSONAL FALL ARREST SYSTEMS (PFAS)
+================================================================================"
+What does PFAS stand for?	Personal Fall Arrest System.
+What are the three components of a PFAS?	Anchorage, Body Harness, and Connectors.
+Should PPE be used to hoist workers or objects?	Never use PPE to hoist workers or objects.
+What must employers do before employees use PFAS?	"Employer must train employees before use.
+
+================================================================================
+ANCHORAGE
+================================================================================"
+What is the minimum weight capacity required for anchorages used for fall arrest equipment?	At least 5,000 pounds per employee attached (1926.502).
+Must anchorages for personal fall arrest equipment be independent of other support systems?	"Yes, they must be independent of any anchorage being used to support or suspend platforms and capable of supporting at least 5,000 pounds per employee attached.
+
+================================================================================
+BODY HARNESS
+================================================================================"
+As of what date was the use of body belts for fall arrest prohibited by OSHA?	January 1, 1998.
+Why are body belts prohibited for fall arrest?	They can cause damage to spine and internal organs.
+What is the average tolerable suspension time in a harness?	90 seconds.
+What is the maximum arresting force rating for a body belt?	Only 900 pounds of arresting force.
+What may body belts be used for?	Work restraint only (not fall arrest).
+What is the maximum arresting force on an employee when using a full body harness?	1800 lbs (8 kN) according to OSHA 1926.502(d)(16)(i).
+What body parts does a full body harness distribute fall arrest forces over?	"At least the upper thighs, pelvis, chest, and shoulders.
+
+================================================================================
+CONNECTORS & LANYARDS
+================================================================================"
+What do connectors do in a fall protection system?	They connect an employee to an anchor point and must withstand arresting forces and decelerate the energy produced during a fall.
+What is the purpose of a fall arrest lanyard's stretching or tearing system?	To absorb shock, prevent bouncing, and reduce arresting forces.
+Approximately how much force is required before a lanyard begins elongation?	"Approximately 450 lbs.
+
+================================================================================
+DECELERATION DEVICES
+================================================================================"
+What are three types of deceleration devices?	"Self-Retracting Lifelines (SRL) or lanyards, Rope grab device, and Rip-stitch, tearing, or stretching lanyard.
+
+================================================================================
+ARRESTING FORCES
+================================================================================"
+What happens to fall speed and arresting forces as you fall farther?	The farther you fall, the faster you fall. The faster you fall, the greater the arresting forces become.
+What is the best way to reduce arresting forces applied to your body?	Limit your fall distance and use a deceleration device.
+What factors determine fall clearance distance?	"Length of lanyard, length of deployed energy absorber, height of worker, and safety factor.
+
+================================================================================
+EQUIPMENT INSPECTION
+================================================================================"
+When must fall protection equipment be inspected?	Before every use.
+What should you check during a fall protection equipment inspection?	"Visual, tactile, function; cuts, tears, abrasions, stitches coming out; cracks or burrs; parts move freely; no alterations; appropriate labels.
+
+================================================================================
+RESCUE PLAN
+================================================================================"
+What must each worksite or facility have regarding fall protection?	A rescue plan.
+What must be done with employees regarding the rescue plan?	Employees must be trained on the plan.
+What should be limited regarding suspension time?	"Limit hanging/suspension time.
+
+================================================================================
+MAJOR FALL HAZARDS
+================================================================================"
+What are six major types of fall hazards in construction?	Unprotected roof edges, roof/floor openings, structural steel and leading edges, improper scaffold construction, unsafe portable ladders, failing to practice 100% tie off using fall protection.
+Name seven examples of fall hazards.	"Working at heights, working on scaffolds, working near an opening in a roof or floor, erection of steel structures, working off a ladder, jumping off equipment, slips and trips.
+
+================================================================================
+SPECIFIC SITUATIONS
+================================================================================"
+What must be done with holes more than 6 feet high?	They must be protected.
+How can floor holes be made safe?	Must be completely covered and secured, or if no cover, guard open hold with a guard rail.
+What protection is required when working on formwork or rebar?	Use PFAS when working on formwork or rebar. Cover or cap protruding rebar.
+When must excavations be guarded?	Guard excavations more than 6 feet deep when they are not readily seen because of plant growth or other visual barriers.
+If you work on roofs and can fall more than 6 feet, what is required?	You must be protected.
+At what height from wall openings must you be protected from falling?	"If you work near wall openings 6 feet or more above lower levels, you must be protected from falling.
+
+================================================================================
+LADDERS
+================================================================================"
+How far must a ladder extend above the working surface?	It must extend 3 feet above the working surface.
+Is the top step of an A-frame ladder considered a step?	"No, the top step of an A-frame ladder is NOT A STEP.
+
+================================================================================
+FALLING OBJECTS
+================================================================================"
+What should you do to prevent tools and materials from being kicked over the edge?	Don't leave tools or materials where they might be kicked over the edge or tripped over.
+Should you throw items over the edge when working above ground?	No, don't throw items over the edge.
+What should you wear when working under an above groundwork area?	"Wear hard hats when working under an above groundwork area.
+
+================================================================================
+GOOD WORK PRACTICES
+================================================================================"
+What is the best way to perform work at heights if possible?	Perform work at ground level if possible (example: building prefab roofs on the ground and lifting into place with a crane).
+What is the least desirable fall protection system?	"Designate and use safety monitors (this is less desirable of all the systems).
+
+================================================================================
+TRAINING REQUIREMENTS
+================================================================================"
+What must employers provide regarding fall protection?	Employers must provide fall protection training.
+What must fall protection training teach workers to do?	How to recognize hazards and how to minimize hazards.
+What three topics must fall protection training cover?	"Fall hazards, fall protection systems, and use of fall protection devices.
+
+================================================================================
+ELECTRICAL HAZARDS
+================================================================================"
+What percentage of the U.S. workforce is construction, and what percentage of occupational fatalities does it account for?	Approximately 8% of the U.S. workforce, yet accounts for 44% of occupational fatalities.
+How many deaths and injuries do electrical hazards cause in the workplace each year?	More than 300 deaths and 4,000 injuries.
+What rank do electrical accidents hold among all causes of work-related deaths in the United States?	Sixth among all causes of work-related deaths.
+What are the six types of electrical hazards that expose workers to serious workplace hazards?	Burns, electrocution, shock, arc flash/arc blast, fire, and explosions.
+What four common electrical hazards exist in construction?	Contact with overhead power lines, contact with energized sources/live parts/bare conductors, improper use of extension cords and flexible cords, and improper grounding.
+What OSHA regulation covers installation safety requirements for the construction industry?	29 CFR Subpart K, 1926.402 through 1926.408.
+What are overhead power lines typically described as?	Un-insulated.
+What can contact with overhead power lines cause?	Fatal electrocution and falls from heights.
+What is the minimum clearance distance for overhead power lines up to 50 kV?	10 feet.
+What is the minimum clearance distance for overhead power lines >50 to 200 kV?	15 feet.
+What is the minimum clearance distance for overhead power lines >200 to 350 kV?	20 feet.
+What is the minimum clearance distance for overhead power lines >350 to 500 kV?	25 feet.
+What is the minimum clearance distance for overhead power lines >500 to 750 kV?	35 feet.
+What is the minimum clearance distance for overhead power lines >750 to 1,000 kV?	45 feet.
+What happens when the body is wetter or has more moisture?	The lower the resistance and the easier it is for the current to pass through the body.
+What is a ground in electrical terms?	A conducting connection (whether or not unintentional) between an electrical circuit or equipment and the earth, or to some conducting body that serves in place of the earth.
+What does OSHA require construction sites to create before equipment and tools are energized?	An Assured Equipment Grounding Conductor Program (AEGCP).
+What does GFCI stand for and what does it do?	Ground Fault Circuit Interrupter - a receptacle with overcurrent protection capabilities.
+What is the typical amp rating for a circuit breaker at a house?	15 amps.
+What happens to fuses when blown due to an overcurrent?	They must be replaced (unlike circuit breakers which can be reset unless damaged).
+When must extension cords be inspected?	Before each use.
+What must be done if a third grounding prong on extension cords cannot be removed?	The tool must be identified as a double insulated tool prior to use.
+What must be done if a cord or plug fails inspection?	It must be tagged and taken out of service.
+Should you carry a tool by the cord?	Never carry a tool by the cord.
+Should you yank the cord to disconnect power tools?	Never yank the cord to disconnect it.
+Should power tools be used in wet/damp environments?	No, don't use in wet/damp environments.
+According to OSHA construction standards, how must flexible cords be rated per the NEC?	Flexible cords must be rated for hard use and extra hard use, per NEC (National Electric Code).
+What voltage threshold requires equipment to be accessible only to authorized workers?	Equipment at 50 volts and higher accessible to authorized workers only.
+What communication method should workers be trained on for electrical work?	4-way communication.
+What should workers do before touching circuit components and conductors?	Hot-Cold-Hot procedure.
+What does LOTO stand for in safety-related work practices?	"Lockout Tagout.
+
+================================================================================
+STRUCK-BY HAZARDS
+================================================================================"
+"How does OSHA define a ""Struck By"" injury?"	Injuries produced by forcible contact or impact between the injured person and an object or piece of equipment.
+"How many construction worker deaths were attributed to ""Struck by object"" in 2022?"	85 deaths.
+What are the four common types of struck-by hazards?	Struck by flying object, struck by falling object, struck by swinging object, and struck by rolling object or ground level object.
+What are workers most often struck by?	Heavy equipment and vehicles (trucks and cranes), falling or flying objects (tools and flying particles), concrete or masonry walls that are being constructed, and swinging objects.
+At what PSI can air pressure drive oils and other particles through your skin?	Above 30 psi.
+Should you work under loads as they are being lifted?	No, do not work under loads as they are being lifted.
+How should loads be lifted to prevent them from slipping?	Secure all loads and lift them evenly to prevent them from slipping.
+What is the rule about lifting capacity for hoists and cranes?	Never lift a load that is greater than the hoist's crane's lifting capacity.
+Should you approach moving heavy equipment?	Never approach moving heavy equipment.
+When heavy equipment is stopped, should you approach it from behind?	No, never approach it from behind. Always approach from the front or the sides if you are making eye contact with equipment operator.
+What PPE should be worn when overhead hazards exist?	Wear a hardhat if overhead hazards exist.
+What PPE should be worn if flying hazards exist?	Wear safety glasses or a face shield if flying hazards exist.
+What should a highly visible reflective vest allow on construction sites?	Allow motorists and equipment operators to see you.
+Why should materials be secured in storage?	So they do not fall on workers.
+What should be maintained in all storage areas?	Maintain proper house-keeping in all storage areas.
+What are three key safety practices for proper materials handling?	Inspect all rigging before using, never work under a suspended load, and stay clear of loads as they are being lifted.
+When approaching heavy equipment, what must you do if the equipment is being operated?	Always make eye contact with operator before approaching equipment.
+What type of PPE should highway construction workers wear to help prevent struck-by hazards from moving heavy equipment?	High visibility reflective clothing to help prevent struck-by hazard from moving heavy equipment.
+What should you do when a tag line is needed for load control?	If control of the load by a worker is necessary, then a tag line should be used.
+What should you stay clear of to avoid struck-by hazards?	"Stay clear of loads that are suspended or about to be suspended which create struck-by hazards from falling or swinging objects.
+
+================================================================================
+CAUGHT-IN OR BETWEEN HAZARDS
+================================================================================"
+How does OSHA define a caught-in or between injury?	Injuries resulting from a person being squeezed, caught, crushed, pinched, or compressed between two or more objects, or between parts of an object.
+How many construction worker deaths were caused by caught-in or between hazards in 2022?	53 deaths.
+Name seven common types of caught-in or between hazards in construction.	Machinery with unguarded moving parts, working around or near moving vehicles, caught between equipment and fixed objects, rotating equipment, equipment rollovers, equipment maintenance, and rigging accidents.
+How much more likely are excavation workers to be killed compared to other construction workers?	More than twice as likely.
+What can excavation cave-ins do to workers?	Cave-ins can suffocate or crush workers.
+Name five conditions when cave-ins can happen.	"The soil is unstable, there is a lot of vibration from trains/trucks/traffic/machinery, there is too much weight too close to sides of the excavation from excavated material/tools/equipment/materials/vehicles, there is water in the excavation, and there are changes in weather like heavy rain/freezing/melting.
+
+================================================================================
+ACCIDENT PREVENTION
+================================================================================"
+What should you do if equipment or tools are defective?	Report it to your supervisor and remove it from service.
+What are four key accident prevention practices for construction work?	Plan your work and assess the job site for hazards before work begins, construction work requires that you always be aware of your surroundings, equipment and tools should be inspected prior to each use, and if equipment or tools are defective report it to your supervisor and remove it from service.
+What is the purpose of creating exclusion zones?	To keep workers out of hazardous areas which could pin them between equipment and/or structures.
+What types of heavy machinery should you keep clear of the swing radius?	"Cranes and excavators.
+
+================================================================================
+PERSONAL PROTECTIVE EQUIPMENT (PPE)
+================================================================================"
+According to the Hierarchy of Controls, where does PPE rank in effectiveness?	PPE is the last level of control (least effective).
+What are the six levels of the Hierarchy of Control from most to least effective?	Elimination, Substitution, Isolation (Engineering Controls), Engineering Controls, Administrative Controls, and PPE.
+What are the three minimum PPE requirements on a job site?	Hard hat, safety glasses, and safety toe boots.
+What are the employer's responsibilities regarding PPE?	Assess workplace for hazards, provide PPE, determine when to use it, and provide PPE training for employees and instruction in proper use.
+What are the employee's responsibilities regarding PPE?	Use PPE in accordance with training received and other instructions, and inspect daily and maintain in a clean and reliable condition.
+What must PPE protectors provide?	Adequate protection against the hazards for which they are designed, be of safe design and construction for the work to be performed, and be reasonably comfortable.
+What are the five additional criteria that PPE protectors must meet?	Fit snugly and shall not unduly interfere with the movements of the wearer, be durable, be capable of being disinfected, be easily cleanable, and be distinctly marked.
+What seven topics must employees be trained on if required to use PPE?	"Why it's necessary, how it will protect them, what its limitations are, when and how to wear, how to identify signs of wear, how to clean and disinfect, and what its lifespan is and how to dispose.
+
+================================================================================
+HEAD PROTECTION
+================================================================================"
+What are the three main causes of head injuries?	Falling objects such as tools, bumping head against objects such as pipes or beams, and contact with exposed electrical wiring or components.
+What are the two types of hard hats?	Type I Hard Hat (intended to reduce the force of impact resulting from a blow to the top of the head) and Type II Hard Hat (designed to provide protection against both side impact (lateral) and blows to the top of the head).
+What are the three classes of hard hats and their voltage ratings?	Class G (General) 2,200 V, Class E (Electrical) 20,000 volts, and Class C (Conductive, usually aluminum).
+What does Class G hard hat provide?	General service (e.g., mining, building construction, shipbuilding, lumbering, and manufacturing). Good impact protection, but limited voltage protection.
+What does Class E hard hat provide?	Electrical work (tested to withstand 20,000V). Protects against falling objects and high-voltage shock and burns.
+What does Class C hard hat provide?	"Designed for comfort, offer limited protection. Protects heads that may bump against fixed objects, but do not protect against falling objects or electrical shock.
+
+================================================================================
+EYE PROTECTION
+================================================================================"
+How many U.S. workers have a job-related eye injury requiring medical treatment each day?	About 2000 U.S. workers.
+How many eye injuries treated in hospital emergency departments result in one or more days of lost work?	More than 100 of these injuries.
+What standard must eye and face protection comply with?	ANSI (American National Standards Institute).
+What does ANSI Z87 certify?	ANSI Certified for Regular Impact.
+What does ANSI Z87+ certify?	ANSI Certified for High Impact.
+What does ANSI Z87-2 indicate?	Reserved for prescription lenses on safety glasses.
+What do the ANSI ratings D3, D4, and D5 protect against?	D3 for droplets, D4 for splashes and dust particles, D5 for fine dust particles.
+What does the ANSI rating R protect against?	Protects against infrared light.
+What does the ANSI rating U (followed by a number) indicate?	Offers UV protection. The number indicates how much.
+What are three proper eye protection choices for employees who wear eyeglasses?	Prescription glasses with side shields and protective lenses, goggles that fit comfortably over corrective glasses without disturbing the glasses, and goggles that incorporate corrective lenses mounted behind protective lenses.
+When must eye protection be provided? (Name 5 hazards)	When any of these hazards are present: dust and other flying particles such as metal shavings or sawdust, corrosive gases/vapors/liquids, molten metal that may splash, potentially infectious materials such as blood or hazardous liquid chemicals that may splash, and intense light from welding and lasers.
+What do goggles protect against?	Eyes and area around the eyes from impact, dust, and splashes. Some goggles fit over corrective lenses.
+What do face shields protect against?	Full face protection. Protects face from dusts and splashes or sprays of hazardous liquids.
+Do face shields protect from impact hazards?	No. Does not protect from impact hazards. Wear safety glasses or goggles underneath.
+What do welding shields protect against?	"Protects eyes against burns from radiant light. Protects face and eyes from flying sparks, metal spatter, and slag chips produced during welding, brazing, soldering, and cutting.
+
+================================================================================
+HEARING PROTECTION
+================================================================================"
+When must hearing protection be provided according to OSHA?	When an employee's noise exposure exceeds an 8-hour time-weighted average (TWA) sound level of 90 dBA.
+When should ear protection devices be used?	When it's not feasible to reduce the noise or its duration, and when performing a task that presents a risk of particles falling into your ear canal.
+What is required for ear protective devices?	"Ear protective devices must be fitted.
+
+================================================================================
+FOOT PROTECTION
+================================================================================"
+When must foot protection be provided? (Name 5 situations)	When any of these are present: heavy objects such as barrels or tools that might roll onto or fall on employees' feet, sharp objects such as nails or spikes that might pierce ordinary shoes, molten metal that might splash on feet, hot or wet surfaces, and slippery surfaces.
+What protection features do safety shoes have?	Impact-resistant toes and heat-resistant soles protect against hot surfaces common in roofing and paving.
+What additional features can safety shoes have?	Some have metal insoles to protect against puncture wounds. May be electrically conductive for use in explosive atmospheres, or nonconductive to protect from workplace electrical hazards.
+When must safety shoes always be worn?	Always worn unless in a designated office or rest area.
+What is the extreme cold exception for safety shoes?	"Some companies allow composite toe, or non-safety toe shoes to be worn in extreme cold with permission only.
+
+================================================================================
+HAND PROTECTION
+================================================================================"
+What eight types of injuries must hand protection prevent?	Burns, bruises, abrasions, cuts, punctures, fractures, amputations, and chemical exposures.
+When must hand protection be provided according to OSHA?	When workers face risks of burns, bruises, abrasions, cuts, punctures, fractures, amputations, or chemical exposures.
+What types of hazards do durable gloves made of metal mesh, leather, or canvas protect against?	Cuts, burns, and heat.
+What do fabric and coated fabric gloves protect against?	Dirt and abrasion.
+What do chemical and liquid resistant gloves protect against?	Burns, irritation, and dermatitis.
+What type of rubber glove protects against solvents, harsh chemicals, fats/petroleum products, and provides excellent resistance to cuts and abrasions?	Nitrile gloves.
+What type of rubber glove provides the highest permeation resistance to gas or water vapors?	Butyl gloves.
+What material protects against cuts, slashes, and abrasion?	Kevlar.
+What material protects against cuts and lacerations?	"Stainless steel mesh.
+
+================================================================================
+BODY PROTECTION
+================================================================================"
+What are the major causes of body injuries requiring protection?	Intense heat, splashes of hot metals and other hot liquids, impacts from tools/machinery/materials, cuts, hazardous chemicals, and radiation.
+What is the criteria for selecting body protection?	Provide protective clothing for parts of the body exposed to possible injury.
+What are the five types of body protection?	"Vests, aprons, jackets, coveralls, and full body suits.
+
+================================================================================
+PPE LIMITATIONS AND MAINTENANCE
+================================================================================"
+What are three key limitations of PPE?	PPE must be used properly to be effective; no one type of PPE works for every hazard; PPE devices alone should not be relied on to provide protection against hazards.
+What should you inspect PPE for before every use?	Tears, cuts, and dents.
+What should you do with damaged PPE?	"Never use damaged PPE. Remove from service and replace if necessary.
+
+================================================================================
+HAZARDOUS MATERIALS - RIGHT TO KNOW
+================================================================================"
+What did OSHA create to help ensure safety when working with hazardous chemicals?	The Hazard Communication Standard.
+"What is the ""right to know""?"	You have a RIGHT TO KNOW about the hazardous chemicals you use on the job and how to work safely with those chemicals.
+What are the two main categories of chemical hazards?	"Physical hazards (flammable, explosive, reactive) and health hazards (corrosive, toxic).
+
+================================================================================
+SAFETY DATA SHEETS (SDS)
+================================================================================"
+What must Safety Data Sheets include regarding chemical identity?	Chemical and manufacturer identity, hazardous ingredients, physical and chemical characteristics, fire/explosion/reactivity information.
+What exposure limit abbreviation stands for Permissible Exposure Limit?	PEL.
+What exposure limit abbreviation stands for Threshold Limit Value?	TLV.
+What health information must SDSs include?	"Routes of entry, exposure levels, symptoms of exposure, first-aid and emergency information, PPE requirements, safe handling and storage, spills and leaks, and compliance issues.
+
+================================================================================
+HAZARDOUS MATERIALS FIRST AID
+================================================================================"
+What is the basic first aid for eye exposure to hazardous materials?	Flush with water for 15 minutes.
+What is the basic first aid for skin exposure to hazardous materials?	Wash with soap and water.
+What is the basic first aid for inhalation of hazardous materials?	Move to fresh air.
+What is the basic first aid for swallowing hazardous materials?	"Get emergency medical assistance.
+
+================================================================================
+CHEMICAL HAZARDS - ROUTES OF ENTRY
+================================================================================"
+What are the four routes of entry for chemical hazards?	"Skin and eye contact, inhalation, swallowing, and penetration (skin absorption).
+
+================================================================================
+HAZARD COMMUNICATION STANDARD
+================================================================================"
+What must chemical manufacturers do under the Hazard Communication Standard?	Determine a chemical's hazards and provide labels and SDSs.
+What must employers do under the Hazard Communication Standard?	"Provide a hazard communication program, maintain safety data sheets (SDS), and train on hazardous materials.
+
+================================================================================
+LABELS
+================================================================================"
+What information must labels include?	"The identity of the chemical, name/address/emergency phone number of the manufacturer, physical and health hazards, special handling instructions, basic PPE recommendations, and first aid/fire response/spill cleanup information.
+
+================================================================================
+NFPA LABELING SYSTEM
+================================================================================"
+In the NFPA labeling system, what does blue represent?	Health hazard.
+In the NFPA labeling system, what does red represent?	Flammability.
+In the NFPA labeling system, what does yellow represent?	Reactivity.
+In the NFPA labeling system, what does white represent?	Other hazards or special handling.
+What is the NFPA hazard rating scale?	"0 (No Hazard) to 4 (Extreme Hazard).
+
+================================================================================
+SPILLS AND LEAKS
+================================================================================"
+What are the four steps when you spot a leak?	"Evacuate the area, notify a supervisor or the emergency response team, remove ignition sources (if safe to do so), and stay away.
+
+================================================================================
+PPE FOR HAZARDOUS MATERIALS
+================================================================================"
+What types of PPE are used for handling hazardous materials?	"Dust masks and respirators, glasses/goggles/face shields, hearing protection, gloves, foot protection, head protection, and aprons or full-body suits.
+
+================================================================================
+RESPIRATORY PROTECTION
+================================================================================"
+What OSHA standard covers respiratory protection?	29 CFR 1910.134.
+What does 29 CFR 1910.134 require?	A written program, employee training, medical evaluation, and fit-testing.
+What must respiratory protection programs use?	NIOSH-approved respirators only.
+What are the two main categories of respiratory protection?	"Air purifying (gas and vapor, particulate, combination) and atmosphere supplying (SCBA - self-contained breathing apparatus, SARs - supplied-air respirators).
+
+================================================================================
+RESPIRATOR FIT-TESTING
+================================================================================"
+How often must respirator fit-testing be conducted?	Annually (must be conducted annually).
+What are the two types of fit-testing?	Qualitative (relies on the wearer to identify whether they can smell or taste the hazardous agent) and quantitative (provides a number called a fit factor, identifies the quality of the fit).
+What does voluntary use of respirators require employers to give users?	"Appendix D (employee information when respirators are not required).
+
+================================================================================
+DUSTS AND FIBERS IN CONSTRUCTION
+================================================================================"
+What are five examples of dusts and fibers found in construction?	"Crystalline silica, asbestos, metal dusts, lead-based paint, and fiberglass.
+
+================================================================================
+CRYSTALLINE SILICA
+================================================================================"
+What forms does crystalline silica come in?	Quartz (silicone and oxygen), sand, gravel, clay, granite, and other forms of rock.
+What health condition can result from inhaling smaller particles of crystalline silica deep into the lungs?	"Silicosis (leading to silicosis).
+
+================================================================================
+ASBESTOS
+================================================================================"
+How is asbestos measured?	In fibers per cubic centimeter (f/cc).
+What OSHA standard covers asbestos?	29 CFR 1926.1101.
+What is asbestosis?	A rare form of cancer that develops from the protective lining that covers many of the body's internal organs (mesothelioma).
+Where is asbestos found?	"In some taping compounds, asbestos cement, pipes, and floor tiles; exposure during demolition or remodeling jobs.
+
+================================================================================
+FIBERGLASS INSULATION PPE
+================================================================================"
+What PPE should be worn when working with fiberglass insulation?	Hard hat, safety goggles, respiratory protection, and disposable suit and gloves.
+What type of ventilation should be provided when working with fiberglass?	"General or local exhaust ventilation systems.
+
+================================================================================
+CONFINED SPACES
+================================================================================"
+What is confined space entry a leading cause of?	Occupational fatalities in the country.
+What OSHA standard covers confined spaces?	29 CFR 1926 subpart AA.
+How many workplaces and workers does 29 CFR 1926 subpart AA cover?	240,000 workplaces and 12.2 million workers.
+What percentage of fatalities and how many injuries may the confined space standard prevent?	"May prevent 85% of fatalities and nearly 11,000 injuries.
+
+================================================================================
+PERMIT-REQUIRED CONFINED SPACES DEFINITION
+================================================================================"
+What are the three criteria that define a permit-required confined space per 29 CFR 1926 subpart AA?	"(1) Limited means of egress, (2) can be bodily entered, (3) not designed for continuous occupancy. All 3 must be met to deem a space as ""confined."""
+What are examples of permit-required confined spaces?	"Chemical storage tanks, waste or storage pits, grain bins, underground tunnels, and railroad cars.
+
+================================================================================
+CONFINED SPACE HAZARDS
+================================================================================"
+What is the oxygen deficiency level that defines a confined space hazard?	19.5% or less.
+What is the oxygen enrichment level that defines a confined space hazard?	"23.5% or higher.
+
+================================================================================
+NON-PERMIT-REQUIRED CONFINED SPACES
+================================================================================"
+What are typical non-permit-required confined spaces?	"Utility closets, below-grade trenches, storage vaults, and utility subbasements.
+
+================================================================================
+ATMOSPHERIC TESTING
+================================================================================"
+In what order must hazards be tested before entering a confined space?	(1) Oxygen content, (2) combustibility/flammability, (3) toxic atmospheres.
+What must entrants be allowed to do during atmospheric monitoring?	Entrants must be allowed to observe monitoring.
+What are two reasons for confined space ventilation?	"To maintain oxygen levels above 19.5% and to maintain toxic gases and vapors at acceptable levels.
+
+================================================================================
+CONFINED SPACE WRITTEN PROGRAM
+================================================================================"
+Who must participate in a confined space written program?	The Safety Department, confined space supervisor, entrants, attendants, and rescue team.
+What additional elements are required for a confined space program?	"Pre-entry meetings, maintenance of rescue equipment, and permit posted at confined space entrance.
+
+================================================================================
+HEARING PROTECTION STANDARDS
+================================================================================"
+What OSHA standard covers hearing protection?	29 CFR 1926.52.
+What is the permissible exposure limit (PEL) for noise for an 8-hour time weighted average (TWA)?	90 dBA.
+At what noise level is a whisper?	10 dB.
+At what noise level are concerts?	125 dB.
+At what noise level is a shooting range?	"130 dB.
+
+================================================================================
+PERMISSIBLE NOISE EXPOSURE LIMITS
+================================================================================"
+How long can workers be exposed to 90 dBA before hearing protection is required?	8 hours.
+How long can workers be exposed to 105 dBA before hearing protection is required?	1 hour.
+How long can workers be exposed to 115 dBA before hearing protection is required?	"15 minutes.
+
+================================================================================
+NOISE MONITORING
+================================================================================"
+What tool is used to measure area noise level?	Sound Level Meter.
+What tool is used to measure personal noise exposure level?	"Noise Dosimeter.
+
+================================================================================
+HEARING PROTECTION TYPES
+================================================================================"
+What are the three types of hearing protection control methods?	Administrative control, engineering control, and personal protective equipment (hearing protective devices).
+What are the three types of hearing protective devices?	"Ear plugs (one time use), earmuffs, and canal caps.
+
+================================================================================
+HEARING PROTECTOR ATTENUATION
+================================================================================"
+By how many decibels can ear plugs reduce noise?	As much as 30 decibels.
+By how many decibels can ear canals reduce noise?	As much as 30 decibels.
+By how many decibels can ear muffs reduce noise?	As much as 15-30 decibels.
+When should ear muffs be used in conjunction with ear plugs?	"When exposed to high noise levels (105+ decibels).
+
+================================================================================
+HEARING LOSS
+================================================================================"
+Is hearing loss cumulative?	Yes, hearing loss is cumulative over your lifetime.
+Is hearing loss permanent?	"Yes, hearing loss is permanent.
+
+================================================================================
+MATERIAL HANDLING
+================================================================================"
+What is a major cause of back injuries in the workplace?	Lifting objects.
+What type of injuries can improper storing and handling of material and equipment cause?	Struck by and crushed by injuries.
+What are the four main hazards associated with material handling?	Improper manual lifting or carrying loads that are too large or heavy; being struck by materials or caught in pinch points; crushed by machines, falling materials or improperly stored materials; incorrectly cutting ties or securing devices.
+When should you seek help during manual handling? (List 4 situations)	When a load is too bulky to properly grasp or lift; when you can't see around or over the load; when you can't safely handle the load; when you need to attach handles to reduce chances of getting fingers smashed.
+What should you do to reduce the chances of getting fingers smashed when handling loads?	"Attach handles to loads.
+
+================================================================================
+SAFE LIFTING TECHNIQUES
+================================================================================"
+What are the key principles of safe lifting?	Break load into parts; get help with heavy or bulky items; lift with legs, keep back straight, do not twist; use handling aids (steps, trestles, shoulder pads, handles, wheels); avoid lifting above shoulder level.
+What should safe lifting training teach?	How to lift safely; how to avoid unnecessary physical stress and strain; what you can comfortably handle without undue strain; proper use of equipment; recognizing potential hazards and how to prevent/correct them.
+What PPE should be worn for loads with sharp or rough edges?	Gloves or other hand and forearm protection.
+What PPE should be worn when loads are heavy or bulky?	"Steel-toed safety shoes to prevent foot injuries if the load is dropped.
+
+================================================================================
+MATERIALS HANDLING EQUIPMENT
+================================================================================"
+What must employees be trained in regarding materials handling equipment?	The proper use and limitation of the equipment they operate.
+What types of equipment are included in materials handling equipment?	"Forklifts, cranes, and slings.
+
+================================================================================
+FORKLIFTS - SAFE OPERATION
+================================================================================"
+Where should the load be centered on a forklift and why?	Center the load on the forks and as close to the mast as possible to minimize the potential for the truck tipping or load falling.
+Why is overloading a lift truck dangerous?	It makes it hard to control and could make it tip over.
+At what position should the load be placed when traveling with a forklift?	At the lowest position for traveling.
+Why shouldn't you place extra weight on the rear of a counterbalanced forklift?	To allow an overload (don't place extra weight on the rear of a counterbalanced forklift to allow an overload).
+What are the key safety rules for operating a forklift? (List 7)	"Keep arms and legs inside the truck; handle only stable loads; keep speed low, you may have to stop; be careful when making sharp turns with a raised load; if a load blocks your view, travel in reverse; no riders, unless there's an approved seat; don't drive with forks raised; wear safety belts or other restraint devices.
+
+================================================================================
+EARTHMOVING EQUIPMENT REQUIREMENTS
+================================================================================"
+What safety equipment must earthmoving equipment provide?	Must provide seat belts.
+When can earthmoving equipment with an obstructed rear view be used in reverse?	Only if the equipment has a signal alarm.
+What types of vehicles are considered earthmoving equipment?	"Scrapers, loaders, crawler or wheel tractors, bulldozers, off-highway trucks, graders, tractors.
+
+================================================================================
+CRANES - SAFETY REQUIREMENTS
+================================================================================"
+What are the key safety requirements when operating a crane? (List 5)	"Check the load chart in the cab; frequently inspect; never lift people; check overhead power lines; ensure area of travel is clear.
+
+================================================================================
+RIGGING EQUIPMENT - SLINGS
+================================================================================"
+What types of slings are covered by rigging equipment standards?	Those made from alloy steel chain, wire rope, metal mesh, natural or synthetic fiber rope, and synthetic web.
+Who must determine if a person is qualified to perform specific rigging tasks?	Employers must determine whether a person is qualified to perform specific rigging tasks. Each qualified rigger may have different credentials or experience.
+How often must slings be inspected?	Each day before use and where service conditions warrant.
+What should be done with damaged or defective slings?	Remove them from service if damaged or defective.
+What must slings have according to inspection requirements?	Slings must have manufacture markings with rated capacities for the type of hitch being used.
+What should you do if markings are not present on a sling?	Remove sling from service.
+When should slings be removed from service? (List 5 conditions)	Acid or caustic burns; melting or charring of any part; snags, punctures, tears or cuts; broken or worn stitches; distortion of fittings.
+What chain sling defects require removal from service? (List 6)	Wear; bent links; hinge; stretch; gouge; cut; weld; twisted links; illegible tag; make shift; damaged; DIY repairs.
+What wire rope sling defects require removal from service? (List 8)	Kinking; doglegs; birdcaging; severe wear; broken wires; corrosion; damaged fittings; illegible tag/ID.
+What synthetic sling defects require removal from service? (List 8)	Chemical damage; heat damage; holes, cuts, tears; broken/worn stitches; wear/abrasion; knots; UV damage; damaged fittings.
+What is the best choice for hoisting very hot materials?	Alloy steel chain (adapts to shape of the load; best choice for hoisting very hot materials).
+What are the advantages of wire rope slings?	Lightweight, flexible, and durable; lower cost.
+What are the advantages of synthetic slings?	Softer material protects expensive and delicate loads from being damaged; flexible, lightweight.
+What are the two requirements for sling fittings?	"Must be at least as strong as that of the sling; free of sharp edges that could damage the webbing.
+
+================================================================================
+STORING MATERIALS - GENERAL REQUIREMENTS
+================================================================================"
+How should materials stored in tiers be secured?	By stacking, racking, blocking, or interlocking to prevent them from falling.
+What two additional requirements must be followed when storing materials?	Post safe load limits of floors; keep aisles and passageways clear.
+What must not be stored together?	Non-compatible materials.
+In buildings under construction, how far must stored materials be from a hoist way or floor opening?	Don't place stored materials within 6 feet of a hoist way or floor opening.
+What is the maximum height for stacking bricks?	Do not stack them more than 7 feet high.
+When should a loose brick stack be tapered back?	Taper back a loose brick stack after it is 4 feet high.
+What safety measures must be taken when stacking lumber? (List 3)	Remove nails before stacking; stack on sills; stack lumber so that it is stable and self-supporting.
+At what height or more must employees have fall protection?	Employees working above 6 feet or more must have fall protection.
+What must stored materials in silos, hoppers, or tanks be equipped with?	"Lifelines and harnesses.
+
+================================================================================
+DISPOSAL OF WASTE MATERIALS
+================================================================================"
+When must you use an enclosed chute when dropping material outside a building?	When you drop material more than 20 feet outside of a building.
+What must you do if you drop debris through holes in the floor without chutes?	Enclose the drop area with barricades.
+What must be removed from the immediate work area as work progresses?	All scrap lumber, waste material, and rubbish.
+How must solvent waste, oily rags, and flammable liquids be stored?	Keep all solvent waste, oily rags, and flammable liquids in fire resistant covered containers until removed from worksite.
+What is the maximum percentage of the whole floor that openings can occupy when removing materials through floor openings?	Openings must be less than 25 percent of the whole floor.
+What must be done to floors weakened or made unsafe by demolition?	"Floors weakened or made unsafe by demolition must be shored so they can safety hold the demolition material weight.
+
+================================================================================
+HAND AND POWER TOOLS - HAZARDS
+================================================================================"
+What are the three main hazard categories for workers using hand and power tools?	Objects that fall, fly, are abrasive, or splash; harmful dusts, fumes, mists, vapors, and gases; frayed or damaged electrical cords, hazardous connections, and improper grounding.
+What are the six basic tool safety practices?	Maintain regularly; use right tool for the job; inspect before use; operate according to manufacturer's instructions; use the right personal protective equipment (PPE); use guards.
+What usually causes hand tool hazards?	Misuse and improper maintenance.
+Why are hand tool hazards difficult to spot?	May be difficult to spot due to familiarity.
+What hand tools should not be used? (List 4)	Wrenches when jaws are sprung; impact tools (chisels and wedges) when heads have mushroomed; tools with loose, cracked or splintered handles; screwdrivers as a chisels.
+What are three protection measures when using hand tools?	"Use PPE, such as safety goggles and gloves; keep floor surface free from debris and tripping or slipping hazards; keep cutting tools sharp.
+
+================================================================================
+POWER TOOLS - TYPES BY POWER SOURCE
+================================================================================"
+What are the five types of power tools determined by their power source?	Electric; pneumatic; liquid fuel; hydraulic; powder-actuated.
+What must power tools be fitted with?	Guards and safety switches.
+Are power tools dangerous when used improperly?	Extremely hazardous when used improperly.
+What are the two types of switches for hand-held power tools?	Constant pressure switch (shuts off power upon release; examples: circular saw, chain saw, grinder, hand held power drill); on-off switch (examples: routers, planers, laminate trimmers, shears, jig saws, nibblers, scroll saws).
+What are seven precautions when using power tools?	"Disconnect tools when not in use, before servicing and cleaning, and when changing accessories; keep people not involved with the work away from the work; secure work with clamps or a vise, freeing both hands to operate the tool; don't hold the switch button while carrying a plugged-in tool; keep tools sharp and clean; consider what you wear (loose clothing and jewelry can get caught in moving parts); remove damaged electric tools and tag them ""Do Not Use""."
+What are four precautions for electric cords on power tools?	Don't carry portable tools by the cord; don't use electric cords to hoist or lower tools; don't yank cord or hose to disconnect it; keep cords and hoses away from heat, oil, and sharp edges.
+What are three ways to protect a worker from shock with electric power tools?	Have a 3-wire cord plugged into a grounded receptacle; be double insulated; be powered by a low-voltage isolation transformer.
+What are six best practices when using electric tools?	"Operate within design limits; use gloves and safety shoes; store in a dry place; don't use in wet locations unless approved for that; work areas well lit; ensure cords don't present a tripping hazard.
+
+================================================================================
+ABRASIVE WHEELS AND TOOLS - GUARDS
+================================================================================"
+What must abrasive wheels and tools be equipped with?	Guards that cover the spindle end, nut, and flange projections; maintain proper alignment with the wheel; don't exceed the strength of the fastenings.
+How should abrasive wheels be inspected before mounting?	Inspect closely for damage; perform sound- or ring-test to ensure free from cracks/defects.
+How do you test an abrasive wheel for cracks?	Tap wheel gently with a light, non-metallic instrument. If wheel sounds cracked or dead, do not use it because it could fly apart.
+What are six safety precautions when using abrasive wheels?	Fit the wheel on the spindle freely; tighten the spindle nut enough to hold the wheel in place without distorting the flange; let the tool come up to speed prior to grinding or cutting; don't stand in front of the wheel as it comes up to full speed; use eye and/or face protection; ensure the spindle speed doesn't exceed the maximum speed marked on the wheel.
+How far should work rests be kept from the wheel surface?	Keep work rests not more than 1/8th inch from wheel surface.
+Why is it important to keep work rests close to the wheel?	This prevents jamming the work between the wheel and the rest, which may cause the wheel to break.
+Should you adjust the wheel while it's rotating?	"Don't adjust wheel while it's rotating.
+
+================================================================================
+GUARDING - GENERAL REQUIREMENTS
+================================================================================"
+What parts of power tools must be guarded?	Exposed moving parts of power tools; belts, gears, shafts, pulleys, sprockets, spindles, flywheels, chains, or other moving parts.
+Should you remove a guard when a tool is in use?	Never remove a guard when a tool is in use.
+What is the point of operation?	The point of operation is where the work is performed on the materials. It must be guarded.
+What four hazards must machine guards protect the operator and others from?	"Point of operation; in-running nip points; rotating parts; flying chips and sparks.
+
+================================================================================
+PNEUMATIC TOOLS
+================================================================================"
+What is the main hazard of pneumatic tools?	Getting hit by a tool attachment or by a fastener the worker is using with the tool.
+What precautions should be taken with air hoses on pneumatic tools?	Take the same precautions with an air hose that you take with electric cords.
+What types of tools are pneumatic tools?	Powered by compressed air. Includes nailers, staplers, chippers, drills, and sanders.
+How should pneumatic tools be fastened to the hose?	Ensure tool is fastened securely to the hose to prevent a disconnection.
+What device should be used to attach the air hose to pneumatic tools?	Use a short wire or positive locking device attaching the air hose to the tool.
+When must a safety device be placed on the muzzle of a pneumatic tool?	Place a safety device on the muzzle to prevent the tool from ejecting fasteners, unless the muzzle is in contact with work surface.
+What should be installed to prevent ejection from pneumatic tools?	Install a safety clip or retainer to prevent attachments, such as chisels on a chipping hammer, from being ejected.
+What PPE is required for pneumatic tools?	Wear eye protection and hearing protection with jackhammers.
+Is compressed air allowed for cleaning?	Do not use compressed air for cleaning.
+What is the exception for using compressed air for cleaning?	"Exception: where pressure is reduced to less than 30 psi with effective chip guarding and PPE.
+
+================================================================================
+LIQUID FUEL TOOLS
+================================================================================"
+What type of fuel usually powers liquid fuel tools?	Usually gas powered.
+What is the main hazard of liquid fuel tools?	Fuel vapors.
+What type of containers must be used for liquid fuel tools?	Use only approved flammable liquid containers.
+What must be done before refilling a fuel-powered tool tank?	"Before refilling a fuel-powered tool tank, shut down the engine and allow it to cool.
+
+================================================================================
+POWDER-ACTUATED TOOLS
+================================================================================"
+What training is required for powder-actuated tool operators?	User must be trained and licensed to operate.
+What must be done each day before loading a powder-actuated tool?	Test tool each day before loading to ensure the safety devices are working properly.
+What PPE is required for powder-actuated tools?	Wear suitable ear, eye, and face protection.
+How should powder level be selected for powder-actuated tools?	Select a powder level that will do the work without excessive force.
+What should you avoid driving into when using powder-actuated tools?	Materials easily penetrated unless backed by a substance that prevents the pin or fastener from passing through; also avoid very hard or brittle materials that might chip, splatter, or make fasteners ricochet.
+When should you NOT use powder-actuated tools?	In explosive or flammable atmospheres.
+What three conditions must be verified when inspecting a powder-actuated tool before use?	It is clean, moving parts operate freely, and the barrel is free from obstructions with proper shield, guard, and attachments.
+What are the safe handling requirements for loaded powder-actuated tools?	"Don't load unless using immediately, don't leave loaded tools unattended, keep hands clear of barrel end, never point at anyone, and store unloaded in a locked box.
+
+================================================================================
+JACKS
+================================================================================"
+What five requirements must be met when setting up a jack?	Base on firm level surface, centered, jack head placed against level surface, apply lift force evenly, and lubricate and inspect regularly.
+What must be marked on all jacks and must not be exceeded?	The manufacturer's rated capacity.
+What must all jacks have that is not exceeded?	A stop indicator.
+When should you block the load when using a jack?	"Immediately after it is lifted. Put a block under the base when foundation is not firm and place a block between the jack cap and load if the cap might slip.
+
+================================================================================
+EXCAVATIONS - DEFINITIONS
+================================================================================"
+What is an excavation?	A man-made cut, cavity, trench, or depression formed by earth removal.
+What is a trench?	A narrow excavation where the depth is greater than the width, but not wider than 15 feet.
+What is a shield in excavation work?	A structure able to withstand a cave-in and protect employees.
+What is shoring?	A structure that supports the sides of an excavation and protects against cave-ins.
+What is sloping in excavation work?	"A technique that employs a specific angle of incline on the sides of the excavation. The angle varies based on assessment of impacting site factors.
+
+================================================================================
+EXCAVATION HAZARDS
+================================================================================"
+What is the greatest risk at an excavation?	Cave-ins.
+What are six other excavation hazards besides cave-ins?	"Asphyxiation due to lack of oxygen, inhalation of toxic materials, fire, moving machinery near the edge causing collapse, accidental severing of underground utility lines, and mobile equipment.
+
+================================================================================
+PROTECTIVE SYSTEMS DESIGN
+================================================================================"
+What five factors must be considered when designing a protective system for excavations?	"Soil classification, depth of cut, water content of soil, weather and climate, and other operations in the vicinity.
+
+================================================================================
+SHORING
+================================================================================"
+What three components does shoring use to provide a framework?	Walls, cross braces, and uprights.
+What three things must you know to use OSHA shoring tables?	Soil type, depth and width of excavation, and must be familiar with the OSHA Tables.
+What are installed in hydraulic trench support systems in case of hydraulic failure?	Trench pins.
+What must be done if excavation protective equipment is damaged?	"The competent person must examine it to see if suitable for continued use. If not suitable, remove from service until a professional engineer approves it for use.
+
+================================================================================
+PROTECTION FROM VEHICLES
+================================================================================"
+What five methods can protect workers from vehicles at excavation sites?	"Install barricades, use hand/mechanical signals, use stop logs, grade soil away from excavation, and fence or barricade trenches left overnight.
+
+================================================================================
+SPOILS
+================================================================================"
+How far from the edge of an excavation should spoils not be placed?	Within 2 feet from edge of excavation.
+Where should spoils be measured from?	From the nearest part of the spoil to the excavation edge.
+How should spoils be placed relative to rainwater?	"Place spoils so rainwater runs away from the excavation, and place spoil well away from the excavation.
+
+================================================================================
+HAZARDOUS ATMOSPHERE
+================================================================================"
+At what excavation depth must testing be done before employee entry?	More than 4 feet deep.
+What three atmospheric hazards must excavations deeper than 4 feet be tested for?	"Oxygen deficiency, high combustible gas concentration, and high levels of other hazardous substances.
+
+================================================================================
+MEANS OF EGRESS
+================================================================================"
+In excavations 4 or more feet deep, within what distance must a means of egress be provided?	Within 25 feet of employees.
+How far must a ladder extend above an excavation?	"3 feet above the excavation.
+
+================================================================================
+PROTECTION FROM FALLS AND MOBILE EQUIPMENT
+================================================================================"
+When should a flagger be used at excavation sites?	"When signs, signals and barricades are not enough protection.
+
+================================================================================
+COMPETENT PERSON
+================================================================================"
+What three topics must a competent person have specific training in and be knowledgeable about?	Soils classification, use of protective systems, and requirements of the standard.
+What must a competent person be capable of and authorized to do?	"Capable of identifying hazards and authorized to immediately eliminate hazards.
+
+================================================================================
+INSPECTIONS OF EXCAVATIONS
+================================================================================"
+When must a competent person make daily inspections of excavations?	Before work starts and as needed; after rainstorms, high winds or other occurrence which may increase hazards; and when you can reasonably anticipate an employee will be exposed to hazards.
+What action must be taken if a competent person finds evidence of possible cave-in, protective system failure, hazardous atmospheres, or other hazardous conditions?	"Exposed employees must be removed from the hazardous area. Employees may not return until necessary precautions have been taken.
+
+================================================================================
+SITE EVALUATION PLANNING
+================================================================================"
+What six tasks should be completed before beginning excavation?	"Evaluate soil conditions, construct protective systems, test for low oxygen/hazardous fumes/toxic gases, provide safe in and out access, contact utilities, and determine the safety equipment needed.
+
+================================================================================
+END OF FLASHCARDS
+================================================================================
+
+Total Flashcards: 400+
+
+This deck is ready to use with Anki (open source flashcard software) or to share with your training group in GroupMe!
+
+To use with Anki:
+1. Download Anki from https://apps.ankiweb.net/
+2. Import this file
+3. Study anywhere on desktop or mobile
+
+To share in GroupMe:
+- Copy and paste individual Q&A pairs
+- Share specific sections relevant to upcoming tests
+- Study together with your Airstreams cohort in Tehachapi!
+
+Good luck with your OSHA 10HR Construction training!"

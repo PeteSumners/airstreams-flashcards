@@ -1,0 +1,49 @@
+{
+  "modules": [
+    {
+      "id": "fall-hazards",
+      "title": "Fall Hazards & Protection",
+      "description": "OSHA 10HR Construction - Fall hazards, PFAS, guardrails, safety nets, and fall protection planning",
+      "cardCount": 141,
+      "topics": [
+        "Fall Statistics",
+        "Guardrails (1926.502)",
+        "Safety Nets (1926.105)",
+        "Personal Fall Arrest Systems (PFAS)",
+        "Anchorage Requirements",
+        "Body Harness vs Body Belts",
+        "Connectors & Lanyards",
+        "Equipment Inspection",
+        "Rescue Planning"
+      ],
+      "flashcardsFile": "flashcards-fall-hazards.js",
+      "enabled": true
+    },
+    {
+      "id": "excavations",
+      "title": "Excavations & Trenching",
+      "description": "OSHA Construction - Excavation safety, cave-ins, protective systems, and soil classification",
+      "cardCount": 0,
+      "topics": [
+        "Excavation Definitions",
+        "Cave-In Hazards",
+        "Protective Systems (Shoring, Sloping, Shielding)",
+        "Soil Classification",
+        "Atmospheric Testing",
+        "Competent Person Requirements",
+        "Spoil Placement",
+        "Means of Egress"
+      ],
+      "flashcardsFile": "flashcards-excavations.js",
+      "enabled": false,
+      "status": "Coming Soon - Add your training video"
+    }
+  ],
+  "settings": {
+    "projectName": "Airstreams Training Flashcards",
+    "organization": "Airstreams Renewables",
+    "location": "Tehachapi, CA",
+    "description": "Training flashcards for all Airstreams courses - OSHA, technical training, and more",
+    "version": "1.0"
+  }
+}
