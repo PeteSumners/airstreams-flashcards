@@ -49,6 +49,7 @@ function createModuleCard(module) {
         <div class="module-meta">
             <span class="module-card-count">${module.cardCount} cards</span>
             ${module.status ? `<span class="module-status">${module.status}</span>` : ''}
+            ${module.slidesDownload ? `<a href="${module.slidesDownload}" class="slides-download" onclick="event.stopPropagation();" download>📥 Download Slides</a>` : ''}
         </div>
     `;
 

@@ -129,6 +129,28 @@ header {
     font-style: italic;
 }
 
+.slides-download {
+    background: linear-gradient(135deg, #56ab2f 0%, #a8e063 100%);
+    color: white;
+    padding: 6px 12px;
+    border-radius: 15px;
+    font-size: 0.85em;
+    font-weight: 600;
+    text-decoration: none;
+    display: inline-block;
+    transition: all 0.3s;
+}
+
+.slides-download:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 12px rgba(86, 171, 47, 0.3);
+}
+
+.module-meta {
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
 .loading {
     text-align: center;
     color: #999;

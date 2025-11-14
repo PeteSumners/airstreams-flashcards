@@ -74,6 +74,23 @@ See [QUICK_START.md](QUICK_START.md) for walkthrough.
 10. **Hand & Power Tools** (51 cards) - Tool safety, guards, pneumatic, powder-actuated
 11. **Excavations & Trenching** (26 cards) - Cave-ins, shoring, sloping, competent person
 
+**Additional Specialized Training:**
+
+12. **Fire Awareness for Wind Turbines** (43 cards) - Fire tetrahedron, extinguishers, evacuation
+13. **Crane Signalperson** (44 cards) - NCCCO standards, hand signals, OSHA & ASME compliance
+
+**Total: 13 modules, 458 flashcards**
+
+## Slide Downloads
+
+All training slide images are available for download:
+
+- **OSHA 10HR Training Slides**: [Download ZIP](https://petesumners.github.io/airstreams-flashcards/downloads/osha-powerpoint-slides.zip) (Modules 1-11)
+- **Fire Awareness Slides**: [Download ZIP](https://petesumners.github.io/airstreams-flashcards/downloads/fire-awareness-slides.zip)
+- **Signalperson Training Slides**: [Download ZIP](https://petesumners.github.io/airstreams-flashcards/downloads/signalperson-slides.zip)
+
+Slide downloads are also available directly on each module card in the web app.
+
 ## Study Options
 
 ### 1. Web App (Recommended)
