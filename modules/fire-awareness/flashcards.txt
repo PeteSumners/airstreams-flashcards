@@ -1,0 +1,128 @@
+Q: What are the four elements of the Fire Tetrahedron that must be present for fire to be sustained?
+A: Heat, Fuel, Oxygen, and Chemical Reaction
+
+Q: What flammable materials create fire hazards in wind turbines?
+A: Hydraulic oil, lubricants, composite materials, and insulation
+
+Q: According to Wind Power Engineering Magazine, what is the estimated fire frequency for wind turbines?
+A: 1 in 2000 wind turbines will catch fire each year
+
+Q: How many wind turbine fires were estimated in the USA in 2021 based on 87,000 turbines operating?
+A: Approximately 43 fires (both reported and unreported)
+
+Q: What is NFPA 850?
+A: The National Fire Protection Association's recommended practice for protection of electric generating plants and high-voltage direct current converter stations, with Chapter 10 identifying hazards and protections for wind-power facilities
+
+Q: Are fire detection and suppression systems required for wind turbines under NFPA 850?
+A: No, they are only recommended and not required
+
+Q: What OSHA construction regulations apply to fire protection in wind turbines?
+A: 29 CFR 1926 Subpart C - General Safety and Health Provisions; 1926.24 - Fire protection and prevention; 1926.34 - Means of egress; 1926.35 - Employee emergency action plans
+
+Q: What sources of ignition exist in a wind turbine generator (WTG)?
+A: Electrical malfunction, faults, arcs, lightning, and hot surfaces (gearbox, generator, brake system, bearings, transformers)
+
+Q: What sources of fuel exist in a wind turbine generator?
+A: Composite materials, gearbox oil, oil pumps, hydraulic fluid, oil-filled transformer, hydraulic pitch systems, and yaw drive oils
+
+Q: What is oxygen's role in fire?
+A: Oxygen is not inherently flammable; it's an oxidizing agent that helps other things burn. More oxygen makes fire burn hotter and faster.
+
+Q: What is conduction in terms of fire spread?
+A: The spread of fire through direct contact between materials
+
+Q: What is convection in fire spread?
+A: Heat transfer by the movement of liquids or gases
+
+Q: What is radiation in fire spread?
+A: Heat that travels through air in the form of waves (infrared rays) that radiates outward from flames and can cause objects to catch fire when the waves strike them
+
+Q: What are the four methods to fight fires?
+A: Removing sources of heat, removing sources of fuel, removing oxygen, and stopping the chemical reaction
+
+Q: What does cooling do to extinguish a fire?
+A: It cools the fuel to a point where it does not produce sufficient vapor to burn and establishes a negative heat balance
+
+Q: What does smothering do to extinguish a fire?
+A: It cuts off the oxygen supply that feeds the blaze; without oxygen, the fire will burn out
+
+Q: What does starvation do to extinguish a fire?
+A: It removes potential fuel from the vicinity of the fire (e.g., back burning forestry fires)
+
+Q: How do halogenated fire extinguishing systems work?
+A: They contain a Halon agent that inhibits the chemical reaction of fuel and oxygen. Bromine, iodine, and chlorine atoms act catalytically to stop the combustion chain reaction.
+
+Q: What does PASS stand for when using a fire extinguisher?
+A: Pull (the pin), Aim (at the base of the fire), Squeeze (the handle), Sweep (from side to side)
+
+Q: What are the five main classifications of fires?
+A: Class A (ordinary combustibles), Class B (flammable liquids), Class C (live electrical equipment), Class D (combustible metals), Class K (commercial cooking equipment)
+
+Q: What types of materials are Class A fires?
+A: Wood, paper, cloth, etc. (ordinary combustibles)
+
+Q: What types of materials are Class B fires?
+A: Grease, oil, paint, solvents (flammable liquids)
+
+Q: What types of materials are Class C fires?
+A: Electrical panel, motor, wiring, etc. (live electrical equipment)
+
+Q: What types of materials are Class D fires?
+A: Magnesium, aluminum, etc. (combustible metals)
+
+Q: What types of materials are Class K fires?
+A: Cooking oils, animal fats, vegetable oils (commercial cooking equipment)
+
+Q: What type of extinguisher should be used on Class A fires?
+A: Water, dry powder, or foam
+
+Q: What type of extinguisher should be used on Class B fires?
+A: Dry powder, foam, or CO2
+
+Q: What type of extinguisher should be used on Class C fires?
+A: CO2, dry powder (never water or wet chemical)
+
+Q: What type of extinguisher should be used on Class D fires?
+A: Specialized dry powder for metal fires
+
+Q: What type of extinguisher should be used on Class K fires?
+A: Wet chemical
+
+Q: What are the 6 steps of fire extinguisher inspection?
+A: Step 1: Ensure you have easy access; Step 2: Check the fire extinguisher inspection tag; Step 3: Gauge the pressure; Step 4: Confirm the hose and pin are in place; Step 5: Look for physical damage; Step 6: Update the inspection tag
+
+Q: What does NFPA 10 require for portable fire extinguisher inspections?
+A: Extinguishers must be inspected when they are initially installed and once a month after that
+
+Q: What is active fire protection?
+A: Fire protection systems that require action, such as smoke detectors, fire sprinklers, and fire suppression systems (rapid detection, triggering alarms, and quick-acting suppression)
+
+Q: What is passive fire protection?
+A: Fire protection that, once implemented, does not require additional action
+
+Q: What are examples of passive fire protection in wind turbines?
+A: Choosing noncombustible materials during construction (specifically the nacelle), selecting/using noncombustible hydraulic and lubrication oils, compartmentalizing the nacelle area, installing lightning protection systems, and installing systems to monitor component/equipment conditions
+
+Q: What is a fire blanket?
+A: A safety device designed to extinguish incipient (starting) fires, consisting of a sheet of fire-retardant material placed over a fire to smother it
+
+Q: What materials are small fire blankets typically made of?
+A: Glass fiber and sometimes Kevlar, folded into a quick-release contraption for ease of storage
+
+Q: What materials are large industrial fire blankets typically made of?
+A: Wool, sometimes treated with flame retardant chemicals such as hexafluoro zirconate and zirconium acetate, mounted in vertical quick-release containers
+
+Q: Why should you "get low and go" during a fire evacuation?
+A: Smoke rises - staying low keeps you in the least smoke-filled area with better visibility. Heat rises - temperatures near the ceiling can be hundreds of degrees higher than on the floor. Fresh, cooler air usually comes in at the lowest levels.
+
+Q: What should you demonstrate for wind turbine evacuation?
+A: Demonstrate "your" means of evacuation and remove yourself from the source
+
+Q: What evacuation features might wind turbine towers have?
+A: Towers may have self-closing doors, and fire doors are left open
+
+Q: What is a critical evacuation safety rule in wind turbines?
+A: Always know your means of escape
+
+Q: What evacuation considerations are important for wind turbines?
+A: Escape routes, use of specific descent devices as escape route devices, how to attach non-permanently installed emergency descent devices, understanding available emergency stop systems and mechanical blocking of rotor/pitch/yaw systems, and wind speeds

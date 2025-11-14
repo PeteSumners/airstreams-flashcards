@@ -1,0 +1,43 @@
+What are the four elements of the Fire Tetrahedron that must be present for fire to be sustained?	Heat, Fuel, Oxygen, and Chemical Reaction
+What flammable materials create fire hazards in wind turbines?	Hydraulic oil, lubricants, composite materials, and insulation
+According to Wind Power Engineering Magazine, what is the estimated fire frequency for wind turbines?	1 in 2000 wind turbines will catch fire each year
+How many wind turbine fires were estimated in the USA in 2021 based on 87,000 turbines operating?	Approximately 43 fires (both reported and unreported)
+What is NFPA 850?	The National Fire Protection Association's recommended practice for protection of electric generating plants and high-voltage direct current converter stations, with Chapter 10 identifying hazards and protections for wind-power facilities
+Are fire detection and suppression systems required for wind turbines under NFPA 850?	No, they are only recommended and not required
+What OSHA construction regulations apply to fire protection in wind turbines?	29 CFR 1926 Subpart C - General Safety and Health Provisions; 1926.24 - Fire protection and prevention; 1926.34 - Means of egress; 1926.35 - Employee emergency action plans
+What sources of ignition exist in a wind turbine generator (WTG)?	Electrical malfunction, faults, arcs, lightning, and hot surfaces (gearbox, generator, brake system, bearings, transformers)
+What sources of fuel exist in a wind turbine generator?	Composite materials, gearbox oil, oil pumps, hydraulic fluid, oil-filled transformer, hydraulic pitch systems, and yaw drive oils
+What is oxygen's role in fire?	Oxygen is not inherently flammable; it's an oxidizing agent that helps other things burn. More oxygen makes fire burn hotter and faster.
+What is conduction in terms of fire spread?	The spread of fire through direct contact between materials
+What is convection in fire spread?	Heat transfer by the movement of liquids or gases
+What is radiation in fire spread?	Heat that travels through air in the form of waves (infrared rays) that radiates outward from flames and can cause objects to catch fire when the waves strike them
+What are the four methods to fight fires?	Removing sources of heat, removing sources of fuel, removing oxygen, and stopping the chemical reaction
+What does cooling do to extinguish a fire?	It cools the fuel to a point where it does not produce sufficient vapor to burn and establishes a negative heat balance
+What does smothering do to extinguish a fire?	It cuts off the oxygen supply that feeds the blaze; without oxygen, the fire will burn out
+What does starvation do to extinguish a fire?	It removes potential fuel from the vicinity of the fire (e.g., back burning forestry fires)
+How do halogenated fire extinguishing systems work?	They contain a Halon agent that inhibits the chemical reaction of fuel and oxygen. Bromine, iodine, and chlorine atoms act catalytically to stop the combustion chain reaction.
+What does PASS stand for when using a fire extinguisher?	Pull (the pin), Aim (at the base of the fire), Squeeze (the handle), Sweep (from side to side)
+What are the five main classifications of fires?	Class A (ordinary combustibles), Class B (flammable liquids), Class C (live electrical equipment), Class D (combustible metals), Class K (commercial cooking equipment)
+What types of materials are Class A fires?	Wood, paper, cloth, etc. (ordinary combustibles)
+What types of materials are Class B fires?	Grease, oil, paint, solvents (flammable liquids)
+What types of materials are Class C fires?	Electrical panel, motor, wiring, etc. (live electrical equipment)
+What types of materials are Class D fires?	Magnesium, aluminum, etc. (combustible metals)
+What types of materials are Class K fires?	Cooking oils, animal fats, vegetable oils (commercial cooking equipment)
+What type of extinguisher should be used on Class A fires?	Water, dry powder, or foam
+What type of extinguisher should be used on Class B fires?	Dry powder, foam, or CO2
+What type of extinguisher should be used on Class C fires?	CO2, dry powder (never water or wet chemical)
+What type of extinguisher should be used on Class D fires?	Specialized dry powder for metal fires
+What type of extinguisher should be used on Class K fires?	Wet chemical
+What are the 6 steps of fire extinguisher inspection?	Step 1: Ensure you have easy access; Step 2: Check the fire extinguisher inspection tag; Step 3: Gauge the pressure; Step 4: Confirm the hose and pin are in place; Step 5: Look for physical damage; Step 6: Update the inspection tag
+What does NFPA 10 require for portable fire extinguisher inspections?	Extinguishers must be inspected when they are initially installed and once a month after that
+What is active fire protection?	Fire protection systems that require action, such as smoke detectors, fire sprinklers, and fire suppression systems (rapid detection, triggering alarms, and quick-acting suppression)
+What is passive fire protection?	Fire protection that, once implemented, does not require additional action
+What are examples of passive fire protection in wind turbines?	Choosing noncombustible materials during construction (specifically the nacelle), selecting/using noncombustible hydraulic and lubrication oils, compartmentalizing the nacelle area, installing lightning protection systems, and installing systems to monitor component/equipment conditions
+What is a fire blanket?	A safety device designed to extinguish incipient (starting) fires, consisting of a sheet of fire-retardant material placed over a fire to smother it
+What materials are small fire blankets typically made of?	Glass fiber and sometimes Kevlar, folded into a quick-release contraption for ease of storage
+What materials are large industrial fire blankets typically made of?	Wool, sometimes treated with flame retardant chemicals such as hexafluoro zirconate and zirconium acetate, mounted in vertical quick-release containers
+Why should you "get low and go" during a fire evacuation?	Smoke rises - staying low keeps you in the least smoke-filled area with better visibility. Heat rises - temperatures near the ceiling can be hundreds of degrees higher than on the floor. Fresh, cooler air usually comes in at the lowest levels.
+What should you demonstrate for wind turbine evacuation?	Demonstrate "your" means of evacuation and remove yourself from the source
+What evacuation features might wind turbine towers have?	Towers may have self-closing doors, and fire doors are left open
+What is a critical evacuation safety rule in wind turbines?	Always know your means of escape
+What evacuation considerations are important for wind turbines?	Escape routes, use of specific descent devices as escape route devices, how to attach non-permanently installed emergency descent devices, understanding available emergency stop systems and mechanical blocking of rotor/pitch/yaw systems, and wind speeds

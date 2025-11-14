@@ -176,6 +176,53 @@
       ],
       "flashcardsFile": "flashcards-excavations.js",
       "enabled": true
+    },
+    {
+      "id": "fire-awareness",
+      "title": "Fire Awareness for Wind Turbines",
+      "description": "Fire safety for wind turbines - Fire tetrahedron, ignition sources, extinguishers, classifications, evacuation",
+      "cardCount": 43,
+      "topics": [
+        "Fire Tetrahedron",
+        "Wind Turbine Fire Hazards",
+        "Fire Statistics",
+        "NFPA 850 & OSHA Regulations",
+        "Ignition & Fuel Sources",
+        "Heat Transmission Methods",
+        "Fire Extinguishing Methods",
+        "Fire Classifications (A, B, C, D, K)",
+        "Fire Extinguisher Types",
+        "NFPA 10 Inspection",
+        "Active vs Passive Fire Protection",
+        "Fire Blankets",
+        "Evacuation Procedures"
+      ],
+      "flashcardsFile": "flashcards-fire-awareness.js",
+      "enabled": true
+    },
+    {
+      "id": "signalperson",
+      "title": "Crane Signalperson",
+      "description": "NCCCO crane signalperson training - Hand signals, qualifications, safety, OSHA & ASME standards",
+      "cardCount": 44,
+      "topics": [
+        "Signalperson Qualifications",
+        "Crane Accident Causes",
+        "Roles & Responsibilities",
+        "OSHA 1926 Subpart CC",
+        "ASME B30.5 & B30.3 Standards",
+        "Overhead Power Line Safety",
+        "Work Area Control Zones",
+        "Lifting Principles",
+        "Center of Gravity & Drift",
+        "Two Blocking Prevention",
+        "Planning & Documentation",
+        "Voice Communication Protocols",
+        "Standard Hand Signals",
+        "Audible Signals"
+      ],
+      "flashcardsFile": "flashcards-signalperson.js",
+      "enabled": true
     }
   ],
   "settings": {
