@@ -1,0 +1,167 @@
+# OSHA 10HR Construction Training Flashcards
+# Created from Airstreams Renewables Training - Tehachapi, CA
+# Format: Q&A pairs compatible with web app and Quizlet
+# Contact: petesumners@outlook.com to submit corrections or new cards
+
+
+================================================================================
+EXCAVATIONS - DEFINITIONS
+EXCAVATIONS - DEFINITIONS
+================================================================================
+
+Q: What is an excavation?
+A: A man-made cut, cavity, trench, or depression formed by earth removal.
+
+Q: What is a trench?
+A: A narrow excavation where the depth is greater than the width, but not wider than 15 feet.
+
+Q: What is a shield in excavation work?
+A: A structure able to withstand a cave-in and protect employees.
+
+Q: What is shoring?
+A: A structure that supports the sides of an excavation and protects against cave-ins.
+
+Q: What is sloping in excavation work?
+A: A technique that employs a specific angle of incline on the sides of the excavation. The angle varies based on assessment of impacting site factors.
+
+
+
+================================================================================
+EXCAVATION HAZARDS
+EXCAVATION HAZARDS
+================================================================================
+
+Q: What is the greatest risk at an excavation?
+A: Cave-ins.
+
+Q: What are six other excavation hazards besides cave-ins?
+A: Asphyxiation due to lack of oxygen, inhalation of toxic materials, fire, moving machinery near the edge causing collapse, accidental severing of underground utility lines, and mobile equipment.
+
+
+
+================================================================================
+PROTECTIVE SYSTEMS DESIGN
+PROTECTIVE SYSTEMS DESIGN
+================================================================================
+
+Q: What five factors must be considered when designing a protective system for excavations?
+A: Soil classification, depth of cut, water content of soil, weather and climate, and other operations in the vicinity.
+
+
+
+================================================================================
+SHORING
+SHORING
+================================================================================
+
+Q: What three components does shoring use to provide a framework?
+A: Walls, cross braces, and uprights.
+
+Q: What three things must you know to use OSHA shoring tables?
+A: Soil type, depth and width of excavation, and must be familiar with the OSHA Tables.
+
+Q: What are installed in hydraulic trench support systems in case of hydraulic failure?
+A: Trench pins.
+
+Q: What must be done if excavation protective equipment is damaged?
+A: The competent person must examine it to see if suitable for continued use. If not suitable, remove from service until a professional engineer approves it for use.
+
+
+
+================================================================================
+PROTECTION FROM VEHICLES
+PROTECTION FROM VEHICLES
+================================================================================
+
+Q: What five methods can protect workers from vehicles at excavation sites?
+A: Install barricades, use hand/mechanical signals, use stop logs, grade soil away from excavation, and fence or barricade trenches left overnight.
+
+
+
+================================================================================
+SPOILS
+SPOILS
+================================================================================
+
+Q: How far from the edge of an excavation should spoils not be placed?
+A: Within 2 feet from edge of excavation.
+
+Q: Where should spoils be measured from?
+A: From the nearest part of the spoil to the excavation edge.
+
+Q: How should spoils be placed relative to rainwater?
+A: Place spoils so rainwater runs away from the excavation, and place spoil well away from the excavation.
+
+
+
+================================================================================
+HAZARDOUS ATMOSPHERE
+HAZARDOUS ATMOSPHERE
+================================================================================
+
+Q: At what excavation depth must testing be done before employee entry?
+A: More than 4 feet deep.
+
+Q: What three atmospheric hazards must excavations deeper than 4 feet be tested for?
+A: Oxygen deficiency, high combustible gas concentration, and high levels of other hazardous substances.
+
+
+
+================================================================================
+MEANS OF EGRESS
+MEANS OF EGRESS
+================================================================================
+
+Q: In excavations 4 or more feet deep, within what distance must a means of egress be provided?
+A: Within 25 feet of employees.
+
+Q: How far must a ladder extend above an excavation?
+A: 3 feet above the excavation.
+
+
+
+================================================================================
+PROTECTION FROM FALLS AND MOBILE EQUIPMENT
+PROTECTION FROM FALLS AND MOBILE EQUIPMENT
+================================================================================
+
+Q: When should a flagger be used at excavation sites?
+A: When signs, signals and barricades are not enough protection.
+
+
+
+================================================================================
+COMPETENT PERSON
+COMPETENT PERSON
+================================================================================
+
+Q: What three topics must a competent person have specific training in and be knowledgeable about?
+A: Soils classification, use of protective systems, and requirements of the standard.
+
+Q: What must a competent person be capable of and authorized to do?
+A: Capable of identifying hazards and authorized to immediately eliminate hazards.
+
+
+
+================================================================================
+INSPECTIONS OF EXCAVATIONS
+INSPECTIONS OF EXCAVATIONS
+================================================================================
+
+Q: When must a competent person make daily inspections of excavations?
+A: Before work starts and as needed; after rainstorms, high winds or other occurrence which may increase hazards; and when you can reasonably anticipate an employee will be exposed to hazards.
+
+Q: What action must be taken if a competent person finds evidence of possible cave-in, protective system failure, hazardous atmospheres, or other hazardous conditions?
+A: Exposed employees must be removed from the hazardous area. Employees may not return until necessary precautions have been taken.
+
+
+
+================================================================================
+SITE EVALUATION PLANNING
+SITE EVALUATION PLANNING
+================================================================================
+
+Q: What six tasks should be completed before beginning excavation?
+A: Evaluate soil conditions, construct protective systems, test for low oxygen/hazardous fumes/toxic gases, provide safe in and out access, contact utilities, and determine the safety equipment needed.
+
+

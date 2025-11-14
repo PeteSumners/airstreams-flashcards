@@ -1,0 +1,105 @@
+# OSHA 10HR Construction Training Flashcards
+# Created from Airstreams Renewables Training - Tehachapi, CA
+# Format: Q&A pairs compatible with web app and Quizlet
+# Contact: petesumners@outlook.com to submit corrections or new cards
+
+
+================================================================================
+ELECTRICAL HAZARDS
+ELECTRICAL HAZARDS
+================================================================================
+
+Q: What percentage of the U.S. workforce is construction, and what percentage of occupational fatalities does it account for?
+A: Approximately 8% of the U.S. workforce, yet accounts for 44% of occupational fatalities.
+
+Q: How many deaths and injuries do electrical hazards cause in the workplace each year?
+A: More than 300 deaths and 4,000 injuries.
+
+Q: What rank do electrical accidents hold among all causes of work-related deaths in the United States?
+A: Sixth among all causes of work-related deaths.
+
+Q: What are the six types of electrical hazards that expose workers to serious workplace hazards?
+A: Burns, electrocution, shock, arc flash/arc blast, fire, and explosions.
+
+Q: What four common electrical hazards exist in construction?
+A: Contact with overhead power lines, contact with energized sources/live parts/bare conductors, improper use of extension cords and flexible cords, and improper grounding.
+
+Q: What OSHA regulation covers installation safety requirements for the construction industry?
+A: 29 CFR Subpart K, 1926.402 through 1926.408.
+
+Q: What are overhead power lines typically described as?
+A: Un-insulated.
+
+Q: What can contact with overhead power lines cause?
+A: Fatal electrocution and falls from heights.
+
+Q: What is the minimum clearance distance for overhead power lines up to 50 kV?
+A: 10 feet.
+
+Q: What is the minimum clearance distance for overhead power lines >50 to 200 kV?
+A: 15 feet.
+
+Q: What is the minimum clearance distance for overhead power lines >200 to 350 kV?
+A: 20 feet.
+
+Q: What is the minimum clearance distance for overhead power lines >350 to 500 kV?
+A: 25 feet.
+
+Q: What is the minimum clearance distance for overhead power lines >500 to 750 kV?
+A: 35 feet.
+
+Q: What is the minimum clearance distance for overhead power lines >750 to 1,000 kV?
+A: 45 feet.
+
+Q: What happens when the body is wetter or has more moisture?
+A: The lower the resistance and the easier it is for the current to pass through the body.
+
+Q: What is a ground in electrical terms?
+A: A conducting connection (whether or not unintentional) between an electrical circuit or equipment and the earth, or to some conducting body that serves in place of the earth.
+
+Q: What does OSHA require construction sites to create before equipment and tools are energized?
+A: An Assured Equipment Grounding Conductor Program (AEGCP).
+
+Q: What does GFCI stand for and what does it do?
+A: Ground Fault Circuit Interrupter - a receptacle with overcurrent protection capabilities.
+
+Q: What is the typical amp rating for a circuit breaker at a house?
+A: 15 amps.
+
+Q: What happens to fuses when blown due to an overcurrent?
+A: They must be replaced (unlike circuit breakers which can be reset unless damaged).
+
+Q: When must extension cords be inspected?
+A: Before each use.
+
+Q: What must be done if a third grounding prong on extension cords cannot be removed?
+A: The tool must be identified as a double insulated tool prior to use.
+
+Q: What must be done if a cord or plug fails inspection?
+A: It must be tagged and taken out of service.
+
+Q: Should you carry a tool by the cord?
+A: Never carry a tool by the cord.
+
+Q: Should you yank the cord to disconnect power tools?
+A: Never yank the cord to disconnect it.
+
+Q: Should power tools be used in wet/damp environments?
+A: No, don't use in wet/damp environments.
+
+Q: According to OSHA construction standards, how must flexible cords be rated per the NEC?
+A: Flexible cords must be rated for hard use and extra hard use, per NEC (National Electric Code).
+
+Q: What voltage threshold requires equipment to be accessible only to authorized workers?
+A: Equipment at 50 volts and higher accessible to authorized workers only.
+
+Q: What communication method should workers be trained on for electrical work?
+A: 4-way communication.
+
+Q: What should workers do before touching circuit components and conductors?
+A: Hot-Cold-Hot procedure.
+
+Q: What does LOTO stand for in safety-related work practices?
+A: Lockout Tagout.
+
+

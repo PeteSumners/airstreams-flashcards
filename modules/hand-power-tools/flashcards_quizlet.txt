@@ -1,0 +1,97 @@
+What are the three main hazard categories for workers using hand and power tools?	Objects that fall, fly, are abrasive, or splash; harmful dusts, fumes, mists, vapors, and gases; frayed or damaged electrical cords, hazardous connections, and improper grounding.
+What are the six basic tool safety practices?	Maintain regularly; use right tool for the job; inspect before use; operate according to manufacturer's instructions; use the right personal protective equipment (PPE); use guards.
+What usually causes hand tool hazards?	Misuse and improper maintenance.
+Why are hand tool hazards difficult to spot?	May be difficult to spot due to familiarity.
+What hand tools should not be used? (List 4)	Wrenches when jaws are sprung; impact tools (chisels and wedges) when heads have mushroomed; tools with loose, cracked or splintered handles; screwdrivers as a chisels.
+What are three protection measures when using hand tools?	Use PPE, such as safety goggles and gloves; keep floor surface free from debris and tripping or slipping hazards; keep cutting tools sharp.
+
+
+
+================================================================================
+POWER TOOLS - TYPES BY POWER SOURCE
+POWER TOOLS - TYPES BY POWER SOURCE
+================================================================================
+What are the five types of power tools determined by their power source?	Electric; pneumatic; liquid fuel; hydraulic; powder-actuated.
+What must power tools be fitted with?	Guards and safety switches.
+Are power tools dangerous when used improperly?	Extremely hazardous when used improperly.
+What are the two types of switches for hand-held power tools?	Constant pressure switch (shuts off power upon release; examples: circular saw, chain saw, grinder, hand held power drill); on-off switch (examples: routers, planers, laminate trimmers, shears, jig saws, nibblers, scroll saws).
+What are seven precautions when using power tools?	Disconnect tools when not in use, before servicing and cleaning, and when changing accessories; keep people not involved with the work away from the work; secure work with clamps or a vise, freeing both hands to operate the tool; don't hold the switch button while carrying a plugged-in tool; keep tools sharp and clean; consider what you wear (loose clothing and jewelry can get caught in moving parts); remove damaged electric tools and tag them "Do Not Use".
+What are four precautions for electric cords on power tools?	Don't carry portable tools by the cord; don't use electric cords to hoist or lower tools; don't yank cord or hose to disconnect it; keep cords and hoses away from heat, oil, and sharp edges.
+What are three ways to protect a worker from shock with electric power tools?	Have a 3-wire cord plugged into a grounded receptacle; be double insulated; be powered by a low-voltage isolation transformer.
+What are six best practices when using electric tools?	Operate within design limits; use gloves and safety shoes; store in a dry place; don't use in wet locations unless approved for that; work areas well lit; ensure cords don't present a tripping hazard.
+
+
+
+================================================================================
+ABRASIVE WHEELS AND TOOLS - GUARDS
+ABRASIVE WHEELS AND TOOLS - GUARDS
+================================================================================
+What must abrasive wheels and tools be equipped with?	Guards that cover the spindle end, nut, and flange projections; maintain proper alignment with the wheel; don't exceed the strength of the fastenings.
+How should abrasive wheels be inspected before mounting?	Inspect closely for damage; perform sound- or ring-test to ensure free from cracks/defects.
+How do you test an abrasive wheel for cracks?	Tap wheel gently with a light, non-metallic instrument. If wheel sounds cracked or dead, do not use it because it could fly apart.
+What are six safety precautions when using abrasive wheels?	Fit the wheel on the spindle freely; tighten the spindle nut enough to hold the wheel in place without distorting the flange; let the tool come up to speed prior to grinding or cutting; don't stand in front of the wheel as it comes up to full speed; use eye and/or face protection; ensure the spindle speed doesn't exceed the maximum speed marked on the wheel.
+How far should work rests be kept from the wheel surface?	Keep work rests not more than 1/8th inch from wheel surface.
+Why is it important to keep work rests close to the wheel?	This prevents jamming the work between the wheel and the rest, which may cause the wheel to break.
+Should you adjust the wheel while it's rotating?	Don't adjust wheel while it's rotating.
+
+
+
+================================================================================
+GUARDING - GENERAL REQUIREMENTS
+GUARDING - GENERAL REQUIREMENTS
+================================================================================
+What parts of power tools must be guarded?	Exposed moving parts of power tools; belts, gears, shafts, pulleys, sprockets, spindles, flywheels, chains, or other moving parts.
+Should you remove a guard when a tool is in use?	Never remove a guard when a tool is in use.
+What is the point of operation?	The point of operation is where the work is performed on the materials. It must be guarded.
+What four hazards must machine guards protect the operator and others from?	Point of operation; in-running nip points; rotating parts; flying chips and sparks.
+
+
+
+================================================================================
+PNEUMATIC TOOLS
+PNEUMATIC TOOLS
+================================================================================
+What is the main hazard of pneumatic tools?	Getting hit by a tool attachment or by a fastener the worker is using with the tool.
+What precautions should be taken with air hoses on pneumatic tools?	Take the same precautions with an air hose that you take with electric cords.
+What types of tools are pneumatic tools?	Powered by compressed air. Includes nailers, staplers, chippers, drills, and sanders.
+How should pneumatic tools be fastened to the hose?	Ensure tool is fastened securely to the hose to prevent a disconnection.
+What device should be used to attach the air hose to pneumatic tools?	Use a short wire or positive locking device attaching the air hose to the tool.
+When must a safety device be placed on the muzzle of a pneumatic tool?	Place a safety device on the muzzle to prevent the tool from ejecting fasteners, unless the muzzle is in contact with work surface.
+What should be installed to prevent ejection from pneumatic tools?	Install a safety clip or retainer to prevent attachments, such as chisels on a chipping hammer, from being ejected.
+What PPE is required for pneumatic tools?	Wear eye protection and hearing protection with jackhammers.
+Is compressed air allowed for cleaning?	Do not use compressed air for cleaning.
+What is the exception for using compressed air for cleaning?	Exception: where pressure is reduced to less than 30 psi with effective chip guarding and PPE.
+
+
+
+================================================================================
+LIQUID FUEL TOOLS
+LIQUID FUEL TOOLS
+================================================================================
+What type of fuel usually powers liquid fuel tools?	Usually gas powered.
+What is the main hazard of liquid fuel tools?	Fuel vapors.
+What type of containers must be used for liquid fuel tools?	Use only approved flammable liquid containers.
+What must be done before refilling a fuel-powered tool tank?	Before refilling a fuel-powered tool tank, shut down the engine and allow it to cool.
+
+
+
+================================================================================
+POWDER-ACTUATED TOOLS
+POWDER-ACTUATED TOOLS
+================================================================================
+What training is required for powder-actuated tool operators?	User must be trained and licensed to operate.
+What must be done each day before loading a powder-actuated tool?	Test tool each day before loading to ensure the safety devices are working properly.
+What PPE is required for powder-actuated tools?	Wear suitable ear, eye, and face protection.
+How should powder level be selected for powder-actuated tools?	Select a powder level that will do the work without excessive force.
+What should you avoid driving into when using powder-actuated tools?	Materials easily penetrated unless backed by a substance that prevents the pin or fastener from passing through; also avoid very hard or brittle materials that might chip, splatter, or make fasteners ricochet.
+When should you NOT use powder-actuated tools?	In explosive or flammable atmospheres.
+What three conditions must be verified when inspecting a powder-actuated tool before use?	It is clean, moving parts operate freely, and the barrel is free from obstructions with proper shield, guard, and attachments.
+What are the safe handling requirements for loaded powder-actuated tools?	Don't load unless using immediately, don't leave loaded tools unattended, keep hands clear of barrel end, never point at anyone, and store unloaded in a locked box.
+
+================================================================================
+JACKS
+================================================================================
+What five requirements must be met when setting up a jack?	Base on firm level surface, centered, jack head placed against level surface, apply lift force evenly, and lubricate and inspect regularly.
+What must be marked on all jacks and must not be exceeded?	The manufacturer's rated capacity.
+What must all jacks have that is not exceeded?	A stop indicator.
+When should you block the load when using a jack?	Immediately after it is lifted. Put a block under the base when foundation is not firm and place a block between the jack cap and load if the cap might slip.

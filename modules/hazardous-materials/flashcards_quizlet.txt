@@ -1,0 +1,136 @@
+What did OSHA create to help ensure safety when working with hazardous chemicals?	The Hazard Communication Standard.
+What is the "right to know"?	You have a RIGHT TO KNOW about the hazardous chemicals you use on the job and how to work safely with those chemicals.
+What are the two main categories of chemical hazards?	Physical hazards (flammable, explosive, reactive) and health hazards (corrosive, toxic).
+
+
+
+================================================================================
+SAFETY DATA SHEETS (SDS)
+SAFETY DATA SHEETS (SDS)
+================================================================================
+What must Safety Data Sheets include regarding chemical identity?	Chemical and manufacturer identity, hazardous ingredients, physical and chemical characteristics, fire/explosion/reactivity information.
+What exposure limit abbreviation stands for Permissible Exposure Limit?	PEL.
+What exposure limit abbreviation stands for Threshold Limit Value?	TLV.
+What health information must SDSs include?	Routes of entry, exposure levels, symptoms of exposure, first-aid and emergency information, PPE requirements, safe handling and storage, spills and leaks, and compliance issues.
+
+
+
+================================================================================
+HAZARDOUS MATERIALS FIRST AID
+HAZARDOUS MATERIALS FIRST AID
+================================================================================
+What is the basic first aid for eye exposure to hazardous materials?	Flush with water for 15 minutes.
+What is the basic first aid for skin exposure to hazardous materials?	Wash with soap and water.
+What is the basic first aid for inhalation of hazardous materials?	Move to fresh air.
+What is the basic first aid for swallowing hazardous materials?	Get emergency medical assistance.
+
+
+
+================================================================================
+CHEMICAL HAZARDS - ROUTES OF ENTRY
+CHEMICAL HAZARDS - ROUTES OF ENTRY
+================================================================================
+What are the four routes of entry for chemical hazards?	Skin and eye contact, inhalation, swallowing, and penetration (skin absorption).
+
+
+
+================================================================================
+HAZARD COMMUNICATION STANDARD
+HAZARD COMMUNICATION STANDARD
+================================================================================
+What must chemical manufacturers do under the Hazard Communication Standard?	Determine a chemical's hazards and provide labels and SDSs.
+What must employers do under the Hazard Communication Standard?	Provide a hazard communication program, maintain safety data sheets (SDS), and train on hazardous materials.
+
+
+
+================================================================================
+LABELS
+LABELS
+================================================================================
+What information must labels include?	The identity of the chemical, name/address/emergency phone number of the manufacturer, physical and health hazards, special handling instructions, basic PPE recommendations, and first aid/fire response/spill cleanup information.
+
+
+
+================================================================================
+NFPA LABELING SYSTEM
+NFPA LABELING SYSTEM
+================================================================================
+In the NFPA labeling system, what does blue represent?	Health hazard.
+In the NFPA labeling system, what does red represent?	Flammability.
+In the NFPA labeling system, what does yellow represent?	Reactivity.
+In the NFPA labeling system, what does white represent?	Other hazards or special handling.
+What is the NFPA hazard rating scale?	0 (No Hazard) to 4 (Extreme Hazard).
+
+
+
+================================================================================
+SPILLS AND LEAKS
+SPILLS AND LEAKS
+================================================================================
+What are the four steps when you spot a leak?	Evacuate the area, notify a supervisor or the emergency response team, remove ignition sources (if safe to do so), and stay away.
+
+
+
+================================================================================
+PPE FOR HAZARDOUS MATERIALS
+PPE FOR HAZARDOUS MATERIALS
+================================================================================
+What types of PPE are used for handling hazardous materials?	Dust masks and respirators, glasses/goggles/face shields, hearing protection, gloves, foot protection, head protection, and aprons or full-body suits.
+
+
+
+================================================================================
+RESPIRATORY PROTECTION
+RESPIRATORY PROTECTION
+================================================================================
+What OSHA standard covers respiratory protection?	29 CFR 1910.134.
+What does 29 CFR 1910.134 require?	A written program, employee training, medical evaluation, and fit-testing.
+What must respiratory protection programs use?	NIOSH-approved respirators only.
+What are the two main categories of respiratory protection?	Air purifying (gas and vapor, particulate, combination) and atmosphere supplying (SCBA - self-contained breathing apparatus, SARs - supplied-air respirators).
+
+
+
+================================================================================
+RESPIRATOR FIT-TESTING
+RESPIRATOR FIT-TESTING
+================================================================================
+How often must respirator fit-testing be conducted?	Annually (must be conducted annually).
+What are the two types of fit-testing?	Qualitative (relies on the wearer to identify whether they can smell or taste the hazardous agent) and quantitative (provides a number called a fit factor, identifies the quality of the fit).
+What does voluntary use of respirators require employers to give users?	Appendix D (employee information when respirators are not required).
+
+
+
+================================================================================
+DUSTS AND FIBERS IN CONSTRUCTION
+DUSTS AND FIBERS IN CONSTRUCTION
+================================================================================
+What are five examples of dusts and fibers found in construction?	Crystalline silica, asbestos, metal dusts, lead-based paint, and fiberglass.
+
+
+
+================================================================================
+CRYSTALLINE SILICA
+CRYSTALLINE SILICA
+================================================================================
+What forms does crystalline silica come in?	Quartz (silicone and oxygen), sand, gravel, clay, granite, and other forms of rock.
+What health condition can result from inhaling smaller particles of crystalline silica deep into the lungs?	Silicosis (leading to silicosis).
+
+
+
+================================================================================
+ASBESTOS
+ASBESTOS
+================================================================================
+How is asbestos measured?	In fibers per cubic centimeter (f/cc).
+What OSHA standard covers asbestos?	29 CFR 1926.1101.
+What is asbestosis?	A rare form of cancer that develops from the protective lining that covers many of the body's internal organs (mesothelioma).
+Where is asbestos found?	In some taping compounds, asbestos cement, pipes, and floor tiles; exposure during demolition or remodeling jobs.
+
+
+
+================================================================================
+FIBERGLASS INSULATION PPE
+FIBERGLASS INSULATION PPE
+================================================================================
+What PPE should be worn when working with fiberglass insulation?	Hard hat, safety goggles, respiratory protection, and disposable suit and gloves.
+What type of ventilation should be provided when working with fiberglass?	General or local exhaust ventilation systems.

@@ -1,0 +1,20 @@
+How does OSHA define a "Struck By" injury?	Injuries produced by forcible contact or impact between the injured person and an object or piece of equipment.
+How many construction worker deaths were attributed to "Struck by object" in 2022?	85 deaths.
+What are the four common types of struck-by hazards?	Struck by flying object, struck by falling object, struck by swinging object, and struck by rolling object or ground level object.
+What are workers most often struck by?	Heavy equipment and vehicles (trucks and cranes), falling or flying objects (tools and flying particles), concrete or masonry walls that are being constructed, and swinging objects.
+At what PSI can air pressure drive oils and other particles through your skin?	Above 30 psi.
+Should you work under loads as they are being lifted?	No, do not work under loads as they are being lifted.
+How should loads be lifted to prevent them from slipping?	Secure all loads and lift them evenly to prevent them from slipping.
+What is the rule about lifting capacity for hoists and cranes?	Never lift a load that is greater than the hoist's crane's lifting capacity.
+Should you approach moving heavy equipment?	Never approach moving heavy equipment.
+When heavy equipment is stopped, should you approach it from behind?	No, never approach it from behind. Always approach from the front or the sides if you are making eye contact with equipment operator.
+What PPE should be worn when overhead hazards exist?	Wear a hardhat if overhead hazards exist.
+What PPE should be worn if flying hazards exist?	Wear safety glasses or a face shield if flying hazards exist.
+What should a highly visible reflective vest allow on construction sites?	Allow motorists and equipment operators to see you.
+Why should materials be secured in storage?	So they do not fall on workers.
+What should be maintained in all storage areas?	Maintain proper house-keeping in all storage areas.
+What are three key safety practices for proper materials handling?	Inspect all rigging before using, never work under a suspended load, and stay clear of loads as they are being lifted.
+When approaching heavy equipment, what must you do if the equipment is being operated?	Always make eye contact with operator before approaching equipment.
+What type of PPE should highway construction workers wear to help prevent struck-by hazards from moving heavy equipment?	High visibility reflective clothing to help prevent struck-by hazard from moving heavy equipment.
+What should you do when a tag line is needed for load control?	If control of the load by a worker is necessary, then a tag line should be used.
+What should you stay clear of to avoid struck-by hazards?	Stay clear of loads that are suspended or about to be suspended which create struck-by hazards from falling or swinging objects.

@@ -1,0 +1,103 @@
+What is an excavation?	A man-made cut, cavity, trench, or depression formed by earth removal.
+What is a trench?	A narrow excavation where the depth is greater than the width, but not wider than 15 feet.
+What is a shield in excavation work?	A structure able to withstand a cave-in and protect employees.
+What is shoring?	A structure that supports the sides of an excavation and protects against cave-ins.
+What is sloping in excavation work?	A technique that employs a specific angle of incline on the sides of the excavation. The angle varies based on assessment of impacting site factors.
+
+
+
+================================================================================
+EXCAVATION HAZARDS
+EXCAVATION HAZARDS
+================================================================================
+What is the greatest risk at an excavation?	Cave-ins.
+What are six other excavation hazards besides cave-ins?	Asphyxiation due to lack of oxygen, inhalation of toxic materials, fire, moving machinery near the edge causing collapse, accidental severing of underground utility lines, and mobile equipment.
+
+
+
+================================================================================
+PROTECTIVE SYSTEMS DESIGN
+PROTECTIVE SYSTEMS DESIGN
+================================================================================
+What five factors must be considered when designing a protective system for excavations?	Soil classification, depth of cut, water content of soil, weather and climate, and other operations in the vicinity.
+
+
+
+================================================================================
+SHORING
+SHORING
+================================================================================
+What three components does shoring use to provide a framework?	Walls, cross braces, and uprights.
+What three things must you know to use OSHA shoring tables?	Soil type, depth and width of excavation, and must be familiar with the OSHA Tables.
+What are installed in hydraulic trench support systems in case of hydraulic failure?	Trench pins.
+What must be done if excavation protective equipment is damaged?	The competent person must examine it to see if suitable for continued use. If not suitable, remove from service until a professional engineer approves it for use.
+
+
+
+================================================================================
+PROTECTION FROM VEHICLES
+PROTECTION FROM VEHICLES
+================================================================================
+What five methods can protect workers from vehicles at excavation sites?	Install barricades, use hand/mechanical signals, use stop logs, grade soil away from excavation, and fence or barricade trenches left overnight.
+
+
+
+================================================================================
+SPOILS
+SPOILS
+================================================================================
+How far from the edge of an excavation should spoils not be placed?	Within 2 feet from edge of excavation.
+Where should spoils be measured from?	From the nearest part of the spoil to the excavation edge.
+How should spoils be placed relative to rainwater?	Place spoils so rainwater runs away from the excavation, and place spoil well away from the excavation.
+
+
+
+================================================================================
+HAZARDOUS ATMOSPHERE
+HAZARDOUS ATMOSPHERE
+================================================================================
+At what excavation depth must testing be done before employee entry?	More than 4 feet deep.
+What three atmospheric hazards must excavations deeper than 4 feet be tested for?	Oxygen deficiency, high combustible gas concentration, and high levels of other hazardous substances.
+
+
+
+================================================================================
+MEANS OF EGRESS
+MEANS OF EGRESS
+================================================================================
+In excavations 4 or more feet deep, within what distance must a means of egress be provided?	Within 25 feet of employees.
+How far must a ladder extend above an excavation?	3 feet above the excavation.
+
+
+
+================================================================================
+PROTECTION FROM FALLS AND MOBILE EQUIPMENT
+PROTECTION FROM FALLS AND MOBILE EQUIPMENT
+================================================================================
+When should a flagger be used at excavation sites?	When signs, signals and barricades are not enough protection.
+
+
+
+================================================================================
+COMPETENT PERSON
+COMPETENT PERSON
+================================================================================
+What three topics must a competent person have specific training in and be knowledgeable about?	Soils classification, use of protective systems, and requirements of the standard.
+What must a competent person be capable of and authorized to do?	Capable of identifying hazards and authorized to immediately eliminate hazards.
+
+
+
+================================================================================
+INSPECTIONS OF EXCAVATIONS
+INSPECTIONS OF EXCAVATIONS
+================================================================================
+When must a competent person make daily inspections of excavations?	Before work starts and as needed; after rainstorms, high winds or other occurrence which may increase hazards; and when you can reasonably anticipate an employee will be exposed to hazards.
+What action must be taken if a competent person finds evidence of possible cave-in, protective system failure, hazardous atmospheres, or other hazardous conditions?	Exposed employees must be removed from the hazardous area. Employees may not return until necessary precautions have been taken.
+
+
+
+================================================================================
+SITE EVALUATION PLANNING
+SITE EVALUATION PLANNING
+================================================================================
+What six tasks should be completed before beginning excavation?	Evaluate soil conditions, construct protective systems, test for low oxygen/hazardous fumes/toxic gases, provide safe in and out access, contact utilities, and determine the safety equipment needed.

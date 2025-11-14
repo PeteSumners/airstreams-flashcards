@@ -1,0 +1,101 @@
+According to the Hierarchy of Controls, where does PPE rank in effectiveness?	PPE is the last level of control (least effective).
+What are the six levels of the Hierarchy of Control from most to least effective?	Elimination, Substitution, Isolation (Engineering Controls), Engineering Controls, Administrative Controls, and PPE.
+What are the three minimum PPE requirements on a job site?	Hard hat, safety glasses, and safety toe boots.
+What are the employer's responsibilities regarding PPE?	Assess workplace for hazards, provide PPE, determine when to use it, and provide PPE training for employees and instruction in proper use.
+What are the employee's responsibilities regarding PPE?	Use PPE in accordance with training received and other instructions, and inspect daily and maintain in a clean and reliable condition.
+What must PPE protectors provide?	Adequate protection against the hazards for which they are designed, be of safe design and construction for the work to be performed, and be reasonably comfortable.
+What are the five additional criteria that PPE protectors must meet?	Fit snugly and shall not unduly interfere with the movements of the wearer, be durable, be capable of being disinfected, be easily cleanable, and be distinctly marked.
+What seven topics must employees be trained on if required to use PPE?	Why it's necessary, how it will protect them, what its limitations are, when and how to wear, how to identify signs of wear, how to clean and disinfect, and what its lifespan is and how to dispose.
+
+
+
+================================================================================
+HEAD PROTECTION
+HEAD PROTECTION
+================================================================================
+What are the three main causes of head injuries?	Falling objects such as tools, bumping head against objects such as pipes or beams, and contact with exposed electrical wiring or components.
+What are the two types of hard hats?	Type I Hard Hat (intended to reduce the force of impact resulting from a blow to the top of the head) and Type II Hard Hat (designed to provide protection against both side impact (lateral) and blows to the top of the head).
+What are the three classes of hard hats and their voltage ratings?	Class G (General) 2,200 V, Class E (Electrical) 20,000 volts, and Class C (Conductive, usually aluminum).
+What does Class G hard hat provide?	General service (e.g., mining, building construction, shipbuilding, lumbering, and manufacturing). Good impact protection, but limited voltage protection.
+What does Class E hard hat provide?	Electrical work (tested to withstand 20,000V). Protects against falling objects and high-voltage shock and burns.
+What does Class C hard hat provide?	Designed for comfort, offer limited protection. Protects heads that may bump against fixed objects, but do not protect against falling objects or electrical shock.
+
+
+
+================================================================================
+EYE PROTECTION
+EYE PROTECTION
+================================================================================
+How many U.S. workers have a job-related eye injury requiring medical treatment each day?	About 2000 U.S. workers.
+How many eye injuries treated in hospital emergency departments result in one or more days of lost work?	More than 100 of these injuries.
+What standard must eye and face protection comply with?	ANSI (American National Standards Institute).
+What does ANSI Z87 certify?	ANSI Certified for Regular Impact.
+What does ANSI Z87+ certify?	ANSI Certified for High Impact.
+What does ANSI Z87-2 indicate?	Reserved for prescription lenses on safety glasses.
+What do the ANSI ratings D3, D4, and D5 protect against?	D3 for droplets, D4 for splashes and dust particles, D5 for fine dust particles.
+What does the ANSI rating R protect against?	Protects against infrared light.
+What does the ANSI rating U (followed by a number) indicate?	Offers UV protection. The number indicates how much.
+What are three proper eye protection choices for employees who wear eyeglasses?	Prescription glasses with side shields and protective lenses, goggles that fit comfortably over corrective glasses without disturbing the glasses, and goggles that incorporate corrective lenses mounted behind protective lenses.
+When must eye protection be provided? (Name 5 hazards)	When any of these hazards are present: dust and other flying particles such as metal shavings or sawdust, corrosive gases/vapors/liquids, molten metal that may splash, potentially infectious materials such as blood or hazardous liquid chemicals that may splash, and intense light from welding and lasers.
+What do goggles protect against?	Eyes and area around the eyes from impact, dust, and splashes. Some goggles fit over corrective lenses.
+What do face shields protect against?	Full face protection. Protects face from dusts and splashes or sprays of hazardous liquids.
+Do face shields protect from impact hazards?	No. Does not protect from impact hazards. Wear safety glasses or goggles underneath.
+What do welding shields protect against?	Protects eyes against burns from radiant light. Protects face and eyes from flying sparks, metal spatter, and slag chips produced during welding, brazing, soldering, and cutting.
+
+
+
+================================================================================
+HEARING PROTECTION
+HEARING PROTECTION
+================================================================================
+When must hearing protection be provided according to OSHA?	When an employee's noise exposure exceeds an 8-hour time-weighted average (TWA) sound level of 90 dBA.
+When should ear protection devices be used?	When it's not feasible to reduce the noise or its duration, and when performing a task that presents a risk of particles falling into your ear canal.
+What is required for ear protective devices?	Ear protective devices must be fitted.
+
+
+
+================================================================================
+FOOT PROTECTION
+FOOT PROTECTION
+================================================================================
+When must foot protection be provided? (Name 5 situations)	When any of these are present: heavy objects such as barrels or tools that might roll onto or fall on employees' feet, sharp objects such as nails or spikes that might pierce ordinary shoes, molten metal that might splash on feet, hot or wet surfaces, and slippery surfaces.
+What protection features do safety shoes have?	Impact-resistant toes and heat-resistant soles protect against hot surfaces common in roofing and paving.
+What additional features can safety shoes have?	Some have metal insoles to protect against puncture wounds. May be electrically conductive for use in explosive atmospheres, or nonconductive to protect from workplace electrical hazards.
+When must safety shoes always be worn?	Always worn unless in a designated office or rest area.
+What is the extreme cold exception for safety shoes?	Some companies allow composite toe, or non-safety toe shoes to be worn in extreme cold with permission only.
+
+
+
+================================================================================
+HAND PROTECTION
+HAND PROTECTION
+================================================================================
+What eight types of injuries must hand protection prevent?	Burns, bruises, abrasions, cuts, punctures, fractures, amputations, and chemical exposures.
+When must hand protection be provided according to OSHA?	When workers face risks of burns, bruises, abrasions, cuts, punctures, fractures, amputations, or chemical exposures.
+What types of hazards do durable gloves made of metal mesh, leather, or canvas protect against?	Cuts, burns, and heat.
+What do fabric and coated fabric gloves protect against?	Dirt and abrasion.
+What do chemical and liquid resistant gloves protect against?	Burns, irritation, and dermatitis.
+What type of rubber glove protects against solvents, harsh chemicals, fats/petroleum products, and provides excellent resistance to cuts and abrasions?	Nitrile gloves.
+What type of rubber glove provides the highest permeation resistance to gas or water vapors?	Butyl gloves.
+What material protects against cuts, slashes, and abrasion?	Kevlar.
+What material protects against cuts and lacerations?	Stainless steel mesh.
+
+
+
+================================================================================
+BODY PROTECTION
+BODY PROTECTION
+================================================================================
+What are the major causes of body injuries requiring protection?	Intense heat, splashes of hot metals and other hot liquids, impacts from tools/machinery/materials, cuts, hazardous chemicals, and radiation.
+What is the criteria for selecting body protection?	Provide protective clothing for parts of the body exposed to possible injury.
+What are the five types of body protection?	Vests, aprons, jackets, coveralls, and full body suits.
+
+
+
+================================================================================
+PPE LIMITATIONS AND MAINTENANCE
+PPE LIMITATIONS AND MAINTENANCE
+================================================================================
+What are three key limitations of PPE?	PPE must be used properly to be effective; no one type of PPE works for every hazard; PPE devices alone should not be relied on to provide protection against hazards.
+What should you inspect PPE for before every use?	Tears, cuts, and dents.
+What should you do with damaged PPE?	Never use damaged PPE. Remove from service and replace if necessary.

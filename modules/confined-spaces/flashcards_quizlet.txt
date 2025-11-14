@@ -1,0 +1,49 @@
+What is confined space entry a leading cause of?	Occupational fatalities in the country.
+What OSHA standard covers confined spaces?	29 CFR 1926 subpart AA.
+How many workplaces and workers does 29 CFR 1926 subpart AA cover?	240,000 workplaces and 12.2 million workers.
+What percentage of fatalities and how many injuries may the confined space standard prevent?	May prevent 85% of fatalities and nearly 11,000 injuries.
+
+
+
+================================================================================
+PERMIT-REQUIRED CONFINED SPACES DEFINITION
+PERMIT-REQUIRED CONFINED SPACES DEFINITION
+================================================================================
+What are the three criteria that define a permit-required confined space per 29 CFR 1926 subpart AA?	(1) Limited means of egress, (2) can be bodily entered, (3) not designed for continuous occupancy. All 3 must be met to deem a space as "confined."
+What are examples of permit-required confined spaces?	Chemical storage tanks, waste or storage pits, grain bins, underground tunnels, and railroad cars.
+
+
+
+================================================================================
+CONFINED SPACE HAZARDS
+CONFINED SPACE HAZARDS
+================================================================================
+What is the oxygen deficiency level that defines a confined space hazard?	19.5% or less.
+What is the oxygen enrichment level that defines a confined space hazard?	23.5% or higher.
+
+
+
+================================================================================
+NON-PERMIT-REQUIRED CONFINED SPACES
+NON-PERMIT-REQUIRED CONFINED SPACES
+================================================================================
+What are typical non-permit-required confined spaces?	Utility closets, below-grade trenches, storage vaults, and utility subbasements.
+
+
+
+================================================================================
+ATMOSPHERIC TESTING
+ATMOSPHERIC TESTING
+================================================================================
+In what order must hazards be tested before entering a confined space?	(1) Oxygen content, (2) combustibility/flammability, (3) toxic atmospheres.
+What must entrants be allowed to do during atmospheric monitoring?	Entrants must be allowed to observe monitoring.
+What are two reasons for confined space ventilation?	To maintain oxygen levels above 19.5% and to maintain toxic gases and vapors at acceptable levels.
+
+
+
+================================================================================
+CONFINED SPACE WRITTEN PROGRAM
+CONFINED SPACE WRITTEN PROGRAM
+================================================================================
+Who must participate in a confined space written program?	The Safety Department, confined space supervisor, entrants, attendants, and rescue team.
+What additional elements are required for a confined space program?	Pre-entry meetings, maintenance of rescue equipment, and permit posted at confined space entrance.

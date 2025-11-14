@@ -60,24 +60,19 @@ See [QUICK_START.md](QUICK_START.md) for walkthrough.
 
 ## Current Modules
 
-### OSHA 10HR Construction - Fall Hazards
-141 flashcards covering:
-- Fall statistics and regulations
-- Guardrails (1926.502)
-- Safety Nets (1926.105)
-- Personal Fall Arrest Systems (PFAS)
-- Anchorage requirements
-- Body harness vs body belts
-- Equipment inspection
-- Rescue planning
+**Complete OSHA 10HR Construction Training** - 371 flashcards across 11 modules:
 
-### Coming Soon
-- Excavations & Trenching
-- Electrical Safety
-- Struck-By & Caught-In Hazards
-- PPE Requirements
-- Confined Spaces
-- *...and more as you add them!*
+1. **Fall Hazards & Protection** (62 cards) - PFAS, guardrails, safety nets, rescue planning
+2. **Electrical Safety** (31 cards) - Power line clearances, GFCI, grounding, LOTO
+3. **Struck-By Hazards** (20 cards) - Flying, falling, swinging, rolling objects
+4. **Caught-In/Between Hazards** (10 cards) - Machinery, equipment, cave-ins
+5. **Personal Protective Equipment** (52 cards) - Head, eye, hearing, foot, hand, body protection
+6. **Hazardous Materials & Chemical Safety** (38 cards) - HazCom, SDS, NFPA labels, respiratory protection
+7. **Confined Spaces** (14 cards) - Permit-required spaces, atmospheric testing
+8. **Hearing Conservation** (18 cards) - Noise limits, monitoring, attenuation
+9. **Material Handling & Storage** (49 cards) - Safe lifting, forklifts, cranes, rigging
+10. **Hand & Power Tools** (51 cards) - Tool safety, guards, pneumatic, powder-actuated
+11. **Excavations & Trenching** (26 cards) - Cave-ins, shoring, sloping, competent person
 
 ## Study Options
 
@@ -261,6 +256,28 @@ Example `modules.json` entry:
 }
 ```
 
+## Submitting Corrections or New Flashcards
+
+Found an error? Want to add new cards? We welcome community contributions!
+
+**Contact:** petesumners@outlook.com
+
+**What to submit:**
+- Corrections to existing flashcards (typos, wrong answers, etc.)
+- New flashcards in simple text format:
+  ```
+  Q: Your question here?
+  A: Your answer here.
+  ```
+- Suggestions for new training modules
+
+**Formats accepted:**
+- Plain text Q&A pairs (preferred)
+- TSV/Excel files
+- Any readable format!
+
+We'll review and add them to the appropriate module. Thanks for helping make this better for everyone!
+
 ## Sharing with Your Cohort
 
 ### Share Main Page
@@ -271,20 +288,25 @@ https://petesumners.github.io/airstreams-flashcards/
 ### Share Specific Module
 ```
 https://petesumners.github.io/airstreams-flashcards/?module=fall-hazards
+https://petesumners.github.io/airstreams-flashcards/?module=electrical-safety
+https://petesumners.github.io/airstreams-flashcards/?module=ppe
 ```
 
 ### GroupMe Message Template
 ```
-🎓 Training Flashcards Ready!
+Training Flashcards Ready!
 
-Study for [Module Name]:
+Complete OSHA 10HR Construction training (371 cards):
 https://petesumners.github.io/airstreams-flashcards/
 
-📱 Works on any device
-🔀 Shuffle feature
-⌨️ Keyboard shortcuts
+- 11 modules covering all Focus Four + more
+- Works on any device
+- Shuffle feature
+- Keyboard shortcuts
 
-Let's ace this test! 💪
+Study questions? Email: petesumners@outlook.com
+
+Let's ace this test!
 ```
 
 ## Modifying the Code

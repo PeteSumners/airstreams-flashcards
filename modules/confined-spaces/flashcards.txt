@@ -1,0 +1,89 @@
+# OSHA 10HR Construction Training Flashcards
+# Created from Airstreams Renewables Training - Tehachapi, CA
+# Format: Q&A pairs compatible with web app and Quizlet
+# Contact: petesumners@outlook.com to submit corrections or new cards
+
+
+================================================================================
+CONFINED SPACES
+CONFINED SPACES
+================================================================================
+
+Q: What is confined space entry a leading cause of?
+A: Occupational fatalities in the country.
+
+Q: What OSHA standard covers confined spaces?
+A: 29 CFR 1926 subpart AA.
+
+Q: How many workplaces and workers does 29 CFR 1926 subpart AA cover?
+A: 240,000 workplaces and 12.2 million workers.
+
+Q: What percentage of fatalities and how many injuries may the confined space standard prevent?
+A: May prevent 85% of fatalities and nearly 11,000 injuries.
+
+
+
+================================================================================
+PERMIT-REQUIRED CONFINED SPACES DEFINITION
+PERMIT-REQUIRED CONFINED SPACES DEFINITION
+================================================================================
+
+Q: What are the three criteria that define a permit-required confined space per 29 CFR 1926 subpart AA?
+A: (1) Limited means of egress, (2) can be bodily entered, (3) not designed for continuous occupancy. All 3 must be met to deem a space as "confined."
+
+Q: What are examples of permit-required confined spaces?
+A: Chemical storage tanks, waste or storage pits, grain bins, underground tunnels, and railroad cars.
+
+
+
+================================================================================
+CONFINED SPACE HAZARDS
+CONFINED SPACE HAZARDS
+================================================================================
+
+Q: What is the oxygen deficiency level that defines a confined space hazard?
+A: 19.5% or less.
+
+Q: What is the oxygen enrichment level that defines a confined space hazard?
+A: 23.5% or higher.
+
+
+
+================================================================================
+NON-PERMIT-REQUIRED CONFINED SPACES
+NON-PERMIT-REQUIRED CONFINED SPACES
+================================================================================
+
+Q: What are typical non-permit-required confined spaces?
+A: Utility closets, below-grade trenches, storage vaults, and utility subbasements.
+
+
+
+================================================================================
+ATMOSPHERIC TESTING
+ATMOSPHERIC TESTING
+================================================================================
+
+Q: In what order must hazards be tested before entering a confined space?
+A: (1) Oxygen content, (2) combustibility/flammability, (3) toxic atmospheres.
+
+Q: What must entrants be allowed to do during atmospheric monitoring?
+A: Entrants must be allowed to observe monitoring.
+
+Q: What are two reasons for confined space ventilation?
+A: To maintain oxygen levels above 19.5% and to maintain toxic gases and vapors at acceptable levels.
+
+
+
+================================================================================
+CONFINED SPACE WRITTEN PROGRAM
+CONFINED SPACE WRITTEN PROGRAM
+================================================================================
+
+Q: Who must participate in a confined space written program?
+A: The Safety Department, confined space supervisor, entrants, attendants, and rescue team.
+
+Q: What additional elements are required for a confined space program?
+A: Pre-entry meetings, maintenance of rescue equipment, and permit posted at confined space entrance.
+
+

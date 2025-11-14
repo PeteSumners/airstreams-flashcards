@@ -1,162 +1,257 @@
-/**
- * OSHA Construction Safety Flashcards
- *
- * This file contains flashcard data for OSHA construction safety training.
- * Each flashcard consists of a question and answer pair covering topics including:
- * - Fall protection and prevention
- * - Electrical safety
- * - Struck-by and caught-in/between hazards
- * - Personal Protective Equipment (PPE)
- * - Hazard communication and chemical safety
- * - Confined spaces
- * - Hearing conservation
- * - Material handling and ergonomics
- * - Hand and power tools
- * - Excavation safety
- *
- * Data source: OSHA construction industry regulations and statistics
- */
+// Flashcards for: Fall Hazards
+// Module ID: fall-hazards
+// Auto-generated - Do not edit directly
+// Generated from: modules/fall-hazards/flashcards.txt
 
 flashcards = [
-    { question: "Out of 5,486 worker fatalities in 2022, how many were in construction?", answer: "1,069 fatalities were in construction." },
-    { question: "How many construction worker deaths were caused by falls in 2022?", answer: "406 deaths (the leading cause among the \"Focus Four\")." },
-    { question: "What are the four \"Focus Four\" fatality causes in construction and how many deaths did each cause in 2022?", answer: "1) Falls: 406, 2) Struck by object: 85, 3) Electrocutions: 64, 4) Caught-in or between: 53." },
-    { question: "At what height must open-sided floors and platforms be guarded according to OSHA?", answer: "6 feet or more (29CFR 1926.500)." },
-    { question: "Falls from as little as what height can cause serious accidents and sometimes death?", answer: "4 to 6 feet." },
-    { question: "What is the leading cause of deaths in the construction industry?", answer: "Falls are the leading cause of deaths in the construction industry." },
-    { question: "Where do most fall fatalities occur?", answer: "From open-sided floors and through floor openings." },
-    { question: "At what height must you be protected if you can fall more than this distance in construction?", answer: "6 feet (1926.501)." },
-    { question: "What are the three main methods of fall protection for workers?", answer: "Guardrails, Safety Nets, and Personal Fall Arrest Systems (PFAS)." },
-    { question: "What does ABC stand for in fall protection?", answer: "A = Anchorage, B = Body Harness, C = Connectors." },
-    { question: "What must be in place before you start work at heights?", answer: "Fall protection systems and work practices must be in place before you start work." },
-    { question: "How high must the top rail of a guardrail be above the walking/working surface?", answer: "42 inches (plus or minus 3 inches)." },
-    { question: "What is the minimum height requirement for a toe board in a guardrail system?", answer: "At least 3.5 inches in height from top edge to floor level." },
-    { question: "How much force must a toe board be capable of withstanding?", answer: "A force of 50 pounds applied in any direction." },
-    { question: "What force must guardrail systems be designed to withstand?", answer: "At least 200 lbs." },
-    { question: "When must safety nets be provided?", answer: "When workplaces are more than 25 feet above the ground or water surface, or other surfaces where the use of ladders, scaffolds, catch platforms, temporary floors, safety lines, or safety belts is impractical." },
-    { question: "How far must safety nets extend beyond the edge of the work surface?", answer: "8 feet beyond the edge of the work surface where employees are exposed." },
-    { question: "What is the minimum impact resistance required for safety nets?", answer: "17,500 foot-pounds minimum impact resistance as certified by manufacturers and labeled with proof test." },
-    { question: "What is the minimum breaking strength required for safety net edge ropes?", answer: "5,000 pounds." },
-    { question: "What does PFAS stand for?", answer: "Personal Fall Arrest System." },
-    { question: "What are the three components of a PFAS?", answer: "Anchorage, Body Harness, and Connectors." },
-    { question: "Should PPE be used to hoist workers or objects?", answer: "Never use PPE to hoist workers or objects." },
-    { question: "What must employers do before employees use PFAS?", answer: "Employer must train employees before use." },
-    { question: "What is the minimum weight capacity required for anchorages used for fall arrest equipment?", answer: "At least 5,000 pounds per employee attached (1926.502)." },
-    { question: "Must anchorages for personal fall arrest equipment be independent of other support systems?", answer: "Yes, they must be independent of any anchorage being used to support or suspend platforms and capable of supporting at least 5,000 pounds per employee attached." },
-    { question: "As of what date was the use of body belts for fall arrest prohibited by OSHA?", answer: "January 1, 1998." },
-    { question: "Why are body belts prohibited for fall arrest?", answer: "They can cause damage to spine and internal organs." },
-    { question: "What is the average tolerable suspension time in a harness?", answer: "90 seconds." },
-    { question: "What is the maximum arresting force rating for a body belt?", answer: "Only 900 pounds of arresting force." },
-    { question: "What may body belts be used for?", answer: "Work restraint only (not fall arrest)." },
-    { question: "What is the maximum arresting force on an employee when using a full body harness?", answer: "1800 lbs (8 kN) according to OSHA 1926.502(d)(16)(i)." },
-    { question: "What body parts does a full body harness distribute fall arrest forces over?", answer: "At least the upper thighs, pelvis, chest, and shoulders." },
-    { question: "What do connectors do in a fall protection system?", answer: "They connect an employee to an anchor point and must withstand arresting forces and decelerate the energy produced during a fall." },
-    { question: "What is the purpose of a fall arrest lanyard's stretching or tearing system?", answer: "To absorb shock, prevent bouncing, and reduce arresting forces." },
-    { question: "Approximately how much force is required before a lanyard begins elongation?", answer: "Approximately 450 lbs." },
-    { question: "What are three types of deceleration devices?", answer: "Self-Retracting Lifelines (SRL) or lanyards, Rope grab device, and Rip-stitch, tearing, or stretching lanyard." },
-    { question: "What happens to fall speed and arresting forces as you fall farther?", answer: "The farther you fall, the faster you fall. The faster you fall, the greater the arresting forces become." },
-    { question: "What is the best way to reduce arresting forces applied to your body?", answer: "Limit your fall distance and use a deceleration device." },
-    { question: "What factors determine fall clearance distance?", answer: "Length of lanyard, length of deployed energy absorber, height of worker, and safety factor." },
-    { question: "When must fall protection equipment be inspected?", answer: "Before every use." },
-    { question: "What should you check during a fall protection equipment inspection?", answer: "Visual, tactile, function; cuts, tears, abrasions, stitches coming out; cracks or burrs; parts move freely; no alterations; appropriate labels." },
-    { question: "What must each worksite or facility have regarding fall protection?", answer: "A rescue plan." },
-    { question: "What must be done with employees regarding the rescue plan?", answer: "Employees must be trained on the plan." },
-    { question: "What should be limited regarding suspension time?", answer: "Limit hanging/suspension time." },
-    { question: "What are six major types of fall hazards in construction?", answer: "Unprotected roof edges, roof/floor openings, structural steel and leading edges, improper scaffold construction, unsafe portable ladders, failing to practice 100% tie off using fall protection." },
-    { question: "What must be done with holes more than 6 feet high?", answer: "They must be protected." },
-    { question: "How can floor holes be made safe?", answer: "Must be completely covered and secured, or if no cover, guard open hold with a guard rail." },
-    { question: "What protection is required when working on formwork or rebar?", answer: "Use PFAS when working on formwork or rebar. Cover or cap protruding rebar." },
-    { question: "How far must a ladder extend above the working surface?", answer: "It must extend 3 feet above the working surface." },
-    { question: "Is the top step of an A-frame ladder considered a step?", answer: "No, the top step of an A-frame ladder is NOT A STEP." },
-    { question: "What percentage of the U.S. workforce is construction, and what percentage of occupational fatalities does it account for?", answer: "Approximately 8% of the U.S. workforce, yet accounts for 44% of occupational fatalities." },
-    { question: "How many deaths and injuries do electrical hazards cause in the workplace each year?", answer: "More than 300 deaths and 4,000 injuries." },
-    { question: "What are the six types of electrical hazards that expose workers to serious workplace hazards?", answer: "Burns, electrocution, shock, arc flash/arc blast, fire, and explosions." },
-    { question: "What OSHA regulation covers installation safety requirements for the construction industry?", answer: "29 CFR Subpart K, 1926.402 through 1926.408." },
-    { question: "What is the minimum clearance distance for overhead power lines up to 50 kV?", answer: "10 feet." },
-    { question: "What is the minimum clearance distance for overhead power lines >50 to 200 kV?", answer: "15 feet." },
-    { question: "What is the minimum clearance distance for overhead power lines >200 to 350 kV?", answer: "20 feet." },
-    { question: "What does GFCI stand for and what does it do?", answer: "Ground Fault Circuit Interrupter - a receptacle with overcurrent protection capabilities." },
-    { question: "When must extension cords be inspected?", answer: "Before each use." },
-    { question: "What does LOTO stand for in safety-related work practices?", answer: "Lockout Tagout." },
-    { question: "How does OSHA define a \"Struck By\" injury?", answer: "Injuries produced by forcible contact or impact between the injured person and an object or piece of equipment." },
-    { question: "What are the four common types of struck-by hazards?", answer: "Struck by flying object, struck by falling object, struck by swinging object, and struck by rolling object or ground level object." },
-    { question: "At what PSI can air pressure drive oils and other particles through your skin?", answer: "Above 30 psi." },
-    { question: "Should you work under loads as they are being lifted?", answer: "No, do not work under loads as they are being lifted." },
-    { question: "What PPE should be worn when overhead hazards exist?", answer: "Wear a hardhat if overhead hazards exist." },
-    { question: "How does OSHA define a caught-in or between injury?", answer: "Injuries resulting from a person being squeezed, caught, crushed, pinched, or compressed between two or more objects, or between parts of an object." },
-    { question: "How many construction worker deaths were caused by caught-in or between hazards in 2022?", answer: "53 deaths." },
-    { question: "According to the Hierarchy of Controls, where does PPE rank in effectiveness?", answer: "PPE is the last level of control (least effective)." },
-    { question: "What are the six levels of the Hierarchy of Control from most to least effective?", answer: "Elimination, Substitution, Isolation (Engineering Controls), Engineering Controls, Administrative Controls, and PPE." },
-    { question: "What are the three minimum PPE requirements on a job site?", answer: "Hard hat, safety glasses, and safety toe boots." },
-    { question: "What are the three main causes of head injuries?", answer: "Falling objects such as tools, bumping head against objects such as pipes or beams, and contact with exposed electrical wiring or components." },
-    { question: "What are the three classes of hard hats and their voltage ratings?", answer: "Class G (General) 2,200 V, Class E (Electrical) 20,000 volts, and Class C (Conductive, usually aluminum)." },
-    { question: "How many U.S. workers have a job-related eye injury requiring medical treatment each day?", answer: "About 2000 U.S. workers." },
-    { question: "What standard must eye and face protection comply with?", answer: "ANSI (American National Standards Institute)." },
-    { question: "What does ANSI Z87+ certify?", answer: "ANSI Certified for High Impact." },
-    { question: "When must hearing protection be provided according to OSHA?", answer: "When an employee's noise exposure exceeds an 8-hour time-weighted average (TWA) sound level of 90 dBA." },
-    { question: "What eight types of injuries must hand protection prevent?", answer: "Burns, bruises, abrasions, cuts, punctures, fractures, amputations, and chemical exposures." },
-    { question: "What type of rubber glove protects against solvents, harsh chemicals, fats/petroleum products, and provides excellent resistance to cuts and abrasions?", answer: "Nitrile gloves." },
-    { question: "What are three key limitations of PPE?", answer: "PPE must be used properly to be effective; no one type of PPE works for every hazard; PPE devices alone should not be relied on to provide protection against hazards." },
-    { question: "What did OSHA create to help ensure safety when working with hazardous chemicals?", answer: "The Hazard Communication Standard." },
-    { question: "What are the two main categories of chemical hazards?", answer: "Physical hazards (flammable, explosive, reactive) and health hazards (corrosive, toxic)." },
-    { question: "What exposure limit abbreviation stands for Permissible Exposure Limit?", answer: "PEL." },
-    { question: "What exposure limit abbreviation stands for Threshold Limit Value?", answer: "TLV." },
-    { question: "What is the basic first aid for eye exposure to hazardous materials?", answer: "Flush with water for 15 minutes." },
-    { question: "What are the four routes of entry for chemical hazards?", answer: "Skin and eye contact, inhalation, swallowing, and penetration (skin absorption)." },
-    { question: "In the NFPA labeling system, what does blue represent?", answer: "Health hazard." },
-    { question: "In the NFPA labeling system, what does red represent?", answer: "Flammability." },
-    { question: "In the NFPA labeling system, what does yellow represent?", answer: "Reactivity." },
-    { question: "What is the NFPA hazard rating scale?", answer: "0 (No Hazard) to 4 (Extreme Hazard)." },
-    { question: "What OSHA standard covers respiratory protection?", answer: "29 CFR 1910.134." },
-    { question: "What does 29 CFR 1910.134 require?", answer: "A written program, employee training, medical evaluation, and fit-testing." },
-    { question: "What must respiratory protection programs use?", answer: "NIOSH-approved respirators only." },
-    { question: "How often must respirator fit-testing be conducted?", answer: "Annually (must be conducted annually)." },
-    { question: "What are five examples of dusts and fibers found in construction?", answer: "Crystalline silica, asbestos, metal dusts, lead-based paint, and fiberglass." },
-    { question: "What health condition can result from inhaling smaller particles of crystalline silica deep into the lungs?", answer: "Silicosis (leading to silicosis)." },
-    { question: "What OSHA standard covers asbestos?", answer: "29 CFR 1926.1101." },
-    { question: "What OSHA standard covers confined spaces?", answer: "29 CFR 1926 subpart AA." },
-    { question: "What are the three criteria that define a permit-required confined space per 29 CFR 1926 subpart AA?", answer: "(1) Limited means of egress, (2) can be bodily entered, (3) not designed for continuous occupancy. All 3 must be met to deem a space as \"confined.\"" },
-    { question: "What is the oxygen deficiency level that defines a confined space hazard?", answer: "19.5% or less." },
-    { question: "What is the oxygen enrichment level that defines a confined space hazard?", answer: "23.5% or higher." },
-    { question: "In what order must hazards be tested before entering a confined space?", answer: "(1) Oxygen content, (2) combustibility/flammability, (3) toxic atmospheres." },
-    { question: "What OSHA standard covers hearing protection?", answer: "29 CFR 1926.52." },
-    { question: "What is the permissible exposure limit (PEL) for noise for an 8-hour time weighted average (TWA)?", answer: "90 dBA." },
-    { question: "How long can workers be exposed to 90 dBA before hearing protection is required?", answer: "8 hours." },
-    { question: "How long can workers be exposed to 105 dBA before hearing protection is required?", answer: "1 hour." },
-    { question: "How long can workers be exposed to 115 dBA before hearing protection is required?", answer: "15 minutes." },
-    { question: "What tool is used to measure area noise level?", answer: "Sound Level Meter." },
-    { question: "What tool is used to measure personal noise exposure level?", answer: "Noise Dosimeter." },
-    { question: "By how many decibels can ear plugs reduce noise?", answer: "As much as 30 decibels." },
-    { question: "When should ear muffs be used in conjunction with ear plugs?", answer: "When exposed to high noise levels (105+ decibels)." },
-    { question: "Is hearing loss cumulative?", answer: "Yes, hearing loss is cumulative over your lifetime." },
-    { question: "Is hearing loss permanent?", answer: "Yes, hearing loss is permanent." },
-    { question: "What is a major cause of back injuries in the workplace?", answer: "Lifting objects." },
-    { question: "What are the key principles of safe lifting?", answer: "Break load into parts; get help with heavy or bulky items; lift with legs, keep back straight, do not twist; use handling aids (steps, trestles, shoulder pads, handles, wheels); avoid lifting above shoulder level." },
-    { question: "Where should the load be centered on a forklift and why?", answer: "Center the load on the forks and as close to the mast as possible to minimize the potential for the truck tipping or load falling." },
-    { question: "What safety equipment must earthmoving equipment provide?", answer: "Must provide seat belts." },
-    { question: "How often must slings be inspected?", answer: "Each day before use and where service conditions warrant." },
-    { question: "What should be done with damaged or defective slings?", answer: "Remove them from service if damaged or defective." },
-    { question: "What is the best choice for hoisting very hot materials?", answer: "Alloy steel chain (adapts to shape of the load; best choice for hoisting very hot materials)." },
-    { question: "What is the maximum height for stacking bricks?", answer: "Do not stack them more than 7 feet high." },
-    { question: "At what height or more must employees have fall protection?", answer: "Employees working above 6 feet or more must have fall protection." },
-    { question: "When must you use an enclosed chute when dropping material outside a building?", answer: "When you drop material more than 20 feet outside of a building." },
-    { question: "What are the three main hazard categories for workers using hand and power tools?", answer: "Objects that fall, fly, are abrasive, or splash; harmful dusts, fumes, mists, vapors, and gases; frayed or damaged electrical cords, hazardous connections, and improper grounding." },
-    { question: "What are the six basic tool safety practices?", answer: "Maintain regularly; use right tool for the job; inspect before use; operate according to manufacturer's instructions; use the right personal protective equipment (PPE); use guards." },
-    { question: "What are the five types of power tools determined by their power source?", answer: "Electric; pneumatic; liquid fuel; hydraulic; powder-actuated." },
-    { question: "What must power tools be fitted with?", answer: "Guards and safety switches." },
-    { question: "What is the main hazard of pneumatic tools?", answer: "Getting hit by a tool attachment or by a fastener the worker is using with the tool." },
-    { question: "Is compressed air allowed for cleaning?", answer: "Do not use compressed air for cleaning." },
-    { question: "What is the exception for using compressed air for cleaning?", answer: "Exception: where pressure is reduced to less than 30 psi with effective chip guarding and PPE." },
-    { question: "What is the main hazard of liquid fuel tools?", answer: "Fuel vapors." },
-    { question: "What training is required for powder-actuated tool operators?", answer: "User must be trained and licensed to operate." },
-    { question: "What must be marked on all jacks and must not be exceeded?", answer: "The manufacturer's rated capacity." },
-    { question: "What is an excavation?", answer: "A man-made cut, cavity, trench, or depression formed by earth removal." },
-    { question: "What is a trench?", answer: "A narrow excavation where the depth is greater than the width, but not wider than 15 feet." },
-    { question: "What is the greatest risk at an excavation?", answer: "Cave-ins." },
-    { question: "What five factors must be considered when designing a protective system for excavations?", answer: "Soil classification, depth of cut, water content of soil, weather and climate, and other operations in the vicinity." },
-    { question: "How far from the edge of an excavation should spoils not be placed?", answer: "Within 2 feet from edge of excavation." },
-    { question: "At what excavation depth must testing be done before employee entry?", answer: "More than 4 feet deep." },
-    { question: "In excavations 4 or more feet deep, within what distance must a means of egress be provided?", answer: "Within 25 feet of employees." },
-    { question: "What three topics must a competent person have specific training in and be knowledgeable about?", answer: "Soils classification, use of protective systems, and requirements of the standard." },
-    { question: "When must a competent person make daily inspections of excavations?", answer: "Before work starts and as needed; after rainstorms, high winds or other occurrence which may increase hazards; and when you can reasonably anticipate an employee will be exposed to hazards." }
+    {
+        question: "Out of 5,486 worker fatalities in 2022, how many were in construction?",
+        answer: "1,069 fatalities were in construction."
+    },
+    {
+        question: "How many construction worker deaths were caused by falls in 2022?",
+        answer: "406 deaths (the leading cause among the \"Focus Four\")."
+    },
+    {
+        question: "What are the four \"Focus Four\" fatality causes in construction and how many deaths did each cause in 2022?",
+        answer: "1) Falls: 406, 2) Struck by object: 85, 3) Electrocutions: 64, 4) Caught-in or between: 53."
+    },
+    {
+        question: "At what height must open-sided floors and platforms be guarded according to OSHA?",
+        answer: "6 feet or more (29CFR 1926.500)."
+    },
+    {
+        question: "Falls from as little as what height can cause serious accidents and sometimes death?",
+        answer: "4 to 6 feet."
+    },
+    {
+        question: "What is the leading cause of deaths in the construction industry?",
+        answer: "Falls are the leading cause of deaths in the construction industry."
+    },
+    {
+        question: "Where do most fall fatalities occur?",
+        answer: "From open-sided floors and through floor openings."
+    },
+    {
+        question: "At what height must you be protected if you can fall more than this distance in construction?",
+        answer: "6 feet (1926.501).\n\n\n\n================================================================================\nFALL PROTECTION METHODS\nFALL PROTECTION METHODS\n================================================================================"
+    },
+    {
+        question: "What are the three main methods of fall protection for workers?",
+        answer: "Guardrails, Safety Nets, and Personal Fall Arrest Systems (PFAS)."
+    },
+    {
+        question: "What does ABC stand for in fall protection?",
+        answer: "A = Anchorage, B = Body Harness, C = Connectors."
+    },
+    {
+        question: "What must be in place before you start work at heights?",
+        answer: "Fall protection systems and work practices must be in place before you start work.\n\n\n\n================================================================================\nGUARDRAILS (1926.502)\nGUARDRAILS (1926.502)\n================================================================================"
+    },
+    {
+        question: "How high must the top rail of a guardrail be above the walking/working surface?",
+        answer: "42 inches (plus or minus 3 inches)."
+    },
+    {
+        question: "What is the minimum height requirement for a toe board in a guardrail system?",
+        answer: "At least 3.5 inches in height from top edge to floor level."
+    },
+    {
+        question: "How much force must a toe board be capable of withstanding?",
+        answer: "A force of 50 pounds applied in any direction."
+    },
+    {
+        question: "What force must guardrail systems be designed to withstand?",
+        answer: "At least 200 lbs.\n\n\n\n================================================================================\nSAFETY NETS (1926.105)\nSAFETY NETS (1926.105)\n================================================================================"
+    },
+    {
+        question: "When must safety nets be provided?",
+        answer: "When workplaces are more than 25 feet above the ground or water surface, or other surfaces where the use of ladders, scaffolds, catch platforms, temporary floors, safety lines, or safety belts is impractical."
+    },
+    {
+        question: "How far must safety nets extend beyond the edge of the work surface?",
+        answer: "8 feet beyond the edge of the work surface where employees are exposed."
+    },
+    {
+        question: "What is the minimum impact resistance required for safety nets?",
+        answer: "17,500 foot-pounds minimum impact resistance as certified by manufacturers and labeled with proof test."
+    },
+    {
+        question: "What is the minimum breaking strength required for safety net edge ropes?",
+        answer: "5,000 pounds.\n\n\n\n================================================================================\nPERSONAL FALL ARREST SYSTEMS (PFAS)\nPERSONAL FALL ARREST SYSTEMS (PFAS)\n================================================================================"
+    },
+    {
+        question: "What does PFAS stand for?",
+        answer: "Personal Fall Arrest System."
+    },
+    {
+        question: "What are the three components of a PFAS?",
+        answer: "Anchorage, Body Harness, and Connectors."
+    },
+    {
+        question: "Should PPE be used to hoist workers or objects?",
+        answer: "Never use PPE to hoist workers or objects."
+    },
+    {
+        question: "What must employers do before employees use PFAS?",
+        answer: "Employer must train employees before use.\n\n\n\n================================================================================\nANCHORAGE\nANCHORAGE\n================================================================================"
+    },
+    {
+        question: "What is the minimum weight capacity required for anchorages used for fall arrest equipment?",
+        answer: "At least 5,000 pounds per employee attached (1926.502)."
+    },
+    {
+        question: "Must anchorages for personal fall arrest equipment be independent of other support systems?",
+        answer: "Yes, they must be independent of any anchorage being used to support or suspend platforms and capable of supporting at least 5,000 pounds per employee attached.\n\n\n\n================================================================================\nBODY HARNESS\nBODY HARNESS\n================================================================================"
+    },
+    {
+        question: "As of what date was the use of body belts for fall arrest prohibited by OSHA?",
+        answer: "January 1, 1998."
+    },
+    {
+        question: "Why are body belts prohibited for fall arrest?",
+        answer: "They can cause damage to spine and internal organs."
+    },
+    {
+        question: "What is the average tolerable suspension time in a harness?",
+        answer: "90 seconds."
+    },
+    {
+        question: "What is the maximum arresting force rating for a body belt?",
+        answer: "Only 900 pounds of arresting force."
+    },
+    {
+        question: "What may body belts be used for?",
+        answer: "Work restraint only (not fall arrest)."
+    },
+    {
+        question: "What is the maximum arresting force on an employee when using a full body harness?",
+        answer: "1800 lbs (8 kN) according to OSHA 1926.502(d)(16)(i)."
+    },
+    {
+        question: "What body parts does a full body harness distribute fall arrest forces over?",
+        answer: "At least the upper thighs, pelvis, chest, and shoulders.\n\n\n\n================================================================================\nCONNECTORS & LANYARDS\nCONNECTORS & LANYARDS\n================================================================================"
+    },
+    {
+        question: "What do connectors do in a fall protection system?",
+        answer: "They connect an employee to an anchor point and must withstand arresting forces and decelerate the energy produced during a fall."
+    },
+    {
+        question: "What is the purpose of a fall arrest lanyard\'s stretching or tearing system?",
+        answer: "To absorb shock, prevent bouncing, and reduce arresting forces."
+    },
+    {
+        question: "Approximately how much force is required before a lanyard begins elongation?",
+        answer: "Approximately 450 lbs.\n\n\n\n================================================================================\nDECELERATION DEVICES\nDECELERATION DEVICES\n================================================================================"
+    },
+    {
+        question: "What are three types of deceleration devices?",
+        answer: "Self-Retracting Lifelines (SRL) or lanyards, Rope grab device, and Rip-stitch, tearing, or stretching lanyard.\n\n\n\n================================================================================\nARRESTING FORCES\nARRESTING FORCES\n================================================================================"
+    },
+    {
+        question: "What happens to fall speed and arresting forces as you fall farther?",
+        answer: "The farther you fall, the faster you fall. The faster you fall, the greater the arresting forces become."
+    },
+    {
+        question: "What is the best way to reduce arresting forces applied to your body?",
+        answer: "Limit your fall distance and use a deceleration device."
+    },
+    {
+        question: "What factors determine fall clearance distance?",
+        answer: "Length of lanyard, length of deployed energy absorber, height of worker, and safety factor.\n\n\n\n================================================================================\nEQUIPMENT INSPECTION\nEQUIPMENT INSPECTION\n================================================================================"
+    },
+    {
+        question: "When must fall protection equipment be inspected?",
+        answer: "Before every use."
+    },
+    {
+        question: "What should you check during a fall protection equipment inspection?",
+        answer: "Visual, tactile, function; cuts, tears, abrasions, stitches coming out; cracks or burrs; parts move freely; no alterations; appropriate labels.\n\n\n\n================================================================================\nRESCUE PLAN\nRESCUE PLAN\n================================================================================"
+    },
+    {
+        question: "What must each worksite or facility have regarding fall protection?",
+        answer: "A rescue plan."
+    },
+    {
+        question: "What must be done with employees regarding the rescue plan?",
+        answer: "Employees must be trained on the plan."
+    },
+    {
+        question: "What should be limited regarding suspension time?",
+        answer: "Limit hanging/suspension time.\n\n\n\n================================================================================\nMAJOR FALL HAZARDS\nMAJOR FALL HAZARDS\n================================================================================"
+    },
+    {
+        question: "What are six major types of fall hazards in construction?",
+        answer: "Unprotected roof edges, roof/floor openings, structural steel and leading edges, improper scaffold construction, unsafe portable ladders, failing to practice 100% tie off using fall protection."
+    },
+    {
+        question: "Name seven examples of fall hazards.",
+        answer: "Working at heights, working on scaffolds, working near an opening in a roof or floor, erection of steel structures, working off a ladder, jumping off equipment, slips and trips.\n\n\n\n================================================================================\nSPECIFIC SITUATIONS\nSPECIFIC SITUATIONS\n================================================================================"
+    },
+    {
+        question: "What must be done with holes more than 6 feet high?",
+        answer: "They must be protected."
+    },
+    {
+        question: "How can floor holes be made safe?",
+        answer: "Must be completely covered and secured, or if no cover, guard open hold with a guard rail."
+    },
+    {
+        question: "What protection is required when working on formwork or rebar?",
+        answer: "Use PFAS when working on formwork or rebar. Cover or cap protruding rebar."
+    },
+    {
+        question: "When must excavations be guarded?",
+        answer: "Guard excavations more than 6 feet deep when they are not readily seen because of plant growth or other visual barriers."
+    },
+    {
+        question: "If you work on roofs and can fall more than 6 feet, what is required?",
+        answer: "You must be protected."
+    },
+    {
+        question: "At what height from wall openings must you be protected from falling?",
+        answer: "If you work near wall openings 6 feet or more above lower levels, you must be protected from falling.\n\n\n\n================================================================================\nLADDERS\nLADDERS\n================================================================================"
+    },
+    {
+        question: "How far must a ladder extend above the working surface?",
+        answer: "It must extend 3 feet above the working surface."
+    },
+    {
+        question: "Is the top step of an A-frame ladder considered a step?",
+        answer: "No, the top step of an A-frame ladder is NOT A STEP.\n\n\n\n================================================================================\nFALLING OBJECTS\nFALLING OBJECTS\n================================================================================"
+    },
+    {
+        question: "What should you do to prevent tools and materials from being kicked over the edge?",
+        answer: "Don\'t leave tools or materials where they might be kicked over the edge or tripped over."
+    },
+    {
+        question: "Should you throw items over the edge when working above ground?",
+        answer: "No, don\'t throw items over the edge."
+    },
+    {
+        question: "What should you wear when working under an above groundwork area?",
+        answer: "Wear hard hats when working under an above groundwork area.\n\n\n\n================================================================================\nGOOD WORK PRACTICES\nGOOD WORK PRACTICES\n================================================================================"
+    },
+    {
+        question: "What is the best way to perform work at heights if possible?",
+        answer: "Perform work at ground level if possible (example: building prefab roofs on the ground and lifting into place with a crane)."
+    },
+    {
+        question: "What is the least desirable fall protection system?",
+        answer: "Designate and use safety monitors (this is less desirable of all the systems).\n\n\n\n================================================================================\nTRAINING REQUIREMENTS\nTRAINING REQUIREMENTS\n================================================================================"
+    },
+    {
+        question: "What must employers provide regarding fall protection?",
+        answer: "Employers must provide fall protection training."
+    },
+    {
+        question: "What must fall protection training teach workers to do?",
+        answer: "How to recognize hazards and how to minimize hazards."
+    },
+    {
+        question: "What three topics must fall protection training cover?",
+        answer: "Fall hazards, fall protection systems, and use of fall protection devices."
+    }
 ];
+
+console.log("Loaded 62 flashcards for Fall Hazards");

@@ -63,8 +63,8 @@ def main():
             # Tab-separated: Question[TAB]Answer
             f.write(f"{card['question']}\t{card['answer']}\n")
 
-    print(f"✅ Created: {output_file}")
-    print(f"📊 {len(flashcards)} flashcards ready for Quizlet import")
+    print(f"Created: {output_file}")
+    print(f"{len(flashcards)} flashcards ready for Quizlet import")
 
 if __name__ == "__main__":
     main()

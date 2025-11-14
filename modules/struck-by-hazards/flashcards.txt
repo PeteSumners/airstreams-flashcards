@@ -1,0 +1,72 @@
+# OSHA 10HR Construction Training Flashcards
+# Created from Airstreams Renewables Training - Tehachapi, CA
+# Format: Q&A pairs compatible with web app and Quizlet
+# Contact: petesumners@outlook.com to submit corrections or new cards
+
+
+================================================================================
+STRUCK-BY HAZARDS
+STRUCK-BY HAZARDS
+================================================================================
+
+Q: How does OSHA define a "Struck By" injury?
+A: Injuries produced by forcible contact or impact between the injured person and an object or piece of equipment.
+
+Q: How many construction worker deaths were attributed to "Struck by object" in 2022?
+A: 85 deaths.
+
+Q: What are the four common types of struck-by hazards?
+A: Struck by flying object, struck by falling object, struck by swinging object, and struck by rolling object or ground level object.
+
+Q: What are workers most often struck by?
+A: Heavy equipment and vehicles (trucks and cranes), falling or flying objects (tools and flying particles), concrete or masonry walls that are being constructed, and swinging objects.
+
+Q: At what PSI can air pressure drive oils and other particles through your skin?
+A: Above 30 psi.
+
+Q: Should you work under loads as they are being lifted?
+A: No, do not work under loads as they are being lifted.
+
+Q: How should loads be lifted to prevent them from slipping?
+A: Secure all loads and lift them evenly to prevent them from slipping.
+
+Q: What is the rule about lifting capacity for hoists and cranes?
+A: Never lift a load that is greater than the hoist's crane's lifting capacity.
+
+Q: Should you approach moving heavy equipment?
+A: Never approach moving heavy equipment.
+
+Q: When heavy equipment is stopped, should you approach it from behind?
+A: No, never approach it from behind. Always approach from the front or the sides if you are making eye contact with equipment operator.
+
+Q: What PPE should be worn when overhead hazards exist?
+A: Wear a hardhat if overhead hazards exist.
+
+Q: What PPE should be worn if flying hazards exist?
+A: Wear safety glasses or a face shield if flying hazards exist.
+
+Q: What should a highly visible reflective vest allow on construction sites?
+A: Allow motorists and equipment operators to see you.
+
+Q: Why should materials be secured in storage?
+A: So they do not fall on workers.
+
+Q: What should be maintained in all storage areas?
+A: Maintain proper house-keeping in all storage areas.
+
+Q: What are three key safety practices for proper materials handling?
+A: Inspect all rigging before using, never work under a suspended load, and stay clear of loads as they are being lifted.
+
+Q: When approaching heavy equipment, what must you do if the equipment is being operated?
+A: Always make eye contact with operator before approaching equipment.
+
+Q: What type of PPE should highway construction workers wear to help prevent struck-by hazards from moving heavy equipment?
+A: High visibility reflective clothing to help prevent struck-by hazard from moving heavy equipment.
+
+Q: What should you do when a tag line is needed for load control?
+A: If control of the load by a worker is necessary, then a tag line should be used.
+
+Q: What should you stay clear of to avoid struck-by hazards?
+A: Stay clear of loads that are suspended or about to be suspended which create struck-by hazards from falling or swinging objects.
+
+

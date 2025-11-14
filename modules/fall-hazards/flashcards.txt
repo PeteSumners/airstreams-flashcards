@@ -1,0 +1,317 @@
+# OSHA 10HR Construction Training Flashcards
+# Created from Airstreams Renewables Training - Tehachapi, CA
+# Format: Q&A pairs compatible with web app and Quizlet
+# Contact: petesumners@outlook.com to submit corrections or new cards
+
+
+================================================================================
+FALL HAZARDS - STATISTICS & REGULATIONS
+FALL HAZARDS - STATISTICS & REGULATIONS
+================================================================================
+
+Q: Out of 5,486 worker fatalities in 2022, how many were in construction?
+A: 1,069 fatalities were in construction.
+
+Q: How many construction worker deaths were caused by falls in 2022?
+A: 406 deaths (the leading cause among the "Focus Four").
+
+Q: What are the four "Focus Four" fatality causes in construction and how many deaths did each cause in 2022?
+A: 1) Falls: 406, 2) Struck by object: 85, 3) Electrocutions: 64, 4) Caught-in or between: 53.
+
+Q: At what height must open-sided floors and platforms be guarded according to OSHA?
+A: 6 feet or more (29CFR 1926.500).
+
+Q: Falls from as little as what height can cause serious accidents and sometimes death?
+A: 4 to 6 feet.
+
+Q: What is the leading cause of deaths in the construction industry?
+A: Falls are the leading cause of deaths in the construction industry.
+
+Q: Where do most fall fatalities occur?
+A: From open-sided floors and through floor openings.
+
+Q: At what height must you be protected if you can fall more than this distance in construction?
+A: 6 feet (1926.501).
+
+
+
+================================================================================
+FALL PROTECTION METHODS
+FALL PROTECTION METHODS
+================================================================================
+
+Q: What are the three main methods of fall protection for workers?
+A: Guardrails, Safety Nets, and Personal Fall Arrest Systems (PFAS).
+
+Q: What does ABC stand for in fall protection?
+A: A = Anchorage, B = Body Harness, C = Connectors.
+
+Q: What must be in place before you start work at heights?
+A: Fall protection systems and work practices must be in place before you start work.
+
+
+
+================================================================================
+GUARDRAILS (1926.502)
+GUARDRAILS (1926.502)
+================================================================================
+
+Q: How high must the top rail of a guardrail be above the walking/working surface?
+A: 42 inches (plus or minus 3 inches).
+
+Q: What is the minimum height requirement for a toe board in a guardrail system?
+A: At least 3.5 inches in height from top edge to floor level.
+
+Q: How much force must a toe board be capable of withstanding?
+A: A force of 50 pounds applied in any direction.
+
+Q: What force must guardrail systems be designed to withstand?
+A: At least 200 lbs.
+
+
+
+================================================================================
+SAFETY NETS (1926.105)
+SAFETY NETS (1926.105)
+================================================================================
+
+Q: When must safety nets be provided?
+A: When workplaces are more than 25 feet above the ground or water surface, or other surfaces where the use of ladders, scaffolds, catch platforms, temporary floors, safety lines, or safety belts is impractical.
+
+Q: How far must safety nets extend beyond the edge of the work surface?
+A: 8 feet beyond the edge of the work surface where employees are exposed.
+
+Q: What is the minimum impact resistance required for safety nets?
+A: 17,500 foot-pounds minimum impact resistance as certified by manufacturers and labeled with proof test.
+
+Q: What is the minimum breaking strength required for safety net edge ropes?
+A: 5,000 pounds.
+
+
+
+================================================================================
+PERSONAL FALL ARREST SYSTEMS (PFAS)
+PERSONAL FALL ARREST SYSTEMS (PFAS)
+================================================================================
+
+Q: What does PFAS stand for?
+A: Personal Fall Arrest System.
+
+Q: What are the three components of a PFAS?
+A: Anchorage, Body Harness, and Connectors.
+
+Q: Should PPE be used to hoist workers or objects?
+A: Never use PPE to hoist workers or objects.
+
+Q: What must employers do before employees use PFAS?
+A: Employer must train employees before use.
+
+
+
+================================================================================
+ANCHORAGE
+ANCHORAGE
+================================================================================
+
+Q: What is the minimum weight capacity required for anchorages used for fall arrest equipment?
+A: At least 5,000 pounds per employee attached (1926.502).
+
+Q: Must anchorages for personal fall arrest equipment be independent of other support systems?
+A: Yes, they must be independent of any anchorage being used to support or suspend platforms and capable of supporting at least 5,000 pounds per employee attached.
+
+
+
+================================================================================
+BODY HARNESS
+BODY HARNESS
+================================================================================
+
+Q: As of what date was the use of body belts for fall arrest prohibited by OSHA?
+A: January 1, 1998.
+
+Q: Why are body belts prohibited for fall arrest?
+A: They can cause damage to spine and internal organs.
+
+Q: What is the average tolerable suspension time in a harness?
+A: 90 seconds.
+
+Q: What is the maximum arresting force rating for a body belt?
+A: Only 900 pounds of arresting force.
+
+Q: What may body belts be used for?
+A: Work restraint only (not fall arrest).
+
+Q: What is the maximum arresting force on an employee when using a full body harness?
+A: 1800 lbs (8 kN) according to OSHA 1926.502(d)(16)(i).
+
+Q: What body parts does a full body harness distribute fall arrest forces over?
+A: At least the upper thighs, pelvis, chest, and shoulders.
+
+
+
+================================================================================
+CONNECTORS & LANYARDS
+CONNECTORS & LANYARDS
+================================================================================
+
+Q: What do connectors do in a fall protection system?
+A: They connect an employee to an anchor point and must withstand arresting forces and decelerate the energy produced during a fall.
+
+Q: What is the purpose of a fall arrest lanyard's stretching or tearing system?
+A: To absorb shock, prevent bouncing, and reduce arresting forces.
+
+Q: Approximately how much force is required before a lanyard begins elongation?
+A: Approximately 450 lbs.
+
+
+
+================================================================================
+DECELERATION DEVICES
+DECELERATION DEVICES
+================================================================================
+
+Q: What are three types of deceleration devices?
+A: Self-Retracting Lifelines (SRL) or lanyards, Rope grab device, and Rip-stitch, tearing, or stretching lanyard.
+
+
+
+================================================================================
+ARRESTING FORCES
+ARRESTING FORCES
+================================================================================
+
+Q: What happens to fall speed and arresting forces as you fall farther?
+A: The farther you fall, the faster you fall. The faster you fall, the greater the arresting forces become.
+
+Q: What is the best way to reduce arresting forces applied to your body?
+A: Limit your fall distance and use a deceleration device.
+
+Q: What factors determine fall clearance distance?
+A: Length of lanyard, length of deployed energy absorber, height of worker, and safety factor.
+
+
+
+================================================================================
+EQUIPMENT INSPECTION
+EQUIPMENT INSPECTION
+================================================================================
+
+Q: When must fall protection equipment be inspected?
+A: Before every use.
+
+Q: What should you check during a fall protection equipment inspection?
+A: Visual, tactile, function; cuts, tears, abrasions, stitches coming out; cracks or burrs; parts move freely; no alterations; appropriate labels.
+
+
+
+================================================================================
+RESCUE PLAN
+RESCUE PLAN
+================================================================================
+
+Q: What must each worksite or facility have regarding fall protection?
+A: A rescue plan.
+
+Q: What must be done with employees regarding the rescue plan?
+A: Employees must be trained on the plan.
+
+Q: What should be limited regarding suspension time?
+A: Limit hanging/suspension time.
+
+
+
+================================================================================
+MAJOR FALL HAZARDS
+MAJOR FALL HAZARDS
+================================================================================
+
+Q: What are six major types of fall hazards in construction?
+A: Unprotected roof edges, roof/floor openings, structural steel and leading edges, improper scaffold construction, unsafe portable ladders, failing to practice 100% tie off using fall protection.
+
+Q: Name seven examples of fall hazards.
+A: Working at heights, working on scaffolds, working near an opening in a roof or floor, erection of steel structures, working off a ladder, jumping off equipment, slips and trips.
+
+
+
+================================================================================
+SPECIFIC SITUATIONS
+SPECIFIC SITUATIONS
+================================================================================
+
+Q: What must be done with holes more than 6 feet high?
+A: They must be protected.
+
+Q: How can floor holes be made safe?
+A: Must be completely covered and secured, or if no cover, guard open hold with a guard rail.
+
+Q: What protection is required when working on formwork or rebar?
+A: Use PFAS when working on formwork or rebar. Cover or cap protruding rebar.
+
+Q: When must excavations be guarded?
+A: Guard excavations more than 6 feet deep when they are not readily seen because of plant growth or other visual barriers.
+
+Q: If you work on roofs and can fall more than 6 feet, what is required?
+A: You must be protected.
+
+Q: At what height from wall openings must you be protected from falling?
+A: If you work near wall openings 6 feet or more above lower levels, you must be protected from falling.
+
+
+
+================================================================================
+LADDERS
+LADDERS
+================================================================================
+
+Q: How far must a ladder extend above the working surface?
+A: It must extend 3 feet above the working surface.
+
+Q: Is the top step of an A-frame ladder considered a step?
+A: No, the top step of an A-frame ladder is NOT A STEP.
+
+
+
+================================================================================
+FALLING OBJECTS
+FALLING OBJECTS
+================================================================================
+
+Q: What should you do to prevent tools and materials from being kicked over the edge?
+A: Don't leave tools or materials where they might be kicked over the edge or tripped over.
+
+Q: Should you throw items over the edge when working above ground?
+A: No, don't throw items over the edge.
+
+Q: What should you wear when working under an above groundwork area?
+A: Wear hard hats when working under an above groundwork area.
+
+
+
+================================================================================
+GOOD WORK PRACTICES
+GOOD WORK PRACTICES
+================================================================================
+
+Q: What is the best way to perform work at heights if possible?
+A: Perform work at ground level if possible (example: building prefab roofs on the ground and lifting into place with a crane).
+
+Q: What is the least desirable fall protection system?
+A: Designate and use safety monitors (this is less desirable of all the systems).
+
+
+
+================================================================================
+TRAINING REQUIREMENTS
+TRAINING REQUIREMENTS
+================================================================================
+
+Q: What must employers provide regarding fall protection?
+A: Employers must provide fall protection training.
+
+Q: What must fall protection training teach workers to do?
+A: How to recognize hazards and how to minimize hazards.
+
+Q: What three topics must fall protection training cover?
+A: Fall hazards, fall protection systems, and use of fall protection devices.
+
+

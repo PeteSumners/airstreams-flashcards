@@ -1,0 +1,53 @@
+What OSHA standard covers hearing protection?	29 CFR 1926.52.
+What is the permissible exposure limit (PEL) for noise for an 8-hour time weighted average (TWA)?	90 dBA.
+At what noise level is a whisper?	10 dB.
+At what noise level are concerts?	125 dB.
+At what noise level is a shooting range?	130 dB.
+
+
+
+================================================================================
+PERMISSIBLE NOISE EXPOSURE LIMITS
+PERMISSIBLE NOISE EXPOSURE LIMITS
+================================================================================
+How long can workers be exposed to 90 dBA before hearing protection is required?	8 hours.
+How long can workers be exposed to 105 dBA before hearing protection is required?	1 hour.
+How long can workers be exposed to 115 dBA before hearing protection is required?	15 minutes.
+
+
+
+================================================================================
+NOISE MONITORING
+NOISE MONITORING
+================================================================================
+What tool is used to measure area noise level?	Sound Level Meter.
+What tool is used to measure personal noise exposure level?	Noise Dosimeter.
+
+
+
+================================================================================
+HEARING PROTECTION TYPES
+HEARING PROTECTION TYPES
+================================================================================
+What are the three types of hearing protection control methods?	Administrative control, engineering control, and personal protective equipment (hearing protective devices).
+What are the three types of hearing protective devices?	Ear plugs (one time use), earmuffs, and canal caps.
+
+
+
+================================================================================
+HEARING PROTECTOR ATTENUATION
+HEARING PROTECTOR ATTENUATION
+================================================================================
+By how many decibels can ear plugs reduce noise?	As much as 30 decibels.
+By how many decibels can ear canals reduce noise?	As much as 30 decibels.
+By how many decibels can ear muffs reduce noise?	As much as 15-30 decibels.
+When should ear muffs be used in conjunction with ear plugs?	When exposed to high noise levels (105+ decibels).
+
+
+
+================================================================================
+HEARING LOSS
+HEARING LOSS
+================================================================================
+Is hearing loss cumulative?	Yes, hearing loss is cumulative over your lifetime.
+Is hearing loss permanent?	Yes, hearing loss is permanent.

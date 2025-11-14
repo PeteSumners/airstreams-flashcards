@@ -3,47 +3,188 @@
     {
       "id": "fall-hazards",
       "title": "Fall Hazards & Protection",
-      "description": "OSHA 10HR Construction - Fall hazards, PFAS, guardrails, safety nets, and fall protection planning",
-      "cardCount": 141,
+      "description": "OSHA 10HR - Fall hazards, PFAS, guardrails, safety nets, rescue planning, ladders",
+      "cardCount": 62,
       "topics": [
-        "Fall Statistics",
+        "Fall Statistics & Regulations",
         "Guardrails (1926.502)",
         "Safety Nets (1926.105)",
         "Personal Fall Arrest Systems (PFAS)",
-        "Anchorage Requirements",
-        "Body Harness vs Body Belts",
-        "Connectors & Lanyards",
+        "Anchorage & Body Harness",
         "Equipment Inspection",
-        "Rescue Planning"
+        "Rescue Planning",
+        "Ladders & Fall Prevention"
       ],
       "flashcardsFile": "flashcards-fall-hazards.js",
       "enabled": true
     },
     {
+      "id": "electrical-safety",
+      "title": "Electrical Safety",
+      "description": "OSHA 10HR - Electrical hazards, power line clearances, GFCI, grounding, LOTO procedures",
+      "cardCount": 31,
+      "topics": [
+        "Electrical Hazards",
+        "Power Line Clearances",
+        "Grounding & GFCI",
+        "Extension Cord Safety",
+        "LOTO Procedures"
+      ],
+      "flashcardsFile": "flashcards-electrical-safety.js",
+      "enabled": true
+    },
+    {
+      "id": "struck-by-hazards",
+      "title": "Struck-By Hazards",
+      "description": "OSHA 10HR - Protection from flying, falling, swinging, and rolling objects",
+      "cardCount": 20,
+      "topics": [
+        "Struck-By Injuries",
+        "Heavy Equipment Safety",
+        "Falling Objects",
+        "PPE Requirements",
+        "Material Handling Safety"
+      ],
+      "flashcardsFile": "flashcards-struck-by-hazards.js",
+      "enabled": true
+    },
+    {
+      "id": "caught-in-hazards",
+      "title": "Caught-In/Between Hazards",
+      "description": "OSHA 10HR - Machinery hazards, equipment safety, excavation cave-ins",
+      "cardCount": 10,
+      "topics": [
+        "Caught-In/Between Definitions",
+        "Machinery Hazards",
+        "Excavation Cave-Ins",
+        "Accident Prevention"
+      ],
+      "flashcardsFile": "flashcards-caught-in-hazards.js",
+      "enabled": true
+    },
+    {
+      "id": "ppe",
+      "title": "Personal Protective Equipment",
+      "description": "OSHA 10HR - Head, eye, hearing, foot, hand, and body protection requirements",
+      "cardCount": 52,
+      "topics": [
+        "PPE Hierarchy of Controls",
+        "Head Protection (Hard Hats)",
+        "Eye & Face Protection",
+        "Hearing Protection",
+        "Foot Protection",
+        "Hand Protection (Gloves)",
+        "Body Protection",
+        "PPE Maintenance"
+      ],
+      "flashcardsFile": "flashcards-ppe.js",
+      "enabled": true
+    },
+    {
+      "id": "hazardous-materials",
+      "title": "Hazardous Materials & Chemical Safety",
+      "description": "OSHA 10HR - HazCom, SDS, NFPA labels, chemical routes of entry, respiratory protection",
+      "cardCount": 38,
+      "topics": [
+        "Right to Know",
+        "Safety Data Sheets (SDS)",
+        "Chemical Routes of Entry",
+        "NFPA Labeling System",
+        "Spill Response",
+        "Respiratory Protection",
+        "Crystalline Silica & Asbestos"
+      ],
+      "flashcardsFile": "flashcards-hazardous-materials.js",
+      "enabled": true
+    },
+    {
+      "id": "confined-spaces",
+      "title": "Confined Spaces",
+      "description": "OSHA 10HR - Permit-required spaces, atmospheric testing, entry procedures",
+      "cardCount": 14,
+      "topics": [
+        "Confined Space Definition",
+        "Permit-Required Spaces",
+        "Atmospheric Hazards",
+        "Testing Requirements",
+        "Entry Procedures"
+      ],
+      "flashcardsFile": "flashcards-confined-spaces.js",
+      "enabled": true
+    },
+    {
+      "id": "hearing-protection",
+      "title": "Hearing Conservation",
+      "description": "OSHA 10HR - Noise exposure limits, monitoring, hearing protection types, attenuation",
+      "cardCount": 18,
+      "topics": [
+        "Noise Exposure Limits (PEL)",
+        "Sound Level Measurement",
+        "Hearing Protection Types",
+        "Noise Attenuation",
+        "Hearing Loss Prevention"
+      ],
+      "flashcardsFile": "flashcards-hearing-protection.js",
+      "enabled": true
+    },
+    {
+      "id": "material-handling",
+      "title": "Material Handling & Storage",
+      "description": "OSHA 10HR - Safe lifting, forklifts, cranes, rigging, slings, storage requirements",
+      "cardCount": 49,
+      "topics": [
+        "Safe Lifting Techniques",
+        "Forklift Operation",
+        "Crane Safety",
+        "Rigging & Slings",
+        "Material Storage",
+        "Waste Disposal"
+      ],
+      "flashcardsFile": "flashcards-material-handling.js",
+      "enabled": true
+    },
+    {
+      "id": "hand-power-tools",
+      "title": "Hand & Power Tools",
+      "description": "OSHA 10HR - Tool safety, guards, pneumatic, powder-actuated, abrasive wheels",
+      "cardCount": 51,
+      "topics": [
+        "Hand Tool Safety",
+        "Power Tool Types",
+        "Guarding Requirements",
+        "Abrasive Wheels",
+        "Pneumatic Tools",
+        "Powder-Actuated Tools",
+        "Jacks"
+      ],
+      "flashcardsFile": "flashcards-hand-power-tools.js",
+      "enabled": true
+    },
+    {
       "id": "excavations",
       "title": "Excavations & Trenching",
-      "description": "OSHA Construction - Excavation safety, cave-ins, protective systems, and soil classification",
-      "cardCount": 0,
+      "description": "OSHA 10HR - Cave-ins, protective systems, shoring, sloping, competent person",
+      "cardCount": 26,
       "topics": [
         "Excavation Definitions",
         "Cave-In Hazards",
-        "Protective Systems (Shoring, Sloping, Shielding)",
-        "Soil Classification",
+        "Protective Systems",
+        "Shoring & Sloping",
         "Atmospheric Testing",
-        "Competent Person Requirements",
-        "Spoil Placement",
-        "Means of Egress"
+        "Competent Person",
+        "Inspection Requirements"
       ],
       "flashcardsFile": "flashcards-excavations.js",
-      "enabled": false,
-      "status": "Coming Soon - Add your training video"
+      "enabled": true
     }
   ],
   "settings": {
     "projectName": "Airstreams Training Flashcards",
     "organization": "Airstreams Renewables",
     "location": "Tehachapi, CA",
-    "description": "Training flashcards for all Airstreams courses - OSHA, technical training, and more",
-    "version": "1.0"
+    "description": "Complete OSHA 10HR Construction training flashcards - Study on any device",
+    "contactEmail": "petesumners@outlook.com",
+    "submissionInfo": "Have corrections or want to submit new flashcards? Email petesumners@outlook.com with your suggestions!",
+    "version": "2.0"
   }
 }

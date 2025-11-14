@@ -70,7 +70,7 @@ flashcards = [
         js_content += '\n'
 
     js_content += '];\n'
-    js_content += f'\nconsole.log("✅ Loaded {len(flashcards)} flashcards for {module_title}");\n'
+    js_content += f'\nconsole.log("Loaded {len(flashcards)} flashcards for {module_title}");\n'
 
     return js_content
 
@@ -124,8 +124,8 @@ def main():
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write(js_content)
 
-    print(f"✅ Created: {output_file}")
-    print(f"📊 {len(flashcards)} flashcards ready for web app")
+    print(f"Created: {output_file}")
+    print(f"{len(flashcards)} flashcards ready for web app")
     print()
     print("Next steps:")
     print(f"1. Add module to docs/modules.json:")

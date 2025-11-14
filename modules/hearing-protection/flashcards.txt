@@ -1,0 +1,101 @@
+# OSHA 10HR Construction Training Flashcards
+# Created from Airstreams Renewables Training - Tehachapi, CA
+# Format: Q&A pairs compatible with web app and Quizlet
+# Contact: petesumners@outlook.com to submit corrections or new cards
+
+
+================================================================================
+HEARING PROTECTION STANDARDS
+HEARING PROTECTION STANDARDS
+================================================================================
+
+Q: What OSHA standard covers hearing protection?
+A: 29 CFR 1926.52.
+
+Q: What is the permissible exposure limit (PEL) for noise for an 8-hour time weighted average (TWA)?
+A: 90 dBA.
+
+Q: At what noise level is a whisper?
+A: 10 dB.
+
+Q: At what noise level are concerts?
+A: 125 dB.
+
+Q: At what noise level is a shooting range?
+A: 130 dB.
+
+
+
+================================================================================
+PERMISSIBLE NOISE EXPOSURE LIMITS
+PERMISSIBLE NOISE EXPOSURE LIMITS
+================================================================================
+
+Q: How long can workers be exposed to 90 dBA before hearing protection is required?
+A: 8 hours.
+
+Q: How long can workers be exposed to 105 dBA before hearing protection is required?
+A: 1 hour.
+
+Q: How long can workers be exposed to 115 dBA before hearing protection is required?
+A: 15 minutes.
+
+
+
+================================================================================
+NOISE MONITORING
+NOISE MONITORING
+================================================================================
+
+Q: What tool is used to measure area noise level?
+A: Sound Level Meter.
+
+Q: What tool is used to measure personal noise exposure level?
+A: Noise Dosimeter.
+
+
+
+================================================================================
+HEARING PROTECTION TYPES
+HEARING PROTECTION TYPES
+================================================================================
+
+Q: What are the three types of hearing protection control methods?
+A: Administrative control, engineering control, and personal protective equipment (hearing protective devices).
+
+Q: What are the three types of hearing protective devices?
+A: Ear plugs (one time use), earmuffs, and canal caps.
+
+
+
+================================================================================
+HEARING PROTECTOR ATTENUATION
+HEARING PROTECTOR ATTENUATION
+================================================================================
+
+Q: By how many decibels can ear plugs reduce noise?
+A: As much as 30 decibels.
+
+Q: By how many decibels can ear canals reduce noise?
+A: As much as 30 decibels.
+
+Q: By how many decibels can ear muffs reduce noise?
+A: As much as 15-30 decibels.
+
+Q: When should ear muffs be used in conjunction with ear plugs?
+A: When exposed to high noise levels (105+ decibels).
+
+
+
+================================================================================
+HEARING LOSS
+HEARING LOSS
+================================================================================
+
+Q: Is hearing loss cumulative?
+A: Yes, hearing loss is cumulative over your lifetime.
+
+Q: Is hearing loss permanent?
+A: Yes, hearing loss is permanent.
+
+
