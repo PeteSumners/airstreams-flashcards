@@ -29,8 +29,8 @@ def count_flashcards(flashcards_file):
         content = f.read()
         return content.count('Q:')
 
-def update_modules_json(module_id, module_title, module_description, card_count, topics, slides_download):
-    """Add module to modules.json"""
+def update_modules_json(module_id, module_title, module_description, card_count, topics, slides_download, source_title):
+    """Add module to modules.json as a new source"""
     modules_file = Path("docs/modules.json")
 
     with open(modules_file, 'r', encoding='utf-8') as f:
@@ -44,18 +44,28 @@ def update_modules_json(module_id, module_title, module_description, card_count,
         "cardCount": card_count,
         "topics": topics,
         "flashcardsFile": f"flashcards-{module_id}.js",
-        "slidesDownload": slides_download,
         "enabled": True
     }
 
-    # Add to modules list
-    config["modules"].append(new_module)
+    # Create new source with this module
+    new_source = {
+        "id": module_id,
+        "title": source_title,
+        "description": module_description,
+        "slidesDownload": slides_download,
+        "modules": [new_module],
+        "totalCards": card_count,
+        "moduleCount": 1
+    }
+
+    # Add to sources list
+    config["sources"].append(new_source)
 
     # Write back
     with open(modules_file, 'w', encoding='utf-8') as f:
         json.dump(config, f, indent=2)
 
-    print(f"Added module to modules.json: {module_title}")
+    print(f"Added new source to modules.json: {source_title}")
 
 def main():
     print("=" * 60)
@@ -207,13 +217,17 @@ Make sure to cover all important information from the slides.''')
     # Determine slide download path
     slides_download = f"downloads/{slugify(video_name)}-slides.zip"
 
+    # Ask for source title (could be same as module title or different for grouped modules)
+    source_title = input(f"\nSource title (for grouping) [{module_title}]: ").strip() or module_title
+
     update_modules_json(
         module_id=module_id,
         module_title=module_title,
         module_description=module_description,
         card_count=card_count,
         topics=topics,
-        slides_download=slides_download
+        slides_download=slides_download,
+        source_title=source_title
     )
 
     # STEP 6: Summary

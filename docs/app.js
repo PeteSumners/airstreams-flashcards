@@ -25,17 +25,51 @@ async function loadModules() {
         const moduleList = document.getElementById('moduleList');
         moduleList.innerHTML = '';
 
-        data.modules.forEach(module => {
-            const card = createModuleCard(module);
-            moduleList.appendChild(card);
+        // Group modules by source
+        data.sources.forEach(source => {
+            const sourceSection = createSourceSection(source);
+            moduleList.appendChild(sourceSection);
         });
 
-        console.log(`✅ Loaded ${data.modules.length} training modules`);
+        const totalModules = data.sources.reduce((sum, s) => sum + s.moduleCount, 0);
+        console.log(`✅ Loaded ${data.sources.length} training sources with ${totalModules} modules`);
     } catch (error) {
         console.error('Error loading modules:', error);
         document.getElementById('moduleList').innerHTML =
             '<p class="loading" style="color: red;">Error loading modules. Check console for details.</p>';
     }
+}
+
+// Create a source section with its modules
+function createSourceSection(source) {
+    const section = document.createElement('div');
+    section.className = 'source-section';
+
+    const header = document.createElement('div');
+    header.className = 'source-header';
+    header.innerHTML = `
+        <div class="source-info">
+            <h2>${source.title}</h2>
+            <p>${source.description}</p>
+            <div class="source-meta">
+                <span class="source-stats">${source.moduleCount} modules • ${source.totalCards} flashcards</span>
+                <a href="${source.slidesDownload}" class="slides-download-main" download>📥 Download All Slides</a>
+            </div>
+        </div>
+    `;
+
+    const modulesContainer = document.createElement('div');
+    modulesContainer.className = 'module-grid';
+
+    source.modules.forEach(module => {
+        const card = createModuleCard(module);
+        modulesContainer.appendChild(card);
+    });
+
+    section.appendChild(header);
+    section.appendChild(modulesContainer);
+
+    return section;
 }
 
 // Create a module selection card
@@ -49,7 +83,6 @@ function createModuleCard(module) {
         <div class="module-meta">
             <span class="module-card-count">${module.cardCount} cards</span>
             ${module.status ? `<span class="module-status">${module.status}</span>` : ''}
-            ${module.slidesDownload ? `<a href="${module.slidesDownload}" class="slides-download" onclick="event.stopPropagation();" download>📥 Download Slides</a>` : ''}
         </div>
     `;
 

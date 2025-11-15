@@ -1,241 +1,258 @@
 {
-  "modules": [
+  "sources": [
     {
-      "id": "fall-hazards",
-      "title": "Fall Hazards & Protection",
-      "description": "OSHA 10HR - Fall hazards, PFAS, guardrails, safety nets, rescue planning, ladders",
-      "cardCount": 62,
-      "topics": [
-        "Fall Statistics & Regulations",
-        "Guardrails (1926.502)",
-        "Safety Nets (1926.105)",
-        "Personal Fall Arrest Systems (PFAS)",
-        "Anchorage & Body Harness",
-        "Equipment Inspection",
-        "Rescue Planning",
-        "Ladders & Fall Prevention"
-      ],
-      "flashcardsFile": "flashcards-fall-hazards.js",
+      "id": "osha-10hr",
+      "title": "OSHA 10HR Construction Training",
+      "description": "Complete OSHA 10HR certification course covering Focus Four hazards and essential construction safety",
       "slidesDownload": "downloads/osha-powerpoint-slides.zip",
-      "enabled": true
-    },
-    {
-      "id": "electrical-safety",
-      "title": "Electrical Safety",
-      "description": "OSHA 10HR - Electrical hazards, power line clearances, GFCI, grounding, LOTO procedures",
-      "cardCount": 31,
-      "topics": [
-        "Electrical Hazards",
-        "Power Line Clearances",
-        "Grounding & GFCI",
-        "Extension Cord Safety",
-        "LOTO Procedures"
+      "modules": [
+        {
+          "id": "fall-hazards",
+          "title": "Fall Hazards & Protection",
+          "description": "OSHA 10HR - Fall hazards, PFAS, guardrails, safety nets, rescue planning, ladders",
+          "cardCount": 62,
+          "topics": [
+            "Fall Statistics & Regulations",
+            "Guardrails (1926.502)",
+            "Safety Nets (1926.105)",
+            "Personal Fall Arrest Systems (PFAS)",
+            "Anchorage & Body Harness",
+            "Equipment Inspection",
+            "Rescue Planning",
+            "Ladders & Fall Prevention"
+          ],
+          "flashcardsFile": "flashcards-fall-hazards.js",
+          "enabled": true
+        },
+        {
+          "id": "electrical-safety",
+          "title": "Electrical Safety",
+          "description": "OSHA 10HR - Electrical hazards, power line clearances, GFCI, grounding, LOTO procedures",
+          "cardCount": 31,
+          "topics": [
+            "Electrical Hazards",
+            "Power Line Clearances",
+            "Grounding & GFCI",
+            "Extension Cord Safety",
+            "LOTO Procedures"
+          ],
+          "flashcardsFile": "flashcards-electrical-safety.js",
+          "enabled": true
+        },
+        {
+          "id": "struck-by-hazards",
+          "title": "Struck-By Hazards",
+          "description": "OSHA 10HR - Protection from flying, falling, swinging, and rolling objects",
+          "cardCount": 20,
+          "topics": [
+            "Struck-By Injuries",
+            "Heavy Equipment Safety",
+            "Falling Objects",
+            "PPE Requirements",
+            "Material Handling Safety"
+          ],
+          "flashcardsFile": "flashcards-struck-by-hazards.js",
+          "enabled": true
+        },
+        {
+          "id": "caught-in-hazards",
+          "title": "Caught-In/Between Hazards",
+          "description": "OSHA 10HR - Machinery hazards, equipment safety, excavation cave-ins",
+          "cardCount": 10,
+          "topics": [
+            "Caught-In/Between Definitions",
+            "Machinery Hazards",
+            "Excavation Cave-Ins",
+            "Accident Prevention"
+          ],
+          "flashcardsFile": "flashcards-caught-in-hazards.js",
+          "enabled": true
+        },
+        {
+          "id": "ppe",
+          "title": "Personal Protective Equipment",
+          "description": "OSHA 10HR - Head, eye, hearing, foot, hand, and body protection requirements",
+          "cardCount": 52,
+          "topics": [
+            "PPE Hierarchy of Controls",
+            "Head Protection (Hard Hats)",
+            "Eye & Face Protection",
+            "Hearing Protection",
+            "Foot Protection",
+            "Hand Protection (Gloves)",
+            "Body Protection",
+            "PPE Maintenance"
+          ],
+          "flashcardsFile": "flashcards-ppe.js",
+          "enabled": true
+        },
+        {
+          "id": "hazardous-materials",
+          "title": "Hazardous Materials & Chemical Safety",
+          "description": "OSHA 10HR - HazCom, SDS, NFPA labels, chemical routes of entry, respiratory protection",
+          "cardCount": 38,
+          "topics": [
+            "Right to Know",
+            "Safety Data Sheets (SDS)",
+            "Chemical Routes of Entry",
+            "NFPA Labeling System",
+            "Spill Response",
+            "Respiratory Protection",
+            "Crystalline Silica & Asbestos"
+          ],
+          "flashcardsFile": "flashcards-hazardous-materials.js",
+          "enabled": true
+        },
+        {
+          "id": "confined-spaces",
+          "title": "Confined Spaces",
+          "description": "OSHA 10HR - Permit-required spaces, atmospheric testing, entry procedures",
+          "cardCount": 14,
+          "topics": [
+            "Confined Space Definition",
+            "Permit-Required Spaces",
+            "Atmospheric Hazards",
+            "Testing Requirements",
+            "Entry Procedures"
+          ],
+          "flashcardsFile": "flashcards-confined-spaces.js",
+          "enabled": true
+        },
+        {
+          "id": "hearing-protection",
+          "title": "Hearing Conservation",
+          "description": "OSHA 10HR - Noise exposure limits, monitoring, hearing protection types, attenuation",
+          "cardCount": 18,
+          "topics": [
+            "Noise Exposure Limits (PEL)",
+            "Sound Level Measurement",
+            "Hearing Protection Types",
+            "Noise Attenuation",
+            "Hearing Loss Prevention"
+          ],
+          "flashcardsFile": "flashcards-hearing-protection.js",
+          "enabled": true
+        },
+        {
+          "id": "material-handling",
+          "title": "Material Handling & Storage",
+          "description": "OSHA 10HR - Safe lifting, forklifts, cranes, rigging, slings, storage requirements",
+          "cardCount": 49,
+          "topics": [
+            "Safe Lifting Techniques",
+            "Forklift Operation",
+            "Crane Safety",
+            "Rigging & Slings",
+            "Material Storage",
+            "Waste Disposal"
+          ],
+          "flashcardsFile": "flashcards-material-handling.js",
+          "enabled": true
+        },
+        {
+          "id": "hand-power-tools",
+          "title": "Hand & Power Tools",
+          "description": "OSHA 10HR - Tool safety, guards, pneumatic, powder-actuated, abrasive wheels",
+          "cardCount": 51,
+          "topics": [
+            "Hand Tool Safety",
+            "Power Tool Types",
+            "Guarding Requirements",
+            "Abrasive Wheels",
+            "Pneumatic Tools",
+            "Powder-Actuated Tools",
+            "Jacks"
+          ],
+          "flashcardsFile": "flashcards-hand-power-tools.js",
+          "enabled": true
+        },
+        {
+          "id": "excavations",
+          "title": "Excavations & Trenching",
+          "description": "OSHA 10HR - Cave-ins, protective systems, shoring, sloping, competent person",
+          "cardCount": 26,
+          "topics": [
+            "Excavation Definitions",
+            "Cave-In Hazards",
+            "Protective Systems",
+            "Shoring & Sloping",
+            "Atmospheric Testing",
+            "Competent Person",
+            "Inspection Requirements"
+          ],
+          "flashcardsFile": "flashcards-excavations.js",
+          "enabled": true
+        }
       ],
-      "flashcardsFile": "flashcards-electrical-safety.js",
-      "enabled": true,
-      "slidesDownload": "downloads/osha-powerpoint-slides.zip"
-    },
-    {
-      "id": "struck-by-hazards",
-      "title": "Struck-By Hazards",
-      "description": "OSHA 10HR - Protection from flying, falling, swinging, and rolling objects",
-      "cardCount": 20,
-      "topics": [
-        "Struck-By Injuries",
-        "Heavy Equipment Safety",
-        "Falling Objects",
-        "PPE Requirements",
-        "Material Handling Safety"
-      ],
-      "flashcardsFile": "flashcards-struck-by-hazards.js",
-      "enabled": true,
-      "slidesDownload": "downloads/osha-powerpoint-slides.zip"
-    },
-    {
-      "id": "caught-in-hazards",
-      "title": "Caught-In/Between Hazards",
-      "description": "OSHA 10HR - Machinery hazards, equipment safety, excavation cave-ins",
-      "cardCount": 10,
-      "topics": [
-        "Caught-In/Between Definitions",
-        "Machinery Hazards",
-        "Excavation Cave-Ins",
-        "Accident Prevention"
-      ],
-      "flashcardsFile": "flashcards-caught-in-hazards.js",
-      "enabled": true,
-      "slidesDownload": "downloads/osha-powerpoint-slides.zip"
-    },
-    {
-      "id": "ppe",
-      "title": "Personal Protective Equipment",
-      "description": "OSHA 10HR - Head, eye, hearing, foot, hand, and body protection requirements",
-      "cardCount": 52,
-      "topics": [
-        "PPE Hierarchy of Controls",
-        "Head Protection (Hard Hats)",
-        "Eye & Face Protection",
-        "Hearing Protection",
-        "Foot Protection",
-        "Hand Protection (Gloves)",
-        "Body Protection",
-        "PPE Maintenance"
-      ],
-      "flashcardsFile": "flashcards-ppe.js",
-      "enabled": true,
-      "slidesDownload": "downloads/osha-powerpoint-slides.zip"
-    },
-    {
-      "id": "hazardous-materials",
-      "title": "Hazardous Materials & Chemical Safety",
-      "description": "OSHA 10HR - HazCom, SDS, NFPA labels, chemical routes of entry, respiratory protection",
-      "cardCount": 38,
-      "topics": [
-        "Right to Know",
-        "Safety Data Sheets (SDS)",
-        "Chemical Routes of Entry",
-        "NFPA Labeling System",
-        "Spill Response",
-        "Respiratory Protection",
-        "Crystalline Silica & Asbestos"
-      ],
-      "flashcardsFile": "flashcards-hazardous-materials.js",
-      "enabled": true,
-      "slidesDownload": "downloads/osha-powerpoint-slides.zip"
-    },
-    {
-      "id": "confined-spaces",
-      "title": "Confined Spaces",
-      "description": "OSHA 10HR - Permit-required spaces, atmospheric testing, entry procedures",
-      "cardCount": 14,
-      "topics": [
-        "Confined Space Definition",
-        "Permit-Required Spaces",
-        "Atmospheric Hazards",
-        "Testing Requirements",
-        "Entry Procedures"
-      ],
-      "flashcardsFile": "flashcards-confined-spaces.js",
-      "enabled": true,
-      "slidesDownload": "downloads/osha-powerpoint-slides.zip"
-    },
-    {
-      "id": "hearing-protection",
-      "title": "Hearing Conservation",
-      "description": "OSHA 10HR - Noise exposure limits, monitoring, hearing protection types, attenuation",
-      "cardCount": 18,
-      "topics": [
-        "Noise Exposure Limits (PEL)",
-        "Sound Level Measurement",
-        "Hearing Protection Types",
-        "Noise Attenuation",
-        "Hearing Loss Prevention"
-      ],
-      "flashcardsFile": "flashcards-hearing-protection.js",
-      "enabled": true,
-      "slidesDownload": "downloads/osha-powerpoint-slides.zip"
-    },
-    {
-      "id": "material-handling",
-      "title": "Material Handling & Storage",
-      "description": "OSHA 10HR - Safe lifting, forklifts, cranes, rigging, slings, storage requirements",
-      "cardCount": 49,
-      "topics": [
-        "Safe Lifting Techniques",
-        "Forklift Operation",
-        "Crane Safety",
-        "Rigging & Slings",
-        "Material Storage",
-        "Waste Disposal"
-      ],
-      "flashcardsFile": "flashcards-material-handling.js",
-      "enabled": true,
-      "slidesDownload": "downloads/osha-powerpoint-slides.zip"
-    },
-    {
-      "id": "hand-power-tools",
-      "title": "Hand & Power Tools",
-      "description": "OSHA 10HR - Tool safety, guards, pneumatic, powder-actuated, abrasive wheels",
-      "cardCount": 51,
-      "topics": [
-        "Hand Tool Safety",
-        "Power Tool Types",
-        "Guarding Requirements",
-        "Abrasive Wheels",
-        "Pneumatic Tools",
-        "Powder-Actuated Tools",
-        "Jacks"
-      ],
-      "flashcardsFile": "flashcards-hand-power-tools.js",
-      "enabled": true,
-      "slidesDownload": "downloads/osha-powerpoint-slides.zip"
-    },
-    {
-      "id": "excavations",
-      "title": "Excavations & Trenching",
-      "description": "OSHA 10HR - Cave-ins, protective systems, shoring, sloping, competent person",
-      "cardCount": 26,
-      "topics": [
-        "Excavation Definitions",
-        "Cave-In Hazards",
-        "Protective Systems",
-        "Shoring & Sloping",
-        "Atmospheric Testing",
-        "Competent Person",
-        "Inspection Requirements"
-      ],
-      "flashcardsFile": "flashcards-excavations.js",
-      "enabled": true,
-      "slidesDownload": "downloads/osha-powerpoint-slides.zip"
+      "totalCards": 371,
+      "moduleCount": 11
     },
     {
       "id": "fire-awareness",
       "title": "Fire Awareness for Wind Turbines",
-      "description": "Fire safety for wind turbines - Fire tetrahedron, ignition sources, extinguishers, classifications, evacuation",
-      "cardCount": 43,
-      "topics": [
-        "Fire Tetrahedron",
-        "Wind Turbine Fire Hazards",
-        "Fire Statistics",
-        "NFPA 850 & OSHA Regulations",
-        "Ignition & Fuel Sources",
-        "Heat Transmission Methods",
-        "Fire Extinguishing Methods",
-        "Fire Classifications (A, B, C, D, K)",
-        "Fire Extinguisher Types",
-        "NFPA 10 Inspection",
-        "Active vs Passive Fire Protection",
-        "Fire Blankets",
-        "Evacuation Procedures"
+      "description": "Fire safety training specific to wind turbine operations and maintenance",
+      "slidesDownload": "downloads/fire-awareness-slides.zip",
+      "modules": [
+        {
+          "id": "fire-awareness",
+          "title": "Fire Awareness for Wind Turbines",
+          "description": "Fire safety for wind turbines - Fire tetrahedron, ignition sources, extinguishers, classifications, evacuation",
+          "cardCount": 43,
+          "topics": [
+            "Fire Tetrahedron",
+            "Wind Turbine Fire Hazards",
+            "Fire Statistics",
+            "NFPA 850 & OSHA Regulations",
+            "Ignition & Fuel Sources",
+            "Heat Transmission Methods",
+            "Fire Extinguishing Methods",
+            "Fire Classifications (A, B, C, D, K)",
+            "Fire Extinguisher Types",
+            "NFPA 10 Inspection",
+            "Active vs Passive Fire Protection",
+            "Fire Blankets",
+            "Evacuation Procedures"
+          ],
+          "flashcardsFile": "flashcards-fire-awareness.js",
+          "enabled": true
+        }
       ],
-      "flashcardsFile": "flashcards-fire-awareness.js",
-      "enabled": true,
-      "slidesDownload": "downloads/fire-awareness-slides.zip"
+      "totalCards": 43,
+      "moduleCount": 1
     },
     {
       "id": "signalperson",
-      "title": "Crane Signalperson",
-      "description": "NCCCO crane signalperson training - Hand signals, qualifications, safety, OSHA & ASME standards",
-      "cardCount": 44,
-      "topics": [
-        "Signalperson Qualifications",
-        "Crane Accident Causes",
-        "Roles & Responsibilities",
-        "OSHA 1926 Subpart CC",
-        "ASME B30.5 & B30.3 Standards",
-        "Overhead Power Line Safety",
-        "Work Area Control Zones",
-        "Lifting Principles",
-        "Center of Gravity & Drift",
-        "Two Blocking Prevention",
-        "Planning & Documentation",
-        "Voice Communication Protocols",
-        "Standard Hand Signals",
-        "Audible Signals"
+      "title": "Crane Signalperson Training",
+      "description": "NCCCO-compliant signalperson training for crane operations",
+      "slidesDownload": "downloads/signalperson-slides.zip",
+      "modules": [
+        {
+          "id": "signalperson",
+          "title": "Crane Signalperson",
+          "description": "NCCCO crane signalperson training - Hand signals, qualifications, safety, OSHA & ASME standards",
+          "cardCount": 44,
+          "topics": [
+            "Signalperson Qualifications",
+            "Crane Accident Causes",
+            "Roles & Responsibilities",
+            "OSHA 1926 Subpart CC",
+            "ASME B30.5 & B30.3 Standards",
+            "Overhead Power Line Safety",
+            "Work Area Control Zones",
+            "Lifting Principles",
+            "Center of Gravity & Drift",
+            "Two Blocking Prevention",
+            "Planning & Documentation",
+            "Voice Communication Protocols",
+            "Standard Hand Signals",
+            "Audible Signals"
+          ],
+          "flashcardsFile": "flashcards-signalperson.js",
+          "enabled": true
+        }
       ],
-      "flashcardsFile": "flashcards-signalperson.js",
-      "enabled": true,
-      "slidesDownload": "downloads/signalperson-slides.zip"
+      "totalCards": 44,
+      "moduleCount": 1
     }
   ],
   "settings": {
