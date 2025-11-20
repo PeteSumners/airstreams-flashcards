@@ -253,6 +253,115 @@
       ],
       "totalCards": 44,
       "moduleCount": 1
+    },
+    {
+      "id": "rigging",
+      "title": "Rigging Training",
+      "description": "Comprehensive rigging certification course covering OSHA & ASME standards",
+      "slidesDownload": "downloads/rigging-v2-slides.zip",
+      "modules": [
+        {
+          "id": "rigging",
+          "title": "Rigging Training",
+          "description": "Complete rigging training - NCCCO certification, slings, hitches, hardware, practices, and knots",
+          "cardCount": 75,
+          "topics": [
+            "NCCCO Rigger Levels I & II",
+            "OSHA & ASME Regulations",
+            "Working Load Limits (WLLs)",
+            "Sling Types & Materials",
+            "Design Factors & Safety",
+            "Hitch Configurations",
+            "Angle of Loading",
+            "Diameter of Curvature (D:d)",
+            "Fabrication Efficiency",
+            "Synthetic Web Slings",
+            "Alloy Steel Chain (Grade 120)",
+            "Wire Rope Construction",
+            "Metal Mesh Slings",
+            "Rigging Hardware",
+            "Safe Operating Practices",
+            "Shackles & End Fittings",
+            "Spreader Beams",
+            "Inspection & Rejection Criteria"
+          ],
+          "flashcardsFile": "flashcards-rigging.js",
+          "enabled": true
+        }
+      ],
+      "totalCards": 75,
+      "moduleCount": 1
+    },
+    {
+      "id": "capstan-hoist",
+      "title": "Capstan Hoist Operations",
+      "description": "Safe capstan hoist operation for telecommunications tower work",
+      "slidesDownload": "downloads/capstan-hoist-slides.zip",
+      "modules": [
+        {
+          "id": "capstan-hoist",
+          "title": "Capstan Hoist Operations",
+          "description": "Gate 2 training - ANSI A10.48, lifting devices, safe operations, rigging systems, and tagline configurations",
+          "cardCount": 98,
+          "topics": [
+            "ANSI A10.48 Rigging Guidelines",
+            "Lifting Devices (Gin Poles, Base Hoists, Capstan Hoists)",
+            "Capstan Features & Drive Trains",
+            "Electric Power Requirements",
+            "Inspection & Maintenance",
+            "Anchorages & Load Ratings",
+            "Rope Selection & Inspection",
+            "Load Side vs Pull Side",
+            "Working Load Limits (WLL)",
+            "Block Sheaves & Ratings",
+            "Tag Line Systems",
+            "Alignment & Operator Positioning",
+            "Communication & Hand Signals",
+            "Safe Operating Procedures",
+            "PPE Requirements"
+          ],
+          "flashcardsFile": "flashcards-capstan-hoist.js",
+          "enabled": true
+        }
+      ],
+      "totalCards": 98,
+      "moduleCount": 1
+    },
+    {
+      "id": "authorized-climber",
+      "title": "Authorized Climber",
+      "description": "Comprehensive tower climbing and fall protection training covering OSHA/ANSI regulations, PPE use, harness systems, climbing techniques, and rescue procedures for telecommunications tower workers",
+      "slidesDownload": "downloads/authorized-climber-1-5-slides.zip",
+      "modules": [
+        {
+          "id": "authorized-climber",
+          "title": "Authorized Climber",
+          "description": "Tower climbing certification covering fall protection, full body harness systems, climbing techniques, rescue procedures, and OSHA/ANSI compliance",
+          "cardCount": 168,
+          "topics": [
+            "OSHA 29 CFR 1926.501-503",
+            "ANSI Z359.11 Fall Protection",
+            "ANSI Z359.2 Hierarchy of Fall Protection",
+            "Full Body Harness Systems",
+            "Anchorage Systems & Connectors",
+            "Energy Absorbing Lanyards",
+            "Self Retracting Devices (SRD/SRL)",
+            "Vertical Lifelines & Rope Grabs",
+            "Horizontal Lifelines",
+            "Work Positioning Systems",
+            "Climbing Techniques & Best Practices",
+            "Rescue Procedures & ART Method",
+            "Suspension Trauma",
+            "PPE Inspection Requirements",
+            "Knots & Rope Work",
+            "Fall Clearance Calculations"
+          ],
+          "flashcardsFile": "flashcards-authorized-climber.js",
+          "enabled": true
+        }
+      ],
+      "totalCards": 168,
+      "moduleCount": 1
     }
   ],
   "settings": {
