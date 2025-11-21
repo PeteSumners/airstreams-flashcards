@@ -227,10 +227,11 @@
       "slidesDownload": "downloads/signalperson-slides.zip",
       "modules": [
         {
-          "id": "signalperson",
-          "title": "Crane Signalperson",
-          "description": "NCCCO crane signalperson training - Hand signals, qualifications, safety, OSHA & ASME standards",
+          "id": "signalperson-module-1",
+          "title": "Signalperson Module 1",
+          "description": "Introduction, qualifications, roles, and legal requirements - 44 slides",
           "cardCount": 44,
+          "slidesDownload": "downloads/signalperson-module-1-slides.zip",
           "topics": [
             "Signalperson Qualifications",
             "Crane Accident Causes",
@@ -238,21 +239,58 @@
             "OSHA 1926 Subpart CC",
             "ASME B30.5 & B30.3 Standards",
             "Overhead Power Line Safety",
-            "Work Area Control Zones",
+            "Work Area Control Zones"
+          ],
+          "flashcardsFile": "flashcards-signalperson.js",
+          "enabled": true
+        },
+        {
+          "id": "signalperson-module-2",
+          "title": "Signalperson Module 2",
+          "description": "Lifting principles and crane dynamics - 27 slides",
+          "cardCount": 44,
+          "slidesDownload": "downloads/signalperson-module-2-slides.zip",
+          "topics": [
             "Lifting Principles",
             "Center of Gravity & Drift",
             "Two Blocking Prevention",
+            "Boom Deflection",
+            "Crane Dynamics"
+          ],
+          "flashcardsFile": "flashcards-signalperson.js",
+          "enabled": true
+        },
+        {
+          "id": "signalperson-module-3",
+          "title": "Signalperson Module 3",
+          "description": "Planning meetings and communication - 29 slides",
+          "cardCount": 44,
+          "slidesDownload": "downloads/signalperson-module-3-slides.zip",
+          "topics": [
             "Planning & Documentation",
             "Voice Communication Protocols",
+            "Communication Best Practices"
+          ],
+          "flashcardsFile": "flashcards-signalperson.js",
+          "enabled": true
+        },
+        {
+          "id": "signalperson-module-4",
+          "title": "Signalperson Module 4",
+          "description": "Hand signals and practical evaluation - 22 slides",
+          "cardCount": 44,
+          "slidesDownload": "downloads/signalperson-module-4-slides.zip",
+          "topics": [
             "Standard Hand Signals",
-            "Audible Signals"
+            "Audible Signals",
+            "Final Exam & Practical Evaluation"
           ],
           "flashcardsFile": "flashcards-signalperson.js",
           "enabled": true
         }
       ],
       "totalCards": 44,
-      "moduleCount": 1
+      "moduleCount": 4
     },
     {
       "id": "rigging",
@@ -261,10 +299,11 @@
       "slidesDownload": "downloads/rigging-v2-slides.zip",
       "modules": [
         {
-          "id": "rigging",
-          "title": "Rigging Training",
-          "description": "Complete rigging training - NCCCO certification, slings, hitches, hardware, practices, and knots",
+          "id": "rigging-module-1",
+          "title": "Rigging Module 1",
+          "description": "Introduction, safety rules, slings, and hitches - 74 slides",
           "cardCount": 75,
+          "slidesDownload": "downloads/rigging-module-1-slides.zip",
           "topics": [
             "NCCCO Rigger Levels I & II",
             "OSHA & ASME Regulations",
@@ -273,13 +312,35 @@
             "Design Factors & Safety",
             "Hitch Configurations",
             "Angle of Loading",
-            "Diameter of Curvature (D:d)",
-            "Fabrication Efficiency",
-            "Synthetic Web Slings",
+            "Synthetic Web Slings"
+          ],
+          "flashcardsFile": "flashcards-rigging.js",
+          "enabled": true
+        },
+        {
+          "id": "rigging-module-2",
+          "title": "Rigging Module 2",
+          "description": "Chains, wire rope, and hardware - 58 slides",
+          "cardCount": 75,
+          "slidesDownload": "downloads/rigging-module-2-slides.zip",
+          "topics": [
             "Alloy Steel Chain (Grade 120)",
             "Wire Rope Construction",
+            "Diameter of Curvature (D:d)",
+            "Fabrication Efficiency",
             "Metal Mesh Slings",
-            "Rigging Hardware",
+            "Rigging Hardware"
+          ],
+          "flashcardsFile": "flashcards-rigging.js",
+          "enabled": true
+        },
+        {
+          "id": "rigging-module-3",
+          "title": "Rigging Module 3",
+          "description": "End fittings, spreader beams, shackles - 33 slides",
+          "cardCount": 75,
+          "slidesDownload": "downloads/rigging-module-3-slides.zip",
+          "topics": [
             "Safe Operating Practices",
             "Shackles & End Fittings",
             "Spreader Beams",
@@ -290,7 +351,7 @@
         }
       ],
       "totalCards": 75,
-      "moduleCount": 1
+      "moduleCount": 3
     },
     {
       "id": "capstan-hoist",
@@ -334,34 +395,71 @@
       "slidesDownload": "downloads/authorized-climber-1-5-slides.zip",
       "modules": [
         {
-          "id": "authorized-climber",
-          "title": "Authorized Climber",
-          "description": "Tower climbing certification covering fall protection, full body harness systems, climbing techniques, rescue procedures, and OSHA/ANSI compliance",
+          "id": "authorized-climber-module-1",
+          "title": "Authorized Climber Module 1",
+          "description": "Introduction and fall protection hierarchy - 38 slides",
           "cardCount": 168,
+          "slidesDownload": "downloads/authorized-climber-module-1-slides.zip",
           "topics": [
             "OSHA 29 CFR 1926.501-503",
             "ANSI Z359.11 Fall Protection",
             "ANSI Z359.2 Hierarchy of Fall Protection",
+            "Introduction to Fall Protection"
+          ],
+          "flashcardsFile": "flashcards-authorized-climber.js",
+          "enabled": true
+        },
+        {
+          "id": "authorized-climber-module-2",
+          "title": "Authorized Climber Module 2",
+          "description": "Full body harness and anchorage systems - 65 slides",
+          "cardCount": 168,
+          "slidesDownload": "downloads/authorized-climber-module-2-slides.zip",
+          "topics": [
             "Full Body Harness Systems",
             "Anchorage Systems & Connectors",
             "Energy Absorbing Lanyards",
             "Self Retracting Devices (SRD/SRL)",
+            "Fall Clearance Calculations"
+          ],
+          "flashcardsFile": "flashcards-authorized-climber.js",
+          "enabled": true
+        },
+        {
+          "id": "authorized-climber-module-3",
+          "title": "Authorized Climber Module 3",
+          "description": "Lifeline systems and climbing techniques - 83 slides",
+          "cardCount": 168,
+          "slidesDownload": "downloads/authorized-climber-module-3-slides.zip",
+          "topics": [
             "Vertical Lifelines & Rope Grabs",
             "Horizontal Lifelines",
             "Work Positioning Systems",
             "Climbing Techniques & Best Practices",
+            "PPE Inspection Requirements",
+            "Knots & Rope Work"
+          ],
+          "flashcardsFile": "flashcards-authorized-climber.js",
+          "enabled": true
+        },
+        {
+          "id": "authorized-climber-module-4",
+          "title": "Authorized Climber Module 4",
+          "description": "Rescue procedures and practical evaluation - 75 slides",
+          "cardCount": 168,
+          "slidesDownload": "downloads/authorized-climber-module-4-slides.zip",
+          "topics": [
             "Rescue Procedures & ART Method",
             "Suspension Trauma",
-            "PPE Inspection Requirements",
-            "Knots & Rope Work",
-            "Fall Clearance Calculations"
+            "Emergency Response",
+            "Practical Evaluation"
           ],
           "flashcardsFile": "flashcards-authorized-climber.js",
           "enabled": true
         }
       ],
       "totalCards": 168,
-      "moduleCount": 1
+      "moduleCount": 4
     }
   ],
   "settings": {
