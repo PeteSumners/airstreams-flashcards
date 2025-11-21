@@ -1,0 +1,224 @@
+Q: What OSHA regulation requires employers to train competent and qualified persons regarding rigging requirements?
+A: 1926.1430(d).
+
+Q: What does NCCCO stand for?
+A: National Commission for the Certification of Crane Operators.
+
+Q: What is NCCCO's mission?
+A: To develop effective performance standards for safe load handling equipment operation, to assist all segments of general industry and construction.
+
+Q: According to NCCCO, what is a certified rigger?
+A: A person who has been trained and certified to handle and move loads. The level of certification depends upon the individual's training, knowledge, skill base, and ability to perform functions related to the selection, inspection, and proper use of rigging equipment.
+
+Q: What are the key duties of a Rigger Level I according to NCCCO?
+A: Inspect rigging before use; identify, select, and attach rigging with basic knowledge of hitch configurations, capacities, and basic knots; recognize associated hazards; use various types of rigging equipment and basic hitches and their applications.
+
+Q: What additional capabilities does a Rigger Level II have beyond Level I?
+A: Estimate weight and center of gravity when calculations are required; identify lift points; determine and select rigging based on loading; perform pre-use inspection of rigging and lift points; identify, select, and attach rigging with knowledge of hitch configurations and load angle factors, rigging capacities, and load integrity; understand load dynamics and associated hazards.
+
+Q: What OSHA regulation covers rigging equipment for material handling?
+A: 29 CFR 1926 Subpart H - 1926.251 Rigging equipment for material handling.
+
+Q: What OSHA regulation covers overhead hoists?
+A: 29 CFR 1926 Subpart N - 1926.554 Overhead hoists.
+
+Q: What OSHA regulation covers cranes and derricks in construction?
+A: 29 CFR 1926 Subpart CC (Cranes & Derricks in Construction).
+
+Q: What are the main OSHA regulations under 29 CFR 1910 Subpart N related to rigging?
+A: 1910.179 Overhead & Gantry Cranes; 1910.180 Crawler, Locomotive, & Truck Cranes; 1910.184 Slings.
+
+Q: What ASME standard covers tower cranes?
+A: ASME B30.3-Tower Cranes.
+
+Q: What ASME standard covers mobile and locomotive cranes?
+A: ASME B30.5-2014 Mobile and Locomotive Cranes.
+
+Q: What ASME standard covers slings?
+A: ASME B30.9-2014 Slings.
+
+Q: What ASME standard covers hooks?
+A: ASME B30.10-2014 Hooks.
+
+Q: What ASME standard covers below-the-hook lifting devices?
+A: ASME B30.20-2018 Below-the-Hook Lifting Devices.
+
+Q: What ASME standard covers rigging hardware?
+A: ASME B30.26-2015 Rigging Hardware.
+
+Q: What is a sling?
+A: An assembly which connects the load to the lifting equipment.
+
+Q: What types of slings are covered by 1910.184 Safe Operating regulations?
+A: Slings made from alloy steel chain, wire rope, metal mesh, natural or synthetic fiber rope (conventional three strand construction), and synthetic web (nylon, polyester, and polypropylene).
+
+Q: What are the six factors that Working Load Limits (WLLs) are based on?
+A: Material strength, design factor, type of hitch, angle of loading, diameter of curvature (D/d), and fabrication efficiency.
+
+Q: What are the four main sling material types?
+A: Nylon, Polyester, Alloy Steel Chain, and Wire Rope.
+
+Q: What is the typical design factor (safety factor) for most slings?
+A: 5:1.
+
+Q: What does a design factor of 5:1 mean?
+A: 5 times more force than the working load limit must be applied to the sling before it fails.
+
+Q: Should you ever exceed the working load limit of a sling?
+A: Never exceed the working load limit regardless of the design factor!
+
+Q: What are the four main types of hitches according to ASME B30.9?
+A: Choker hitch, Vertical, Basket, and Wrapped Basket.
+
+Q: How does the type of hitch affect sling capacity?
+A: The type of hitch will determine the rated capacity of the sling being used.
+
+Q: How does the angle of loading affect sling stress?
+A: The smaller the angle, the more stress the slings will face.
+
+Q: If a sling has a vertical capacity of 1,000 lbs, what is its capacity at 60 degrees?
+A: 866 lbs.
+
+Q: If a sling has a vertical capacity of 1,000 lbs, what is its capacity at 45 degrees?
+A: 707 lbs.
+
+Q: If a sling has a vertical capacity of 1,000 lbs, what is its capacity at 30 degrees?
+A: 500 lbs.
+
+Q: What is the D:d ratio in rigging?
+A: The ratio between the diameter of a load versus the diameter of the sling being used (Diameter of curvature).
+
+Q: What is fabrication efficiency in rigging?
+A: How the sling is constructed will determine the capacities of what that sling is capable of accomplishing.
+
+Q: What are the two types of eye construction in synthetic slings?
+A: Flat Eye and Twisted Eye.
+
+Q: According to ASME B30.26, how should the screw pin be rigged in a choker hitch with shackle?
+A: The screw pin shall not be rigged in a manner that would cause the pin to unscrew.
+
+Q: When a shackle is used in a choker hitch, where shall the pin be connected?
+A: When shackle is used in a choker hitch, the pin shall be connected to the choking eye of the sling.
+
+Q: Can synthetic web slings be used to support suspended personnel platforms?
+A: No, not to be used to support suspended personnel platforms.
+
+Q: What is the maximum width of an object loaded in the eye of a synthetic web sling?
+A: Object in loaded in the eye of the sling cannot be wider than 1/3 of the eye.
+
+Q: What is the typical choker hitch capacity of a synthetic web sling as a percentage of vertical rating?
+A: Choker hitch typically has an 80% capacity of vertical, refer to manufacturer specifications.
+
+Q: Can the strength of synthetic webbing slings be affected by chemically active environments?
+A: Yes, the strength of synthetic webbing slings can be affected by chemically active environments.
+
+Q: What should you do regarding synthetic slings and chemical exposure?
+A: Contact sling manufacturer for details.
+
+Q: What is Grade 120 Chain?
+A: Grade 120 Chain is relatively new, lighter than Grade 80 Chain but 50% stronger, manufactured by PEWAG and easily identified by its blue color and angular links.
+
+Q: How much stronger is Grade 120 Chain compared to Grade 100 tie-downs?
+A: 20% stronger than Grade 100 tie-downs.
+
+Q: How much stronger is Grade 120 Chain compared to Grade 80 tie-downs?
+A: 50% stronger than Grade 80 tie-downs.
+
+Q: What is the choker rating of metal mesh slings as a percentage of vertical rating?
+A: Choker rating is 100% of vertical rating.
+
+Q: What is the design factor for metal mesh slings?
+A: Design Factor of 5/1.
+
+Q: What is rotation resistant wire rope commonly used for?
+A: This type of wire rope is commonly used on crane hoist and helps to stabilize loads.
+
+Q: Is rotation resistant wire rope used on crane hoists considered a sling or rigging hardware?
+A: Wire rope used for this application is considered rigging hardware as opposed to a wire rope sling.
+
+Q: What does "19 x 7" mean in wire rope construction?
+A: It indicates the number and arrangement of strands and wires in the rope construction.
+
+Q: How are rotation resistant wire ropes constructed to reduce rotation?
+A: Outer strands are formed by small wires, outer strands lay opposite direction of inner strands. Under load, outer strands and inner strands counteract, reducing tendency of rope to rotate.
+
+Q: What must slings used in a basket hitch have?
+A: Slings used in a basket hitch shall have the loads balanced to prevent slippage.
+
+Q: How shall slings be attached to their loads?
+A: Slings shall be securely attached to their loads with rigging equipment. Knots are not allowed.
+
+Q: How shall slings protect their loads from sharp edges?
+A: Slings shall be padded or protected from the sharp edges of their loads.
+
+Q: Where shall suspended loads be kept?
+A: Suspended loads shall be kept clear of all obstructions.
+
+Q: Who shall be kept clear of loads about to be lifted and of suspended loads?
+A: All employees shall be kept clear of loads about to be lifted and of suspended loads.
+
+Q: Can slings be shortened with knots or bolts?
+A: No, slings shall not be shortened with knots or bolts or other makeshift devices.
+
+Q: Can sling legs be kinked?
+A: No, sling legs shall not be kinked.
+
+Q: Can slings be loaded in excess of their rated capacities?
+A: No, slings shall not be loaded in excess of their rated capacities.
+
+Q: Where should hands or fingers not be placed during rigging operations?
+A: Hands or fingers shall not be placed between the sling and its load while the sling is being tightened around the load.
+
+Q: Is shock loading prohibited?
+A: Yes, shock loading is prohibited.
+
+Q: Can a sling be pulled from under a load when the load is resting on the sling?
+A: No, a sling shall not be pulled from under a load when the load is resting on the sling.
+
+Q: What is ductility?
+A: The physical property of being capable of sustaining large permanent changes in shape without breaking.
+
+Q: What is the ductility requirement for hooks?
+A: Hooks shall have sufficient ductility to permanently deform before losing the ability to support the load.
+
+Q: What are wire rope end fittings?
+A: Wire rope end fittings are vital components of wire rope assemblies that provide a secure and reliable connection between the wire rope and the load being lifted or securement point.
+
+Q: What materials are wire rope end fittings typically made from?
+A: These fittings are typically made from high-strength materials such as alloy steel and are designed to withstand the rigors of the application.
+
+Q: According to ASME B30.20, what identification requirements must spreader beams have?
+A: Manufacturer's name, serial number, rated load (WLL), and weight of the spreader beam if over 100 lbs (45kg).
+
+Q: Must a spreader beam's weight be deducted from the crane's lifting capacity?
+A: Yes, the spreader beams weight must be deducted from the cranes lifting capacity!
+
+Q: According to ASME B30.26, can multiple sling legs be applied to a shackle pin?
+A: No, multiple sling legs should not be applied to the shackle pin.
+
+Q: What is the reference page in the Klinke Rigging Handbook mentioned in the course?
+A: Page 238 (Pg 238).
+
+Q: This rigging course is written in accordance with what standards?
+A: OSHA and ASME standards for rigging practices.
+
+Q: What should you always do when choosing a sling material?
+A: Always consider the material's resistance to specific chemicals, temperature, and stretch capacities. Different material equals different strength.
+
+Q: What must you never exceed on a chain sling?
+A: Never exceed the working load limit of a chain sling.
+
+Q: What causes crushing on wire rope?
+A: Crushing on wire rope is caused by excessive pressure or pinching.
+
+Q: If you see a wire rope sling with reduction in diameter over a localized area, what should you do?
+A: Remove it from service - this indicates damage or defect.
+
+Q: What reference resource is students allowed to use during rigging exams?
+A: Students will be able to reference their Rigging Handbook to complete the rigging exams.
+
+Q: What types of exams will be given at the end of this rigging lesson?
+A: A written and a practical exam.
+
+Q: What are the performance objectives students should be able to demonstrate after this rigging course?
+A: Define responsibilities and safety rules for rigging and hoisting loads; accurately inspect, select, maintain, and reject rigging equipment and hardware; identify rigging hardware and slings along with defining their limitations; identify load ratings, safety factors, and stresses imposed by hoisting; calculate material load weights; identify capacities of rigging and attach the appropriate rigging with the correct hitch configuration.
