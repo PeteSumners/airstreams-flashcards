@@ -198,6 +198,7 @@
           "title": "Fire Awareness for Wind Turbines",
           "description": "Fire safety for wind turbines - Fire tetrahedron, ignition sources, extinguishers, classifications, evacuation",
           "cardCount": 43,
+          "slidesDownload": "downloads/fire-awareness-slides.zip",
           "topics": [
             "Fire Tetrahedron",
             "Wind Turbine Fire Hazards",
@@ -364,6 +365,7 @@
           "title": "Capstan Hoist Operations",
           "description": "Gate 2 training - ANSI A10.48, lifting devices, safe operations, rigging systems, and tagline configurations",
           "cardCount": 98,
+          "slidesDownload": "downloads/capstan-hoist-slides.zip",
           "topics": [
             "ANSI A10.48 Rigging Guidelines",
             "Lifting Devices (Gin Poles, Base Hoists, Capstan Hoists)",
